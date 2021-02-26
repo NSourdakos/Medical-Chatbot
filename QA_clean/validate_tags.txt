@@ -1,0 +1,2975 @@
+['carotid artery disease']
+"['crying', 'fear']"
+"['ultrasound', 'vagina']"
+"['marijuana', 'surgery', 'running', 'smoking', 'anesthesia']"
+"['stomach', 'throat', 'fever', 'swelling']"
+['drug overdose']
+['urinalysis']
+['boil']
+['exercise']
+"['running', 'bartholin cyst', 'vision', 'catheter', 'pain']"
+"['head', 'itch', 'hair loss']"
+"['pregnancy', 'period', 'sexual intercourse']"
+['urine analysis']
+"['herpes', 'vagina', 'pain', 'orgasm', 'bacterium']"
+"['birth control', 'pregnancy', 'stuffy nose']"
+"['vasectomy', 'genital herpes']"
+['shingles']
+['headaches']
+['itching and burn in the urethra']
+['baby miscarried']
+['anxiety']
+['health insurance']
+['birth control pill']
+"['food', 'shingles', 'chickenpox', 'vaccination']"
+['what kind of skin condition is this']
+['admitted to hospital with recurring stomach pains']
+['hair loss']
+['diarrhea']
+['immunization']
+['contraceptive pill']
+"['diarrhea', 'antibiotic']"
+"['blood pressure', 'exercise', 'dizziness']"
+"['birth control', 'pregnancy', 'period', 'baby']"
+['stabbing pain arm is numbing']
+"['marijuana', 'surgery', 'running', 'smoking', 'anesthesia']"
+[]
+"['swelling', 'poisoning']"
+['injection']
+"['leg', 'back pain']"
+"['head', 'cough', 'pain', 'sinus infection']"
+"['vasectomy', 'sperm', 'reaction']"
+['drug']
+[]
+"['bipolar', 'generalized anxiety disorder (gad)']"
+"['rash', 'dry skin', 'itch']"
+['protein']
+"['stomach', 'tooth', 'fear', 'juice', 'lemon']"
+['condom']
+[]
+"['period', 'nausea']"
+['pregnancy']
+['period']
+"['pregnancy', 'first trimester']"
+['poison ivy']
+"['sting', 'stomach', 'antibiotic', 'sinus infection']"
+['eyes']
+"['dizziness', 'walking', 'drinking']"
+['supplement']
+"['hysterectomy', 'burn', 'sciatica']"
+[]
+['hair']
+"['flu', 'hair', 'baldness']"
+['drug overdose']
+"['protein', 'yogurt', 'exercise']"
+"['stomach', 'virus', 'vomit', 'diarrhea', 'nausea']"
+"['osteoarthritis', 'hand', 'thumb', 'physical therapy', 'exercise']"
+"['insulin', 'diet', 'exercise']"
+['affordable care act']
+"['pregnancy', 'sinus']"
+['100% deaf in my right ear hypothyroidism pain in hands and feet']
+['hepatitis c']
+"['vomit', 'cough']"
+"['period', 'trauma', 'pregnancy']"
+['broke my left clavicle']
+[]
+[]
+['blood pressure']
+"['wart', 'plantar wart']"
+"['stomach', 'migraine', 'constipation', 'drug']"
+"['pressure', 'smoking', 'quit smoking']"
+['i had mild pitting edema']
+['root canal treatment']
+"['intra-vaginal ultrasound', 'ultrasound abdominal vessels procedure']"
+"['grains', 'fruit']"
+[]
+['cyst on ovary']
+"['doctor and i disagree', 'knee pain']"
+['bedbug']
+['heartburn']
+"['toddler', 'food', 'croup', 'flu', 'baby']"
+['vaginal area is swollen']
+"['movement', 'toddler', 'night terror']"
+"['heart attack', 'diabetes', 'exercise', 'diet']"
+"['allergy', 'hay fever', 'cough', 'over the counter', 'runny nose']"
+['oral hygiene maintenance']
+"['ankle', 'foot', 'head', 'leg', 'antibiotic']"
+"['muscle freeze', 'muscles spasms']"
+"['anxiety', 'depression']"
+"['pregnancy', 'pregnancy test', 'period', 'spotting', 'stomach']"
+"['high cholesterol', 'exercise']"
+"['antibiotic', 'h. pylori', 'stomach', 'pain', 'diarrhea']"
+"['type 2 diabetes', 'blood sugar']"
+['acne']
+"['pregnancy', 'drinking', 'castor oil']"
+['drug overdose']
+"['i ended up in accident & emergency with tonsillitis', 'should i have surgery']"
+['reduce weight']
+['bedbug']
+[]
+"['cold', 'flu', 'diabetes', 'coldness']"
+['penicillin']
+"['stress', 'vision']"
+"['heart', 'cough', 'coldness', 'blood pressure', 'pulse']"
+['something wrong with my lungs']
+['miscarriage twin babies']
+['yogurt']
+[]
+"['pregnancy', 'period']"
+"['allergy', 'ibuprofen', 'fever']"
+[]
+"['mole', 'grayness', 'dry skin']"
+"['smell', 'mucus', 'burn', 'inflammation', 'vagina']"
+"['pain', 'walking', 'vomit', 'nausea']"
+"['drug overdose', 'insulin']"
+"['uterus', 'electrogastrogram', 'birth control pill']"
+"[""parkinson's disease""]"
+['cold']
+['mild leukopenia. relative lymphocytosis with few reactive lymphocytes']
+['my baby is growing too slow']
+"['coldness', 'cold', 'pregnancy', 'head', 'throat']"
+"['jaw', 'movement', 'mouth']"
+"['depression', 'pregnancy']"
+['low blood pressure']
+"['insulin', 'weight loss']"
+['back pain in lower back. it hurts when i cough']
+"['period', 'pregnancy', 'spotting']"
+"['colon', 'panic attack', 'anxiety']"
+['heart disease']
+['toxoplasmosis']
+['smoking']
+['vaccine side effects']
+[]
+"['diarrhea', 'blood clot']"
+['smoking']
+"['pregnancy', 'fallopian tube']"
+"['pain', 'penis', 'swelling', 'hernia']"
+"['period', 'pregnancy']"
+"['smoking', 'surgery']"
+['fertility']
+['could this be lymphoma?']
+['blood pressure']
+"['pregnancy', 'breast', 'pregnancy test', 'birth control']"
+"['cartilage', 'piercing']"
+"['arm', 'elbow', 'finger', 'hand', 'injection']"
+[]
+"['anxiety', 'borderline personality disorder', 'movement', 'pain']"
+['heartburn']
+"['exercise', 'rehabilitation', 'chronic obstructive pulmonary disease']"
+"['hives', 'arm', 'chest']"
+['height']
+['anxiety']
+"['eyes', 'nose', 'pressure', 'ears', 'insurance']"
+"['medicaid', 'alabama']"
+['wisdom tooth']
+"['chickenpox', 'virus']"
+"['vaccination', 'cough', 'whooping cough', 'coldness', 'burn']"
+"['chalazion', 'sty', 'eyelid', 'lump']"
+"['pulmonary disease internal medicine', 'spirometry']"
+['multiple kidney and urine infections']
+"['tonsillectomy', 'drinking', 'throat', 'fever', 'flu']"
+['allergy']
+"['stomach', 'acetaminophen', 'crying', 'baby', 'feeding']"
+"['sexual intercourse', 'sexually transmitted disease', 'pregnancy', 'baby', 'chlamydia']"
+['chronic mucus head cold symptoms']
+[]
+"['acne', 'nose', 'forehead', 'shoulder', 'skin']"
+"['hernia', 'penis', 'surgery', 'pain']"
+['pain']
+"['pregnancy', 'sweating', 'vagina', 'penis', 'ejaculation']"
+['for over a year my urine has smelled of sulphur']
+['celiac disease']
+"['swelling', 'itch']"
+"['period', 'nipple', 'pregnancy', 'milk', 'bloating']"
+['severe nerve pain']
+['hamburger']
+"['crying', 'painkiller']"
+"['lupus', 'polyarteritis nodosa']"
+"['cause pulmonary hypertension?', 'diagnosed with central sleep apnea']"
+"['pain', 'kidney stone']"
+['my little boy has stomach pain']
+"['bedbug', 'fiber']"
+"['fish', 'oil', 'over the counter']"
+['65 year old male with cervical spine (neck) pain']
+"['sexual intercourse', 'genital herpes', 'herpes', 'vagina', 'confusion']"
+['anxiety']
+"['birth control', 'birth control pill', 'period', 'pregnancy', 'sexual intercourse']"
+['crying']
+"['sodium', 'vitamin']"
+['diagnosed with patella alta ratio 1.7']
+['i had pneumonia']
+"['pregnancy', 'pregnancy test']"
+"['corpulence', 'weight']"
+['reconstruction surgeries']
+"['amoxicillin', 'acne', 'antibiotic']"
+['lupus']
+['retina']
+['b-blocker for palpitations']
+"['allergy', 'arm', 'lymph node', 'swelling', 'sinus infection']"
+"['lupus', 'drug']"
+['food']
+['cystocele rectocele entereocele rectal prolapse']
+"['ankle', 'foot', 'skin', 'coldness', 'insurance']"
+"['antibiotic', 'birth control pill']"
+"['stomach', 'protein', 'surgery', 'weight loss']"
+['exercise']
+[]
+"['nausea', 'ginger', 'drug']"
+"['red bumps', 'then swelling turned in to blistering']"
+['anxiety']
+"['high blood pressure', 'artery', 'cholesterol', 'exercise stress test', 'fear']"
+"['period', 'short stature', 'pregnancy', 'cramps']"
+['seizure']
+['skin']
+"['sexual intercourse', 'conception', 'condom']"
+"['arm', 'insurance', 'spider bite']"
+[]
+"['acne', 'skin']"
+"['sexual intercourse', 'hymen']"
+"['antibiotic', 'allergy', 'steroid', 'burn', 'pain']"
+"['osteoarthritis', 'drug']"
+['premature ventricular contractions (pvcs)']
+"['period', 'headache', 'nausea', 'dizziness', 'weakness']"
+[]
+"['penis', 'muscle', 'exercise']"
+"['detached rotator cuff but suffers from heart problems and taking medication', 'interactions between cbd supplements (for pain relief) vs bisoprolol', 'ramipril and apixiban.']"
+"['pregnancy', 'pregnancy test', 'injection', 'vertigo', 'lightheadedness']"
+"['ultrasound', 'sperm', 'pregnancy']"
+"['food allergy', 'drug']"
+"['nausea', 'vomit']"
+['lymphedema']
+[]
+['folic acid']
+"['vagina', 'burn']"
+"['testicular cancer', 'testosterone', 'prostate cancer', 'waist', 'weight']"
+['i underwent vaginal septum removal']
+"['pregnancy', 'arm']"
+"['period', 'height']"
+['pregnancy']
+[]
+['iron']
+"['lightheadedness', 'fear', 'sweating', 'coldness', 'exercise']"
+['lupus']
+['diabetes']
+"['anxiety', 'panic attack']"
+"['rash', 'workout', 'poison ivy']"
+['coldness']
+"['swine flu', 'vaccination', 'virus']"
+"['infertility', 'prostatectomy', 'condom', 'pregnancy']"
+['stabbing chest pains']
+['repetitive doses of rabipur vaccine']
+['cholecystectomy']
+[]
+['i have concussion non stop headache']
+"['pain', 'muscle']"
+"['flu', 'injection']"
+['should a cortisone injection be done without ultra sound guidance']
+['heartburn']
+['diagnosed with colon cancer']
+['exercise']
+"['type 2 diabetes', 'obesity']"
+['parathyroids on my aortic arch']
+[]
+"['ejaculation', 'chest', 'pregnancy', 'sexual intercourse']"
+"['hives', 'breastfeed']"
+['tuberculosis']
+['i have a very swollen and painful finger.']
+[]
+"['hand', 'thigh', 'wrist', 'rash', 'reaction']"
+"['incontinence', 'surgery', 'prostate cancer']"
+['penis']
+['pregnancy']
+"['honey', 'coffee']"
+"['swine flu', 'injection']"
+['burn']
+"['protein', 'gout', 'food']"
+"['flu', 'pregnancy']"
+[]
+"['pain', 'vision', 'insurance']"
+['tore a rotator cuff']
+"['vagina', 'smell', 'corpulence', 'weight', 'bladder']"
+"['chest', 'lithium', 'over the counter']"
+['congestive heart failure']
+[]
+"['finger', 'virus']"
+['daughter just developed this sore/rash']
+"['pregnancy', 'blood pressure', 'hand', 'foot', 'swelling']"
+"['hypoglycemia', 'headache', 'lightheadedness', 'dizziness', 'walking']"
+[]
+"['eyelid', 'mouth', 'skin']"
+[]
+"['pregnancy', 'period', 'sexual intercourse', 'condom', 'confusion']"
+"['congestive heart failure', 'drug']"
+"['drinking', 'fever', 'smoking']"
+"['spasm', 'muscle', 'multivitamin', 'naproxen', 'back pain']"
+[]
+"['penis', 'skin', 'rash', 'hydrocortisone']"
+[]
+"['ibuprofen', 'drug']"
+"['period', 'pregnancy test', 'pregnancy']"
+['abnormal blood results']
+['osteoarthritis']
+"['skin', 'fever', 'running']"
+['spots and rashes all over my stomach and back']
+['acne']
+['sex reassignment surgery']
+"['pain', 'walking', 'fever']"
+['hair']
+"['anxiety', 'weight', 'exercise']"
+['specks of blood on face']
+['small herniated disk c5c6']
+"['mammogram', 'self-exam']"
+"['marijuana', 'surgery', 'smoking', 'spine']"
+"['breast', 'swelling', 'tenderness', 'lump', 'burn']"
+['sunscreen']
+['lost toe nail']
+[]
+"['weakness', 'erection', 'sperm', 'pregnancy']"
+['chronic pain between shoulders']
+"['wrist pain', 'wrist', 'pain', 'anger', 'skin']"
+['genital herpes']
+"['i am a 21 year old female', 'previously diagnosed with bipolar disorder']"
+['hair loss']
+['family']
+['antibiotics']
+"['rheumatic fever', 'strep throat']"
+['prostate cancer']
+"['circumcision', 'baby']"
+"['diarrhea', 'vision', 'antibiotic', ""traveler's diarrhea""]"
+"['hernia', 'syphilis', 'cancer', 'leg', 'testicle']"
+"['acne', 'whitehead']"
+['body is swelling']
+['pregnancy']
+['insurance']
+['type 1 diabetes']
+"['hand', 'thigh', 'wrist', 'rash', 'reaction']"
+"['mole', 'tightness', 'pressure']"
+['is aps therapy good']
+[]
+['vaginal bleeding']
+"['pregnancy', 'birth', 'period']"
+"['period', 'pregnancy']"
+"['weight', 'fish', 'meat', 'diet', 'weight loss']"
+"['knee', 'dislocation']"
+['health insurance']
+"['tooth', 'baby']"
+['i am thinking of taking a hangover prevention pill']
+['coldness']
+['collarbone']
+"['allergy', 'drug']"
+[]
+"['burn', 'second degree burn', 'finger']"
+"['breast', 'stomach', 'surgery', 'nausea', 'bloating']"
+"['headache', 'ears', 'disorientation', 'pain']"
+"['thyroiditis', 'pregnancy']"
+"['pregnancy', 'birth control', 'birth control pill', 'morning sickness', 'hunger']"
+"[""i've been suffering from very hard persistent re flux""]"
+"['oral herpes', 'genital herpes']"
+"['sleep apnea', 'heart']"
+"['bowel movement', 'infant', 'birth']"
+"['penis', 'foreskin', 'head', 'tightness']"
+"['period', 'morning sickness', 'pregnancy', 'breast', 'tubal ligation']"
+"['ears', 'ear infection']"
+"['orange', 'pepper', 'kidney stone']"
+['swollen hard stomach']
+['stomach aches']
+['anxiety']
+"['period', 'pregnancy test', 'pregnancy', 'ejaculation']"
+"['pregnancy', 'pregnancy test']"
+['drug reaction to cefdinir lost 30 pounds']
+"['exposure', 'baldness']"
+['lupus']
+['i have had blood done by the doctor in october who told me liver and kidney function were all normal']
+['shoulder']
+"['diabetes', 'vision']"
+[]
+['injection']
+[]
+['hiv infection']
+[]
+['shingles']
+['i am pregnant and having severe back pain']
+"['herpes simplex', 'virus']"
+"['pregnancy', 'birth control', 'period', 'bloating', 'stomach']"
+"['pregnancy', 'drinking', 'diarrhea', 'vomit', 'coldness']"
+"['lump', 'throat', 'mucus']"
+[]
+[]
+"['chest', 'pain', 'smoking']"
+[]
+['numbness in hands and legs']
+"['drinking', 'high blood pressure', 'eyes', 'cholesterol', 'corpulence']"
+"['insulin', 'injection']"
+"['arthritis', 'fracture', 'hand', 'surgery', 'healing']"
+[]
+['oatmeal']
+['rheumatoid arthritis']
+"['sperm', 'pregnancy']"
+"['arm', 'rash', 'plant', 'poison ivy', 'pets']"
+"['pregnancy', 'mouth', 'baby']"
+"['nervousness', 'vision', 'pork', 'parasite', 'bacterium']"
+"['""cannabis episode"" that really scared me']"
+['multiple sclerosis']
+['hepatitis c']
+['drug overdose']
+['forgot to take the eye drops']
+[]
+"['erection', 'condom', 'masturbation']"
+[]
+['congestive heart failure']
+['exercise']
+"['testosterone', 'drowsiness', 'fatigue', 'height', 'weight']"
+"['pregnancy', 'uterus']"
+"['aches', 'and blue veins', 'i am experiencing', 'joint pain', 'swollen feet']"
+"['eyes', 'migraine', 'headache', 'photosensitivity']"
+"['headache', 'eyes', 'head', 'vision', 'pain']"
+[]
+"['urination', 'fever', 'nausea', 'vomit']"
+['pap test']
+"['burn', 'ears', 'eardrum', 'amoxicillin', 'ear drum']"
+"['sinus infection', 'vision']"
+"[""i'm getting these big bumps the inside of my belly""]"
+['antibiotic']
+"['anxiety', 'panic attack', 'drug', 'nervousness']"
+[]
+[]
+[]
+[]
+['could i have breast cancer?']
+['feeling discomfort in chest']
+"['height', 'weight', 'toddler']"
+['food']
+"['burn', 'eyes']"
+"['shingles', 'baby']"
+"['sushi', 'taste', 'diarrhea', 'stomach', 'nausea']"
+"['birth control', 'period', 'pregnancy', 'ejaculation']"
+[]
+[]
+['potassium']
+"['sore', 'poison ivy']"
+['amoxicillin']
+"['vinegar', 'hair loss']"
+['hair']
+['menstrual cycle and low iron']
+"['medicare', 'health insurance', 'affordable care act', 'medicaid', 'health insurance exchange']"
+[]
+"['drinking', 'bipolar disorder', 'vision']"
+"['burn', 'belly button', 'stomach', 'x-ray', 'blood test']"
+['genetic inheritance']
+"['drinking', 'soda', 'meal', 'hunger']"
+"['condom', 'period']"
+['mucus green diarrhea']
+"['allergic reaction', 'condom']"
+"['ibuprofen', 'acetaminophen', 'fever', 'temperature', 'autoimmune disorder']"
+"['ringworm', 'skin']"
+"[""paget's disease"", 'drug']"
+['vagina']
+['bladder reconstructive surgery']
+[]
+[]
+['cataract']
+"['pregnancy', 'cervix', 'baby']"
+['type 1 diabetes']
+['pregnancy']
+"['fever', 'nose', 'strep throat', 'headache', 'runny nose']"
+"['sexual intercourse', 'head', 'penis']"
+['chronic obstructive pulmonary disease (copd) and erectile dysfunction (ed)']
+"['exercise', 'diet']"
+['boils all over my scalp']
+['burning sensations on my chest']
+"['injection', 'arm', 'postpartum depression', 'pneumonia', 'elbow']"
+['gastric problems with itching and breathing problems']
+"['ringworm', 'scalp']"
+"['sprain', 'ankle']"
+['injection']
+"['period', 'stress', 'baby', 'condom']"
+"['yeast', 'plaque']"
+"['lip', 'scar', 'coldness', 'cold sore', 'healing']"
+"['puncture wound', 'bruise', 'forearm', 'lump']"
+['tetanus']
+[]
+['my tongue mouth and back of throat are dry']
+['2 endometrial biopsy-both came negative']
+['atherosclerosis']
+"['pregnancy', 'ears', 'sinus', 'drainage', 'pain']"
+"['bronchitis', 'pneumonia']"
+[]
+"['immune system', 'baby', 'bacterium', 'pneumonia', 'ears']"
+['swelling']
+"['herpes', 'fear']"
+"['migraine', 'menstrual']"
+"['sore throat', 'throat', 'confusion', 'virus', 'pain']"
+"['ejaculation', 'urination', 'pregnancy', 'stress']"
+['i have fibromyalgia and osteoarthritis']
+['pregnancy']
+"['lumbar spinal stenosis', 'leg', 'pain']"
+['cough']
+"['erection', 'penis']"
+"['baby', 'pregnancy']"
+['contraceptive implant']
+['chest pains']
+"['tooth', 'grayness']"
+"['caffeine', 'drug test', 'migraine']"
+[]
+['leg and body spasms']
+['lupus']
+"['kidney failure', 'dialysis', 'high blood pressure', 'marijuana', 'short stature']"
+"['period', 'fertility']"
+"['yeast infection', 'urinary tract infection', 'drinking', 'cranberry', 'juice']"
+"['heart disease', 'cholesterol', 'weight', 'family']"
+['fever']
+"['urination', 'circumcision']"
+"['proton pump inhibitor', 'drug']"
+[]
+[]
+"['breast', 'nipple', 'vision', 'puffiness', 'gynecomastia']"
+['double vision']
+['gonorrhea']
+"['pelvic area', 'nausea', 'vision', 'pain', 'back pain']"
+"['amoxicillin', 'sore throat', 'cough', 'runny nose', 'cold']"
+"['anxiety', 'weight', 'exercise']"
+"['yeast infection', 'pregnancy']"
+"['arthritis', 'foot', 'weight']"
+"['toe', 'weight']"
+['i had a small swelling in the right breast']
+"['yeast infection', 'sweating', 'exercise']"
+"['pregnancy', 'omega-3', 'supplement']"
+['baby']
+"['peanut', 'consumption', 'allergy', 'reaction', 'nausea']"
+['weight gain']
+"['cancer', 'chemo therapy', 'nodule in lung', 'pneumonectomy']"
+['low blood pressure']
+"['sperm', 'tampon', 'hand', 'pregnancy']"
+"['burn', 'belly button', 'stomach', 'x-ray', 'blood test']"
+"[""do i have cushing's syndrome""]"
+"['drug overdose', 'thyroid']"
+"['cough', 'over the counter']"
+[]
+"['allergy', 'burn', 'eyes', 'swelling']"
+[]
+['hypothyroidism']
+"['eyes', 'vision', 'headache', 'head']"
+[]
+['atherosclerosis']
+['gastroenteritis']
+['i have seizures taking ant-seizure medication']
+['my hand showed tendinitis and atherosclerotic calcification']
+['pregnant pink discharge']
+['genital herpes']
+['varicocele microsurgery']
+"['coldness', 'cold', 'throat', 'runny nose', 'ears']"
+['radiologist suggested there is caudal regression syndrome']
+['ejaculation']
+[]
+['constipation diarrhea bloating intense stomach pain']
+"['hair', 'lip', 'surgery']"
+"['drug', 'insurance']"
+"['graft', 'surgery']"
+"['drug overdose', 'kidney failure', 'throat', 'tightness', 'temperature']"
+"['dog', 'pink eye']"
+['pregnancy']
+['pregnancy']
+"['headache', 'buttocks', 'eyes', 'fever', 'rash']"
+['atopic dermatitis']
+"['pea', 'lump', 'anus', 'skin']"
+['fingernail']
+['arms have fallen asleep']
+"['ears', 'pain']"
+[]
+['cervical cancer']
+['tooth and gum pain']
+['vitamin']
+['cataract']
+"['bipolar disorder', 'abruptly', 'bipolar', 'about bipolar disorder', 'anger outbursts', 'anger disorder', 'anger and bipolar disorder', 'bipolar disorder']"
+"['wound', 'foot', 'skin', 'thumb', 'wine']"
+[]
+"['reaction', 'lip', 'burn']"
+['eye examination']
+['electrogastrogram']
+"['cramps', 'diarrhea', 'fatigued', 'mild constipation', 'mild headache', 'mild nausea', 'stomach pain']"
+"['pregnancy', 'essential tremor', 'drug']"
+['medicare']
+"['sexual intercourse', 'ejaculation', 'birth control', 'condom', 'birth control pill']"
+"['abortions', 'abort', 'abortion debate', 'complications', 'medications', 'medication', 'pregnant', 'woman', 'abortion complications', 'abortion surgical', 'abortion debate']"
+"['stomach', 'pain', 'cramps', 'baby', 'spotting']"
+"['skin', 'radiation surgery']"
+"['coldness', 'trigger finger']"
+"['i have found on my right shin a ""rash""']"
+"['marijuana', 'blood test']"
+"['h. pylori', 'halitosis']"
+['basal cell carcinoma']
+"['vitamin c', 'infant formula']"
+"['period', 'pregnancy test', 'pregnancy', 'spotting', 'ovulation']"
+['numbness']
+"['sexually transmitted disease', 'trichomoniasis']"
+"['urination', 'heart', 'asthma', 'anxiety']"
+[]
+"['period', 'pregnancy']"
+['infertility']
+['my hand showed tendinitis and atherosclerotic calcification']
+"['torn anterior cruciate ligament', 'torn lateral collateral ligament']"
+"['period', 'flu', 'newborn']"
+"['ears', 'pink eye', 'vision']"
+['white growth in throat']
+['low blood pressure']
+[]
+"['i feel like doing nothing', 'no drive', 'no energy']"
+['pregnancy']
+['was told i had rbc (red blood cell count)deficiency']
+"['vagina', 'condom', 'pregnancy']"
+['shingles']
+"['period', 'pregnancy']"
+"['period', 'baby', 'wound']"
+['menstrual cycle']
+"['cervical cancer', 'herpes', 'grief']"
+['hepatitis c']
+['osteoarthritis']
+['how long should i wait after i stop taking valtrex to nurse?']
+"['fasciitis', 'pain', 'exercise']"
+"['ears', 'vision']"
+[]
+[]
+"['ankle', 'foot', 'knee', 'toe', 'knee pain']"
+"['cervix', 'discectomy', 'exercise', 'surgery', 'walking']"
+['throbbing on my right temple']
+['ibuprofen']
+"['drinking', 'baby', 'juice']"
+"['arthritis', 'arm', 'cervix']"
+"['sexual intercourse', 'period', 'pregnancy', 'electrogastrogram', 'ovulation']"
+['injury']
+"['delusions', 'running', 'biopsy', 'fever', 'period']"
+"['prostate cancer', 'cancer', 'testicle']"
+"['sexual intercourse', 'pregnancy', 'ovulation']"
+['exercise']
+"['sushi', 'diet']"
+['coughing everyday non-stop']
+[]
+"['nicotine', 'smoking']"
+['methicillin resistant staphylococcus aureus']
+['hair loss']
+"['atopic dermatitis', 'baby']"
+"['vision', 'urinalysis', 'antibiotic']"
+"['diabetes', 'height', 'weight', 'premature ejaculation', 'supplement']"
+"['atopic dermatitis', 'infant']"
+"['meat', 'smoking']"
+"['anxiety', 'suicide', 'bipolar disorder', 'nausea', 'fear']"
+['exercise']
+"['herpes', 'transfusion']"
+['spot in chest x ray']
+"['neck', 'pneumonia', 'antibiotic', 'asthma']"
+['atopic dermatitis']
+"['calcium', 'supplement', 'healing', 'broken bone', 'hand']"
+['pink eye']
+"['hypothyroidism', 'vision']"
+"['i have stiff neck', 'meningitis']"
+['ligaments that tore']
+"['penis', 'skin', 'blister']"
+"['burn', 'eyes', 'foot', 'leg', 'walking']"
+['weight gain']
+"['pregnancy', 'fetus']"
+[]
+['tmj']
+"['flu', 'ears', 'nose']"
+['diabetes']
+"['ejaculation', 'masturbation', 'exercise', 'diet']"
+['epilepsy']
+"['pregnancy', 'anus']"
+"['burn', 'weight', 'food', 'meal', 'cooking']"
+"['blood pressure', 'hydrocodone']"
+"['ulcerative colitis', 'bowel movement', 'endoscopy', 'colonoscopy']"
+['angiography']
+[]
+['infertility']
+"['neck', 'vertebra', 'shoulder', 'head', 'pain']"
+"['dog', 'congestive heart failure', 'weight gain', 'weight', 'chest']"
+"['aids', 'medicare']"
+['sever rib pains on both side']
+['hiv and aids testing']
+['medicare']
+"['baby', 'dog']"
+"['exercise', 'diet']"
+[]
+['allergy']
+"['breast cancer', 'breast', 'cancer', 'radiation therapy', 'radiation', 'surgery', 'ulcer', 'chemo', 'loss', 'radiation therapy for cancer', 'breast cancer']"
+['i have rash spreading through my body']
+"['fish', 'oil']"
+"['vision', 'bedbug', 'swelling']"
+['abdominal pain that feels like pancreatitis']
+"['prostate cancer', 'clinical trials']"
+[]
+"['ears', 'pressure', 'tinnitus']"
+['dentist gave me epinephrine anesthetic']
+['fexofenadine']
+['sexual intercourse']
+['penicillin']
+"['sexual intercourse', 'cold']"
+['insurance']
+['hormone']
+['anterlothesis of l4 on l5 do i need surgery']
+"['pacemaker', 'infection']"
+"['pregnancy', 'miscarriage', 'chlamydia', 'fertility']"
+"['stomach', 'angioplasty', 'blood pressure', 'meal', 'drug']"
+"['fevers light-headed', 'headaches', 'post-traumatic stress disorder (ptsd)']"
+[]
+['bipolar disorder']
+"['blocked nose', 'difficulty breathing', 'runny nose', 'teary eyes']"
+[]
+['guillain barre syndrome']
+"['hives', 'toe', 'lightheadedness', 'dizziness', 'swelling']"
+[]
+['fibromyalgia']
+"['obesity', 'weight', 'exercise', 'diet', 'family']"
+['heterotopic ossification']
+"['pregnancy', 'throat', 'tonsil', 'swelling', 'coldness']"
+['grand mal seizure']
+['tooth']
+['pregnancy']
+"['leg', 'cramps', 'sweating', 'flu', 'piercing']"
+['amoxicillin']
+"['cervical mucus', 'infertility']"
+[]
+[]
+[]
+"['anus', 'fistula', 'pressure', 'healing', 'drainage']"
+[]
+[]
+"['diarrhea', 'diet', ""traveler's diarrhea""]"
+['tracheotomy']
+['tubal ligation']
+['wrist fracture']
+"['flu', 'hiv', 'mononucleosis', 'infection']"
+['baby']
+['bipolar disorder']
+['chlamydia']
+[]
+['i have itchy water blisters']
+"['urination', 'bowel movement', 'drinking', 'fever', 'milk']"
+"['yeast', 'yeast infection', 'rash', 'diaper rash']"
+"['marijuana', 'epilepsy']"
+"['smoking', 'marijuana', 'stomach']"
+"['wound', 'neck', 'shoulder', 'puffiness']"
+"['shingles', 'chickenpox']"
+"['urination', 'prostatitis', 'anti-inflammatory', 'cancer']"
+['congestive heart failure']
+"['mouth', 'pain']"
+"['pain', 'shingles', 'skin']"
+['heart ecg']
+"['toddler', 'emergency room']"
+['tooth']
+"['high blood pressure', 'bruise', 'diabetes', 'eyes', 'jaw']"
+"['height', 'period']"
+"['spondylolisthesis', 'exercise']"
+"['hemorrhoid', 'ibuprofen', 'colonoscopy', 'fear', 'pain']"
+[]
+['i am pregnant and having severe back pain']
+"['cholesterol', 'prostate', 'surgery', 'blood pressure', 'diet']"
+['bipolar disorder']
+['aspiration']
+['best times to become pregnant']
+['suboccipital surgery']
+"['and mmr vaccines now can barely move', 'chicken pox', 'dtap', 'polio']"
+[]
+['cancer']
+"['arm', 'breast', 'skin']"
+['pregnancy']
+"['swallow', 'ejaculation']"
+"['human papillomavirus', 'pap test']"
+"['cramps', 'having period trouble', 'separate hymen']"
+['i had a radiofrequency surgery done']
+['fainted 3 times why']
+"['baby', 'virus']"
+['i had mild pitting edema']
+[]
+['i had facial paralysis']
+"['penis', 'erection', 'smoking']"
+"['anxiety', 'depression', 'insurance']"
+['acne']
+"['tongue', 'diarrhea', 'rash', 'nausea', 'sweating']"
+"['antibiotic', 'pneumonia', 'chest', 'pain', 'tightness']"
+['pulse']
+['pregnancy test']
+[]
+"['flu', 'vaccination']"
+['sleep-related eating disorders']
+"['allergy', 'coldness', 'allergic reaction', 'running', 'nose']"
+"['iron', 'anemia', 'uterus', 'period']"
+['obsessive-compulsive disorder']
+"['bacterium', 'smell']"
+[]
+"[""experiencing neurological problems... parkinson's disease""]"
+"['amoxicillin', 'pneumonia']"
+['bhp prostate gland size']
+"['head', 'headache', 'pupil', 'eyes', 'pain']"
+['scabies']
+"['sore', 'forehead', 'oil']"
+['my fiance can no longer walk']
+[]
+[]
+"['foggy memory', 'lower back & headache pain']"
+"['blood test', 'prostate-specific antigen test']"
+['feeling discomfort in chest']
+"[""pregnant and i'm in a lot of pain""]"
+"['pregnancy', 'period']"
+['calcification']
+"['depression', 'stress', 'height', 'weight', 'exercise']"
+"['exercise', 'meal']"
+"['vagina', 'finger', 'sexual intercourse', 'burn', 'wart']"
+[]
+"['urethra', 'itch', 'drinking', 'urination', 'burn']"
+"['shingles', 'nerve', 'vaccination', 'pain', 'reaction']"
+['atopic dermatitis']
+"['chlamydia', 'pain']"
+['celiac disease']
+['armpit']
+"['chest pains', 'panic and anxiety disorder']"
+"['vision', 'herpes', 'eyes']"
+"['do i need tetanus shot', 'er']"
+['infant']
+"['tetanus', 'injection', 'cuts']"
+"['ibuprofen', 'pain']"
+[]
+['right hand and foot have been numb']
+"['weight', 'exercise', 'calorie', 'stomach', 'workout']"
+"['first trimester', 'food', 'bruise', 'fruit']"
+"['clitoris', 'hair', 'pap test', 'pressure', 'smell']"
+[]
+"['discharge may be yeasty', 'frightened it is cervical cancer']"
+['hypothyroidism']
+"['flu', 'injection']"
+"['ejaculation', 'urination', 'pregnancy', 'stress']"
+"['cold', 'coldness']"
+"['attention deficit hyperactivity disorder', 'drug test', 'drug']"
+"['food poisoning', 'diarrhea']"
+['they found a 4 cm cyst on my left kidney']
+['nipple']
+"['sexual intercourse', 'period', 'ejaculation', 'urination', 'pregnancy']"
+"['skin', 'rash', 'birth control pill']"
+"['colonoscopy', 'surgery', 'colon cancer']"
+['lost some hearing (at about 40%) in my left ear']
+['epidural for pain today in my lumbar']
+"['leg', 'swelling', 'pain', 'walking']"
+['haematology &. serology']
+"['period', 'pregnancy']"
+[]
+"['eyes', 'skin']"
+"['migraine', 'drug']"
+"['exercise', 'heart murmur']"
+"['food poisoning', 'diarrhea']"
+['bladder feels full urethra itches']
+"['amoxicillin', 'drug test', 'tooth', 'antibiotic']"
+"['pregnancy', 'pregnancy test']"
+"['corpulence', 'baby', 'pregnancy', 'muscle', 'leg']"
+['drowsiness']
+"['condom', 'hormone']"
+"[""i'm severely allergic to beef eggs milk almonds wheat and rabbit brush""]"
+"['surgery', 'hysterectomy', 'stress incontinence']"
+"['testicle', 'trauma', 'hernia', 'bruise']"
+['blood pressure']
+['retina']
+[]
+['pregnancy']
+"['sexual intercourse', 'pregnancy', 'ovulation']"
+[]
+['skin']
+"['coldness', 'foot', 'dry skin']"
+[]
+"[""should i have a caudal injection at doctor's office or surgery center""]"
+"['calorie', 'burn', 'bowel movement']"
+"['birth control', 'birth control pill', 'vitamin']"
+['i was diagnosed with cervical cancer']
+"['skin', 'fever', 'running']"
+"['concussion', 'migraine', 'head', 'eyes', 'neck']"
+['sjogrens syndrome']
+"['i have a rash', 'thought it might be some type of fungus']"
+['migraine']
+['allergy']
+['frequent urination']
+['weak muscles']
+['respiratory tract']
+"['period', 'miscarriage', 'pregnancy', 'cramps', 'morning after pill']"
+"['sexual intercourse', 'pregnancy', 'ovulation', 'ovulation prediction kit']"
+['food']
+"['period', 'yeast infection']"
+"['period', 'nausea', 'cramps']"
+"['shingles', 'pain', 'confusion']"
+['head']
+"['taste', 'tea']"
+"['eyes', 'skin', 'surgery', 'puffiness']"
+"['my uterus is damaged', 'stage 4 endometriosis']"
+[]
+"['penis', 'bladder', 'acne']"
+['milk']
+"['weight loss', 'drug', 'migraine']"
+['vaginal bleeding']
+"['sexual intercourse', 'bacterial vaginosis']"
+"['vagina', 'mucus', 'dizziness', 'nausea', 'endometriosis']"
+"['migraine', 'headache', 'ears', 'head', 'head injury']"
+"['nose', 'sinus infection']"
+"['burn', 'chest', 'uterus', 'surgery', 'laparoscopic surgery']"
+"['arm', 'elbow', 'hand', 'ring finger', 'shoulder']"
+"['pregnancy', 'period']"
+"['gastroenteritis', 'pregnancy', 'diarrhea', 'nausea', 'bloating']"
+"['ejaculation', 'pregnancy', 'finger', 'confusion', 'genitalia']"
+"['cortisone', 'injection', 'arthritis', 'pain', 'knee']"
+"['doc gives me lots of meds', 'menstruation problems']"
+['hepatitis c']
+['cystic fibrosis']
+"['anxiety', 'attention deficit hyperactivity disorder', 'depression']"
+['migraine']
+"['index finger', 'finger', 'stitches']"
+"['sexual intercourse', 'urethra', 'vagina']"
+[]
+"['tenderness', 'breast', 'spotting', 'birth control', 'corpulence']"
+['my brother has been losing his hearing abilities']
+"['fracture', 'fever', 'toddler']"
+[]
+"['heart', 'diet', 'grief', 'heart disease', 'vision']"
+[]
+"['throat', 'swelling', 'swallow', 'fever', 'fatigue']"
+['concussion']
+['pregnancy']
+"['migraine', 'stomach', 'dizziness', 'smell']"
+"['birth control pill', 'pregnancy', 'period']"
+[]
+"['ringworm', 'worm']"
+"['armpit', 'rash', 'blister']"
+['medicare']
+['arthritis']
+['if an appendix ruptures']
+['blood disorders']
+['hyperthyroidism']
+[]
+['weight problems']
+['nostril']
+['smoking']
+"['exercise', 'treadmill', 'walking', 'coldness', 'foot']"
+['severe chronic active epstein-barr virus infection']
+['pregnancy']
+['obamacare']
+"['smoking', 'birth control pill']"
+['pneumonia']
+['dental scaling']
+['muscle']
+"['sexual intercourse', 'ejaculation', 'period', 'pregnancy']"
+[]
+"[""82 year old male fully conscious but can't stand up""]"
+"['ejaculation', 'condom', 'vagina', 'penis', 'itch']"
+['dementia']
+['otitis externa']
+['prostate cancer']
+"['smell', 'walking', 'foot']"
+['high blood pressure']
+"['arm', 'breast', 'chest', 'drowsiness', 'running']"
+"['pain', 'urination', 'drinking', 'juice']"
+"['michigan', 'medicaid']"
+"['cholesterol', 'smoking', 'weight']"
+"['drainage', 'food', 'sodium', 'heart attack', 'salt']"
+"['shingles', 'eyes', 'swelling']"
+"['sinus infection', 'blister']"
+"['cold', 'coldness', 'toddler', 'baby']"
+"['herpes', 'smoking', 'genital herpes']"
+"['birth control', 'vitamin']"
+"['fallopian tube', 'pregnancy']"
+['stage 4 anal cancer left radiation neuritis of sciatic nerve']
+"['period', 'pregnancy']"
+"['atopic dermatitis', 'vision']"
+"['mri scan results', 'numbness in my hands and feet']"
+"['fever', 'hives', 'skin', 'rash', 'allergic reaction']"
+"['fevers light-headed', 'headaches', 'post-traumatic stress disorder (ptsd)']"
+['tooth']
+"['foot', 'exercise']"
+['pain in my lower left quadrant']
+"['acne', 'polycystic ovarian syndrome', 'pregnancy', 'birth control']"
+['uterus']
+"[""baby's arms measure 7 weeks behind""]"
+['depression']
+"['cold sore', 'dental']"
+"['high cholesterol', 'triglyceride', 'weight', 'weight gain', 'puberty']"
+"['wart', 'finger', 'nail', 'salicylic acid']"
+"['vaginal discharge', 'sexual intercourse', 'burn', 'menstrual', 'period']"
+"['cartilage', 'nose']"
+"['fibromyalgia', 'exercise']"
+['depression']
+['type 1 diabetes']
+"['drug', 'drug test', 'inhaler']"
+['spots and rashes all over my stomach and back']
+"['rhinitis', 'mouth', 'throat', 'coldness', 'sinus infection']"
+"['period', 'condom', 'sperm', 'penis']"
+"['anxiety', 'hypothyroidism', 'stomach', 'anti-inflammatory', 'drug']"
+"['taste', 'mushroom']"
+['atopic dermatitis']
+"['hiv negative', 'hiv positive', 'uti']"
+['cramping blood in my stool and large black spots']
+"['acne', 'salicylic acid', 'benzoyl peroxide', 'drug']"
+['cough']
+['i have had blood done by the doctor in october who told me liver and kidney function were all normal']
+"['diabetes', 'triglyceride', 'insulin', 'corpulence', 'weight']"
+"['bacterial vaginosis', 'sore', 'herpes']"
+['i was born with one kidney']
+['ibuprofen']
+['is embolization appropriate']
+[]
+"['joint stiffness', 'lipoma', 'personality change']"
+['ejaculation']
+['coughing up blood']
+"['brain tumor', 'anesthesia', 'surgery', 'puffiness']"
+"['anus', 'condom', 'pregnancy', 'oil']"
+"['sexual intercourse', 'pregnancy', 'stomach', 'bloating', 'sperm']"
+"['lump', 'armpit', 'pain', 'hair', 'shoulder']"
+[]
+['benign prostatic hyperplasia']
+"['foot', 'skin', 'rash', 'itch']"
+['i have had two c-sections and have pcos']
+"['antibiotics and steroids for cough', 'doctor prescribed decongestants']"
+['tooth decay']
+"['swine flu', 'virus', 'family']"
+"['pain', 'weakness']"
+['hepatitis c']
+"[""i had a hemorrhoidectomy didn't work""]"
+['calcium deposits with cancer cells']
+['throbbing on my right temple']
+"['human papillomavirus', 'sexual intercourse']"
+['fainted 3 times why']
+['lost 30 pounds without trying']
+['pneumonia']
+"['gonorrhea', 'chlamydia']"
+['colon cancer']
+['feeling numbness first in my right hand']
+"['ejaculation', 'premature ejaculation']"
+"['constipation', 'irritable bowel syndrome', 'menopause', 'perimenopause', 'diarrhea']"
+['i have trouble breathing and i am coughing an awful lot']
+['brain tumor']
+['bone ttberculosis (tb) diagnosis']
+['tachycardia']
+[]
+"['exercise', 'knee']"
+"['anxiety', 'depression']"
+"['stomach', 'baby', 'pregnancy', 'movement']"
+"[""multiple sclerosis (ms)or amyotrophic lateral sclerosis (als)-lou gehrig's disease""]"
+['baby']
+['atherosclerosis']
+"['varicose vein', 'spider vein', 'pregnancy', 'leg']"
+"['sexual intercourse', 'period', 'pregnancy', 'stress']"
+"['vision', 'skin']"
+"[""bell's palsy""]"
+"['head', 'penis', 'wrinkle']"
+['i have been on my menstrual cycle for over a month']
+['vomiting blood']
+['ejaculation disorders in men']
+['genital herpes']
+[]
+"['pork', 'allergy']"
+"['pain', 'nausea']"
+['baby constipation']
+"['oil', 'cooking']"
+"['diarrhea', ""traveler's diarrhea""]"
+"['period', 'depression', 'nausea', 'neck', 'pain']"
+['constant headache']
+"['pregnancy', 'drug']"
+"['period', 'pregnancy', 'genitalia', 'vagina', 'ejaculation']"
+['was told i had rbc (red blood cell count)deficiency']
+"['schizophrenia', 'brain']"
+"['pregnancy', 'penis', 'ejaculation', 'ovulation', 'period']"
+"['arm', 'muscle', 'exercise']"
+['iron']
+['have had 2 previous discectomy operations']
+['cherry angioma']
+"['period', 'pregnancy', 'gonorrhea']"
+"['eyes', 'pink eye']"
+"['urination', 'birth']"
+"['fever', 'baby']"
+['pregnancy']
+"['arthritis', 'movement', 'family']"
+"['vagina', 'lump', 'yeast infection', 'burn', 'smell']"
+['exercise']
+"['kidney', 'heart disease']"
+['abnormal ecg']
+[]
+['shingles']
+"['penis', 'exercise']"
+['acupuncture physio and doctors may have caused permanent damage']
+['sinus infection']
+"['flu', 'injection']"
+"['diabetic neuropathy', 'diabetes', 'nerve', 'tooth']"
+['lice']
+"['drinking', 'grapefruit', 'juice', 'drug']"
+"['melanoma', 'skin cancer']"
+"['pregnancy', 'period', 'abortion']"
+"['burn', 'tightness', 'ears', 'neck', 'reaction']"
+"['cancer', 'exercise']"
+"['erection', 'drinking', 'smoking', 'stress', 'movement']"
+[]
+"['flu', 'coldness']"
+"['smoking', 'limb', 'chest', 'tightness', 'head']"
+"['drinking', 'lithium', 'taste', 'salt']"
+"['foot', 'skin', 'lotion']"
+"['fish', 'oil', 'flax', 'flaxseed oil']"
+['malaria']
+"['depressed', 'pregnant']"
+['weak muscles']
+['sinus infection']
+"['sexual intercourse', 'ejaculation', 'hiv', 'anus']"
+"['transient ischemia attack', 'transient ischemic attack', 'drug']"
+"['fever', 'nausea', 'weakness']"
+['injection']
+['bacterial vaginosis']
+['negative pregnancy tests']
+"['sexual intercourse', 'pregnancy']"
+"['drinking', 'ears', 'jaw', 'ibuprofen', 'pain']"
+['every time i cough or sneeze i pass blood clots']
+"['period', 'pregnancy', 'post-menopause']"
+['i have urination issues']
+"['cough', 'antibiotic', 'vision', 'chest', 'heartburn']"
+['i have joint pain and muscle spasms']
+"['arthritis', 'pressure', 'pain']"
+['work and travel while pregnant']
+['anxiety']
+"['dementia', 'cat scan']"
+['movement']
+"['period', 'injection', 'fertility', 'depo-provera']"
+"['cholesterol', 'fear', 'diet', 'cooking', 'recipe']"
+['wrong dose of antibiotics']
+"['food allergy', 'baby']"
+"['anxiety', 'drinking', 'panic attack', 'heart', 'allergic reaction']"
+['baby']
+"['head', 'smoking']"
+"['uterus', 'endometrium', 'cyst', 'pregnancy', 'cancer']"
+"['allergy', 'blood test', 'diarrhea', 'cramps']"
+"['hysterectomy', 'vaginal discharge', 'smell', 'back pain', 'fever']"
+['tooth']
+['head lice']
+"['menopause', 'perimenopause']"
+['drug']
+"['clavicle', 'vision', 'healing']"
+"['eyes', 'eyelid', 'surgery', 'general anesthesia', 'blister']"
+"['vision', 'mole']"
+['food']
+['adult polycyclic kidney disease']
+['pregnancy']
+['heart attack']
+"['headache', 'ears', 'pressure', 'dizziness', 'sinus infection']"
+"['mania', 'anger']"
+"['thyroid', 'drug']"
+"['drinking', 'bipolar disorder', 'vision']"
+[]
+[]
+['coldness']
+['herniated lumbar disc']
+['hysterectomy']
+"['wart', 'lip', 'coldness']"
+"['baby', 'milk']"
+[]
+"['blood in urine', 'movement', 'stomach', 'pain']"
+"['pregnancy', 'irregularity', 'period', 'baby']"
+"[""i've been having terrible heart palpitations""]"
+[]
+"['urination', 'kidney stone', 'surgery', 'pain', 'stent']"
+"['breast cancer', 'cancer', 'breast cancer']"
+['arthritis']
+"['squash', 'exercise', 'workout']"
+"['calcium', 'supplement', 'healing', 'broken bone', 'hand']"
+['pregnancy']
+['bhp prostate gland size']
+"['liver', 'healing']"
+"['testosterone', 'injection', 'over the counter']"
+"['seizure', 'thyroid', 'thyroidectomy', 'migraine', 'headache']"
+"['pregnancy', 'vagina', 'penis']"
+['bacterial vaginosis']
+['permanent blurred vision']
+"['pregnancy', 'sexual intercourse', 'period']"
+[]
+"['surgery', 'knee', 'swelling', 'coldness', 'short stature']"
+['small thrombus in distal right pulmonary artery']
+[]
+"['diarrhea', 'nausea', 'anus', 'drinking', 'fever']"
+"[""multiple sclerosis (ms)or amyotrophic lateral sclerosis (als)-lou gehrig's disease""]"
+['addiction']
+"['allergy', 'impetigo', 'eyes', 'fever', 'antibiotic']"
+[]
+"['vomit', 'mucus', 'nose', 'coldness', 'sweating']"
+['ovulation']
+['genital herpes']
+[]
+"['period', 'pregnancy']"
+['nose']
+"['herpes', 'prostatitis', 'head', 'penis', 'chlamydia']"
+"['coldness', 'flu']"
+['folliculitis n seborrhoa']
+"['mold', 'fever', 'cough']"
+"['heart', 'coldness', 'cold']"
+"['period', 'pregnancy']"
+['work and travel while pregnant']
+"['sty', 'eyes']"
+"['abortion', 'hiv', 'anxiety', 'sexual intercourse', 'penis']"
+"['asthma', 'bronchitis', 'flu', 'coldness', 'sinus infection']"
+"['ears', 'nose', 'spit', 'swallow', 'coldness']"
+"['arm', 'rash', 'plant', 'poison ivy', 'pets']"
+"['kidney infection', 'antibiotic', 'birth control', 'pregnancy', 'head']"
+"[""i'm really scared something is wrong with my kidneys""]"
+[]
+"['pregnancy', 'pain', 'abdominal pain']"
+[]
+['left foot i had an x-ray done and it showed no broken bones']
+['food allergy']
+"['sinus', 'sinus infection', 'nose', 'bad breath', 'mucus']"
+"['period', 'pregnancy', 'birth control']"
+['drug overdose']
+"['lime', 'pain', 'vagina', 'shingles']"
+"['extreme nausea', 'faintness and beating heart']"
+"['ovary', 'uterus', 'menstrual', 'surgery', 'injection']"
+"['period', 'crying', 'condom', 'pregnancy']"
+"['fever', 'stomach', 'cramps']"
+"['period', 'urination', 'pregnancy']"
+['experiencing fever cold sweats']
+"['sexual intercourse', 'period', 'chest', 'pregnancy test', 'condom']"
+"['is transplant an option', 'kidneys can not handle strong meds']"
+"['vagina', 'smell', 'burn', 'itch']"
+['coldness']
+['period']
+['i noticed a burning sensation on my side']
+['urinalysis']
+['makeup']
+"['oily filled zits', 'small black head', 'white filled zits']"
+"['stomach', 'intestine', 'abdominal pain', 'diarrhea', 'diet']"
+"['hysterectomy', 'vagina', 'headache']"
+"['pregnancy', 'uterus']"
+"['foreskin', 'skin', 'circumcision', 'birth', 'burn']"
+['fatigued with headaches and severe nausea']
+"['penis', 'burn', 'urination', 'lip']"
+"['pregnancy', 'clitoris', 'ejaculation', 'anxiety']"
+"['cancer', 'soy']"
+"['sexual intercourse', 'condom', 'period', 'stress', 'movement']"
+['my white blood cells (wbc) count is high']
+['sunscreen']
+[]
+['pregnancy']
+"['virus', 'coldness']"
+"['penis', 'rash', 'swelling', 'urinary tract infection', 'antibiotic']"
+"['injection', 'pregnancy']"
+"['exercise', 'corpulence', 'weight', 'food', 'protein']"
+"['cold sore', 'herpes', 'mouth']"
+['new york']
+"['stomach', 'nausea', 'vision']"
+['malaria']
+['i have been having joint pain in my hands']
+"['ears', 'vision']"
+"['period', 'sexual intercourse', 'condom', 'antibiotic', 'strep throat']"
+"['hernia', 'injury', 'muscle', 'pain', 'running']"
+"['pregnancy', 'masturbation', 'ejaculation']"
+"['sexual intercourse', 'cyst', 'penis']"
+"['uterus', 'breastfeed']"
+['i have herpes simplex virus 2 infected my son']
+"['foot', 'weight']"
+['mouth']
+"['pregnancy', 'vision', 'pain', 'burn']"
+"['smoking', 'marijuana', 'surgery']"
+['exercise']
+['sunburn']
+"['medicare', 'ultrasound', 'prostate cancer']"
+"['depression', 'libido', 'injection', 'erection']"
+['hand paralysis']
+"['sexual intercourse', 'vagina', 'pregnancy test', 'pregnancy', 'period']"
+['vitamin']
+['could this be lymphoma?']
+['i have noticed a massive change (weight loss) in myself without having any change of diet or exercise']
+"['eyes', 'fever', 'vomit', 'cough', 'running']"
+"['arthritis', 'fibromyalgia', 'pain']"
+"['anxiety', 'depression', 'insurance']"
+"['sexually transmitted disease', 'pregnancy']"
+"['cold sore', 'lip', 'lump']"
+"['ejaculation', 'condom', 'birth control pill']"
+['paranoia']
+['inhaler']
+['rectum']
+"['buttocks', 'thigh', 'benzoyl peroxide', 'cortisone']"
+[]
+"['burn', 'varicose vein', 'leg']"
+"['appendix', 'gallbladder', 'stomach', 'cholesterol', 'diet']"
+"['ringworm', 'arm', 'hand', 'skin', 'vision']"
+[]
+['cough']
+['flu']
+"['sperm', 'pregnancy', 'condom', 'ejaculation']"
+"['tea', 'lemon', 'cholesterol', 'coffee', 'drinking']"
+"['leg', 'foot', 'swelling', 'fatigue', 'ankle']"
+"['small intestine', 'multivitamin', 'diet', 'healing', 'vitamin']"
+"['swine flu', 'injection']"
+[]
+['relapsing-remitting multiple sclerosis (rrms)']
+"['human papillomavirus', 'herpes']"
+"['diarrhea', ""traveler's diarrhea""]"
+['dark spots on skin']
+['knocked knees']
+['sleeve gastronomy']
+['i have fibromyalgia']
+"['sexually transmitted disease', 'pain']"
+"['sinus', 'fever', 'pain']"
+"[""athlete's foot""]"
+"['vitamin', 'migraine']"
+"['height', 'hormone', 'injection']"
+"['snack', 'exercise', 'workout']"
+"['depression', 'pregnancy']"
+"['testicle', 'hernia', 'anxiety', 'cancer']"
+"['drug overdose', 'multivitamins']"
+"['sexual intercourse', 'ejaculation', 'pregnancy', 'erection', 'condom']"
+[]
+"['burn', 'mole', 'itch', 'skin cancer']"
+"['skin', 'dry skin']"
+['seizure']
+['gallstone']
+"['healing', 'vertigo']"
+['broke my left clavicle']
+"['nausea', 'heartburn', 'food', 'vomit']"
+[]
+"['flu', 'tooth', 'injection']"
+[]
+['lump below ear']
+"['cholesterol', 'drug', 'high blood pressure', 'diabetes']"
+"['ejaculation', 'period', 'pregnancy']"
+['antibiotic']
+['baby']
+['child with enlarged ventricles']
+['prostate cancer']
+"['cradle cap', 'hair', 'head', 'scalp', 'olive']"
+"['miscarriage', 'fetus', 'pregnancy', 'heart', 'cervix']"
+"['herpes', 'genital herpes', 'smell', 'vagina']"
+"['urinary tract infection', 'blood test']"
+['thrush']
+"['sexual intercourse', 'hernia', 'surgery']"
+['knee pain']
+"['plaque', 'erectile dysfunction', 'erection', 'injection']"
+['severe pain with my lower back']
+['e. coli']
+"['heart attack', 'exercise']"
+"['allergy', 'postpartum depression', 'hair', 'reaction', 'tattoo']"
+[]
+"[""parkinson's disease""]"
+"['gout', 'pickle', 'vinegar', 'food', 'diet']"
+"['injection', 'period', 'spotting']"
+['shingles']
+"['arm', 'neck', 'bruise']"
+"['migraine', 'headache']"
+"['birth control pill', 'pregnancy']"
+['whooping cough']
+"['surgery', 'vomit', 'gastric bypass surgery']"
+['premature ejaculation']
+['pregnancy']
+"['hemoglobin', 'tooth', 'iron']"
+"['allergy', 'swelling']"
+['plant']
+['nausea and vomiting']
+"['drainage', 'cyst', 'skin', 'vision', 'walking']"
+['atopic dermatitis']
+"['vision', 'exercise', 'diet']"
+"['prostatectomy', 'impotence', 'birth control', 'pregnancy']"
+['wrist']
+['stitches']
+[]
+"['acne', 'whitehead']"
+['constant burn sensation on my mouth']
+"['heart disease', 'angiogram']"
+"['sexual intercourse', 'penis', 'vagina', 'swelling', 'condom']"
+"[""crohn's disease""]"
+"['diarrhea', 'lung cancer']"
+"['acupuncture', 'dementia']"
+['b12']
+"['constant chills', 'reflux laryngitis is it stds or flu shot side effects']"
+"[""bell's palsy""]"
+"['cholesterol', 'smoking', 'weight']"
+"['herpes', 'oral herpes', 'condom']"
+"['acoustic nouroma tumour', 'should i have full surgery or partial with radiation']"
+"['diet', 'soda', 'arthritis']"
+"['birth control', 'pregnancy']"
+['shingles']
+"['eyes', 'tightness', 'vision']"
+[]
+[]
+['blood test']
+['nose']
+"['stress', 'fever', 'toddler']"
+['drug overdose']
+"['yeast infection', 'burn']"
+"['cough', 'coldness']"
+"['allergy', 'coldness']"
+"['x-ray', 'injection', 'pain', 'walking']"
+['schizophrenia']
+['ultrasound']
+"['pregnancy', 'sexual intercourse', 'condom', 'ovulation']"
+"['ejaculation', 'period', 'pregnancy']"
+"['masturbation', 'delayed ejaculation']"
+[]
+[]
+['health insurance']
+['schizophrenia']
+['burn']
+"['burn', 'belly button', 'stomach', 'x-ray', 'blood test']"
+[]
+"['migraine', 'headache', 'lightheadedness', 'nausea', 'vision']"
+['pregnancy test']
+"['virus', 'fever', 'confusion', 'flu']"
+"['sexual intercourse', 'shingles']"
+['skin']
+"['stomach', 'cramps', 'caffeine', 'coldness', 'turkey']"
+[]
+"['pain', 'constipation', 'burn', 'bloating', 'movement']"
+['reaction to energy drink']
+[]
+['hematoma after mini face-lift']
+"['running', 'fever']"
+['no energy depressed no appetite']
+"['ears', 'tonsil', 'swelling', 'pain']"
+"['ear drum', 'swelling', 'neck', 'vertigo']"
+"['stress', 'pregnancy']"
+"['sexual intercourse', 'ejaculation', 'pregnancy', 'erection', 'condom']"
+"['period', 'pregnancy', 'stress', 'surgery', 'baby']"
+"['pregnancy', 'period', 'sexual intercourse', 'condom', 'confusion']"
+['i had my appendix removed about nine years ago']
+"['scrape', 'sexually transmitted disease', 'lightheadedness', 'coldness', 'shaving']"
+['anxiety']
+"['head', 'cough']"
+"['smoking', 'marijuana', 'stomach']"
+"['arthritis', 'fybromyalgia', 'high blood pressure', 'high cholesterol', 'type 2 diabetes']"
+[]
+"['smell', 'type 2 diabetes', 'high blood pressure', 'asthma']"
+"['thrush', 'condom']"
+['wrong dose of antibiotics']
+"['sexual intercourse', 'period', 'pregnancy']"
+"['burn', 'hiv', 'penis', 'skin', 'itch']"
+['temporomandibular joint disorders']
+['bowel movement']
+"['birth control', 'birth control pill', 'weight loss', 'weight', 'pregnancy']"
+['celiac disease']
+['fertility']
+[]
+['gallstone']
+"['ears', 'ear infection', 'antibiotic', 'travel', 'headache']"
+['blind for over a year in her left eye']
+['cataract']
+"['pregnancy', 'ejaculation', 'urination', 'sexual intercourse', 'condom']"
+"['herpes', 'shingles', 'family']"
+[]
+['delayed milestones (speech) and convulsions']
+['cystic fibrosis']
+"['lice', 'head lice', 'bruise', 'head', 'feeding']"
+['think i have a severe kidney infection']
+"['vinegar', 'hair']"
+['i had my appendix removed about nine years ago']
+[]
+"['bronchitis', 'virus', 'vision']"
+['blood sugar']
+['flu']
+"['cancer', 'thallium stress test']"
+[]
+"['tooth', 'insurance', 'penicillin', 'supplement']"
+"['wart', 'confusion']"
+[]
+"['hepatitis a', 'hepatitis b', 'vaccines']"
+"['vagina', 'infertility', 'condom']"
+[]
+"['migraine', 'pregnancy', 'drug']"
+"['ibuprofen', 'acetaminophen']"
+"['ears', 'neck', 'pain', 'chest', 'lump']"
+"['flu', 'strep throat', 'injection']"
+"['bowel movement', 'ears', 'diarrhea', 'fever', 'virus']"
+"['rash', 'tenderness', 'dizziness', 'movement', 'lump']"
+"['prenatal vitamin', 'fertility', 'conception', 'pregnancy']"
+['celiac disease']
+"['infant', 'scrotum', 'swelling', 'almond', 'lump']"
+"['vision', 'hormone']"
+"['urethra', 'penis', 'head']"
+"['chlamydia', 'penis', 'mouth', 'allergic reaction', 'yeast infection']"
+['i need a surgery to remove the spleen']
+"['drinking', 'coldness', 'soda', 'tea', 'weight loss']"
+"['marijuana', 'smoking', 'asthma']"
+"['pregnancy', 'smoking', 'quit smoking']"
+[]
+[]
+"['healthy eating', 'travel']"
+['heart disease']
+"[""i feel i'm going to pass out"", 'i lost nearly three liters of blood']"
+"['pain', 'gallstone']"
+"['nose', 'nausea', 'cough', 'coldness', 'running']"
+['cough up blood']
+['watery eyes']
+"['surgery', 'anxiety']"
+"[""addison's disease"", 'primary adrenal insufficiency']"
+"['pregnancy', 'finger', 'vagina', 'masturbation', 'hand']"
+[]
+[]
+['pregnancy']
+['sjogrens syndrome']
+['anemia']
+['it was not a normal birth']
+"['cramps', 'back pain', 'nausea', 'period', 'spotting']"
+"['burn', 'sunburn', 'shoulder', 'skin', 'blister']"
+"['cervix', 'ovary', 'surgery', 'laparoscopic surgery', 'lithotomy']"
+['obsessive-compulsive disorder']
+"['pregnancy', 'miscarriage', 'bloating', 'nausea', 'dizziness']"
+"['pregnancy', 'pain', 'neck', 'labor', 'leg']"
+[]
+['pregnancy']
+"['i have anterior cruciate ligament tear', 'i have anterior cruciate ligament tear...do i need surgery']"
+['stress']
+[]
+[]
+['do i have autism']
+['pink eye']
+['pregnancy']
+['sperm']
+"[""paget's disease""]"
+['sarcoidosis']
+['hepatitis']
+"['ringworm', 'scalp']"
+"['surgery', 'ablation']"
+['ectopic pregnancy']
+"['eyes', 'baby', 'mucus']"
+"['arm', 'armpit', 'rash', 'bacterium']"
+['attention deficit hyperactivity disorder']
+"['ears', 'chest', 'cough', 'x-ray', 'inhaler']"
+"['canker sore', 'throat', 'pain']"
+"['sprain', 'ankle', 'weakness', 'exercise', 'walking']"
+['anterior wall interstitial uterine fibroid']
+"['anti-inflammatory', 'diet', 'rosacea', 'food']"
+"['pregnancy', 'folic acid', 'iron', 'calcium']"
+['drug overdose']
+"['ears', 'tinnitus']"
+"['period', 'pregnancy', 'breast']"
+[]
+['exercise']
+['coughing up blood']
+['exercise']
+['blood pressure']
+[]
+['stomach and back pain']
+['yesterday morning i woke in excruciating pain in my left thigh']
+[]
+"['pneumonia', 'sinus infection', 'walking']"
+[]
+"['urination', 'burn', 'penis']"
+['micro discectomy which cured sciatic and lumber pain']
+[]
+[]
+['drug overdose']
+"['leg', 'pain', 'lupus', 'arthritis', 'neck']"
+"['angina', 'arm', 'chest', 'pain', 'family']"
+"['fever', 'vomit', 'running', 'abdominal pain']"
+"['balance/unsteady feeling in my head', 'doctors are clueless']"
+['lupus']
+['neuropathy']
+"['migraine', 'photosensitivity', 'pain']"
+"['drinking', 'wine', 'antibiotic']"
+['thyroid nodule benign or malignant']
+['virus']
+"['pregnancy', 'ovulation', 'spotting']"
+['inhaler']
+"[""parkinson's disease""]"
+[]
+"['high blood pressure', 'blood pressure', 'diet', 'olive', 'oil']"
+"['health insurance', 'insurance']"
+"['stomach', 'pain', 'itch']"
+[]
+"['gastritis', 'diet']"
+[]
+[]
+"['pregnancy', 'masturbation']"
+['is embolization appropriate']
+"['travel', 'insurance', 'fracture', 'vertebra', 'healing']"
+[]
+['pain in middle of chest']
+[]
+"['opiate addiction', 'scared to talk to my doctor', 'snorting tylenol']"
+['hypothyroidism']
+['enlarged heart']
+"['finger', 'vagina', 'pregnancy']"
+['metallic taste in my mouth']
+"['eyes', 'burn']"
+"['nose', 'stuffy nose', 'ibuprofen', 'nasal spray', 'pepper']"
+['triglyceride']
+[]
+['eyes']
+[]
+['dementia']
+[]
+[]
+"['period', 'pregnancy', 'breast', 'nipple', 'tenderness']"
+"['sexual intercourse', 'human papillomavirus']"
+['allergy']
+"['swallow', 'chest', 'throat', 'pain', 'fever']"
+['i suffer with headaches/migraines frequently']
+"['arthritis', 'foot']"
+['hernia']
+"['back pain', 'lung cancer']"
+"['anxiety', 'numbness', 'leg', 'cramps', 'hand']"
+['hearing problems']
+['injection']
+"['hair', 'skin', 'sunscreen', 'oil']"
+['genital herpes']
+"['arm', 'insect bite', 'itch', 'skin']"
+"['drinking', 'mouth', 'baby', 'cereal', 'rice']"
+"['hives', 'allergy']"
+[]
+['pregnancy']
+['pain starts at my lower back']
+['abnormal blood results']
+['conception and pregnancy']
+['osteoarthritis']
+[]
+"['anxiety', 'hallucination']"
+"['burn', 'pain', 'stomach', 'virus', 'chest']"
+"['testosterone', 'injection']"
+['using an elbow brace']
+['suffer from copper deficiency']
+['uneven hip creases']
+"['urination', 'kidney', 'pain', 'coldness', 'flour']"
+['micro discectomy which cured sciatic and lumber pain']
+"['acne', 'vision', 'wrinkle']"
+['yellow bumps in my throat']
+"['chest', 'forehead', 'acetaminophen', 'fever', 'juice']"
+['peripheral neuropathy symptoms after hiv']
+"['crying', 'tampon']"
+"['scoliosis', 'exercise', 'spine', 'back pain']"
+['wart']
+[]
+"['food', 'pulse', 'anorexia', 'period']"
+[]
+"['medicaid', 'family']"
+[]
+"['hives', 'fever', 'vision', 'swelling', 'orange']"
+['injection']
+"['urination', 'movement']"
+"['tendon', 'vision', 'weight', 'exercise', 'workout']"
+['walking']
+['safe to inject clexane']
+"['fatigue', 'nausea']"
+"['vinegar', 'anus']"
+['i have ecoli vaginitis']
+"['finger', 'penis', 'urethra', 'chlamydia', 'dry skin']"
+['right hand and foot have been numb']
+"['anus', 'ejaculation', 'sperm', 'vagina', 'pregnancy']"
+[]
+[]
+['oral hygiene maintenance']
+"['period', 'pregnancy', 'stomach', 'cramps', 'spotting']"
+"['high blood pressure', 'diabetes']"
+"['sexually transmitted disease', 'period', 'penis', 'rash', 'hand']"
+"['steroid', 'rash']"
+['fertility']
+['negative pregnancy tests']
+"['vertigo', 'ears', 'drowsiness', 'drug']"
+[]
+"['flu', 'injection']"
+"['insurance', 'drug']"
+"['pneumonia', 'cough', 'fever', 'headache']"
+"['radiation surgery', 'drowsiness']"
+"['penis', 'circumcision', 'erection', 'masturbation']"
+"['rash', 'penis', 'herpes', 'sexual intercourse', 'condom']"
+"['stomach', 'exercise']"
+"['period', 'pregnancy', 'pregnancy test']"
+['exercise']
+"['period', 'stomach']"
+"['coffee', 'urination', 'drinking', 'caffeine']"
+['arthritis']
+"['pregnancy', 'fetus', 'drug']"
+"['chlamydia', 'drug']"
+['antidepressant']
+"['hiv', 'arm', 'penis', 'rash']"
+"['lump', 'breast', 'arm', 'nipple', 'itch']"
+['shingles']
+"['genital herpes', 'sore', 'mouth']"
+"['sexual intercourse', 'ejaculation', 'baby', 'fertility', 'conception']"
+[]
+['premature ejaculation']
+['medication and lumbar surgery']
+['i had open gallbladder surgery']
+"['dermatitis', 'oil', 'olive']"
+['birth control']
+"['ears', 'flu', 'oil', 'movement']"
+"['prostate', 'trichomoniasis']"
+['atopic dermatitis']
+"['coldness', 'stuffy nose', 'cough', 'ears']"
+"['ears', 'crying', 'pain']"
+"['abdominal pain', 'vomit', 'hives']"
+"['period', 'birth control', 'irregularity', 'cramps']"
+['hepatitis c']
+['anemia']
+"['bedbug', 'rash']"
+"['coldness', 'cold', 'cough', 'orange', 'juice']"
+[]
+['bacterial vaginosis']
+"['nose', 'surgery', 'nasal spray']"
+"['weight', 'weight gain']"
+"['ulcerative colitis', 'diet', 'nutritional deficiency']"
+['colitis']
+['breast feeding']
+['ears']
+"['sperm', 'penis', 'masturbation', 'pregnancy']"
+['coldness']
+"['penis', 'skin', 'cortisone', 'dermatitis', 'rash']"
+[]
+"['screening', 'prostate cancer']"
+[]
+['pregnancy']
+"['arm', 'chest', 'skin', 'rash', 'itch']"
+"['multiple sclerosis', 'urostomy stoma']"
+"['burn', 'nose', 'smell']"
+"['hair loss', 'thyroid']"
+"['cataract', 'brain', 'eyes', 'vision', 'family']"
+['hepatitis c']
+['gallstone']
+[]
+"['infertility', 'drug']"
+['retroverted uterus']
+['obamacare']
+[]
+[]
+['tinnitus']
+['grapefruit']
+['upper thighs turned purple']
+"['exercise', 'smoking']"
+"[""doctors don't know what is wrong"", 'pneumonia wheezing']"
+['dental']
+[]
+['insurance']
+['do i require surgery ?']
+"['scar', 'insurance', 'surgery', 'tightness']"
+"['toxoplasmosis', 'pregnancy']"
+"['muscle', 'coldness', 'exercise']"
+['overweight']
+['leg']
+['burn']
+"['pregnancy', 'stomach', 'prenatal vitamin', 'vitamin']"
+"['fever', 'baby', 'temperature']"
+"['nipple', 'burn', 'pain', 'dry skin']"
+"['pregnancy test', 'pregnancy', 'period']"
+['i urinate blood']
+['methadone']
+"['pregnancy test', 'pregnancy', 'period', 'birth control']"
+['i had a dull pain in my lower right stomach']
+['dull pain on right side of spine close to l4-l5']
+"['sexual intercourse', 'urinary incontinence', 'prostate', 'surgery']"
+"['skin', 'stomach', 'exercise', 'diet', 'weight loss']"
+['ear infection']
+"['chlamydia', 'drinking']"
+"['drug test', 'weight', 'smoking']"
+"['testicle', 'surgery', 'fertility']"
+['prostate']
+['heartburn']
+['drug']
+"['lobster', 'diarrhea', 'drinking', 'caffeine', 'coffee']"
+[]
+['strep throat']
+[]
+"['injury', 'index finger', 'nail', 'weight', 'stitches']"
+"['diabetes', 'infertility', 'oatmeal', 'turkey', 'fertility']"
+['arms and legs numb']
+['i have a strange medical problem']
+['finger is slowly healing']
+['drug']
+"['arm', 'shoulder', 'physical therapy', 'exercise', 'rotator cuff injury']"
+['coaptite injectable implant']
+"['i have pain in my back and chest', 'the pain is unbearable']"
+['insurance']
+"['bppv', 'diagnosis: vbi']"
+"['headache', 'leg', 'fever', 'running', 'back pain']"
+['aspirin']
+['period']
+"['stomach', 'hemorrhoid', 'lactose intolerance', 'drinking', 'milk']"
+"['cyst', 'heart', 'stomach', 'physical therapy']"
+"['vegetable', 'okra', 'diabetes', 'cuts', 'drinking']"
+"['smoking', 'marijuana', 'surgery']"
+['i have lost my libido']
+['blood in my stools?']
+"['pregnancy', 'fertility', 'period', 'sexual intercourse']"
+['i had breast reduction']
+"['oil', 'smoking']"
+"['breast', 'lump', 'breast cancer', 'breast lump', 'ultrasound', 'pregnancy', 'lactation', 'alleviate', 'pregnant', 'infected', 'breastfeeding and nursing']"
+"['period', 'pregnancy']"
+"['coldness', 'nose', 'running', 'flu']"
+"['period', 'pregnancy test', 'pregnancy', 'hunger', 'food']"
+['pain during intercourse']
+"['fever', 'vomit']"
+"['burn', 'ankle', 'foot', 'skin', 'swelling']"
+['hormone replacement therapy (hrt) tablets']
+"['period', 'burn', 'pain']"
+[]
+['gallstone']
+"['pink eye', 'vision', 'honey']"
+['burn']
+['weight gain']
+"['cyst', 'ovary']"
+"['skin', 'over the counter', 'drug', 'infection']"
+['pregnancy test']
+"['dr prescribe previsolone', 'eosinophilic gastroenteritis']"
+"['cortisone', 'indigestion', 'heartburn']"
+"['birth control', 'coldness', 'turkey']"
+['pregnancy']
+"['nausea', 'vomit', 'over the counter']"
+['fertility']
+[]
+"['avoidant personality disorder symptoms', 'may have avoidant personality disorder symptom (avpd)']"
+"['testosterone', 'injection', 'over the counter']"
+[]
+['i had mild pitting edema']
+"['itch', 'head', 'reaction']"
+[]
+"['hair', 'radiation surgery']"
+['hiv infection']
+['omega fatty acids']
+[]
+[]
+"['pain', 'ears', 'head']"
+['sleep hygeine']
+"['doc gives me lots of meds', 'menstruation problems']"
+"['pregnancy', 'marijuana']"
+['wart']
+"['ears', 'car sickness']"
+['vomit']
+['ultrasound']
+"['hair', 'hand', 'male pattern baldness', 'family']"
+"['multiple sclerosis', 'muscle spasms', 'pain in my legs']"
+"['pain', 'psoriatic arthritis']"
+"['hair', 'hair loss', 'thyroid', 'kidney', 'stress']"
+"['testosterone', 'orgasm']"
+"['lump ubder ear', 'unbearable earache']"
+"['i started with fever', 'throat pain getting worse', 'worried my doctor not giving me right treatment']"
+[]
+['no menstruation']
+['blister']
+"['stomach', 'pain', 'headache']"
+"['triglyceride', 'family', 'heart', 'cholesterol', 'exercise']"
+"['red bumps', 'then swelling turned in to blistering']"
+['i have been having breast pain']
+"['torn anterior cruciate ligament', 'torn lateral collateral ligament']"
+"['skin', 'liposuction']"
+"['skin', 'rash']"
+['fever']
+"['coldness', 'cold sore', 'lip', 'short stature', 'herpes']"
+"['drowsiness', 'exercise']"
+[]
+['ovulation testing device']
+"['hypothyroidism', 'vision', 'calcium', 'potassium', 'fever']"
+['tooth']
+['blood sugar']
+"['period', 'pregnancy']"
+"['pregnancy', 'tubal ligation', 'nausea', 'fatigue']"
+"['penis', 'scar', 'itch', 'burn', 'pain']"
+['swelling in feet ankles and legs']
+"['injection', 'pain']"
+"['foot', 'hand', 'movement', 'coldness']"
+"['salt', 'smoking']"
+"['leg', 'pelvis', 'thigh', 'ultrasound', 'palpitation']"
+"['chest', 'stomach', 'nausea', 'food', 'emergency room']"
+"['bowel movement', 'baby']"
+"['pain', 'burn', 'urination']"
+[]
+[]
+"['brain', 'addiction']"
+"[""i've been suffering from very hard persistent re flux""]"
+['hand']
+['period']
+"['ejaculation', 'mouth', 'swallow', 'hiv']"
+"['pregnancy', 'cephalexin', 'dog']"
+"['aids', 'glaucoma']"
+"['brown discharge spotting on toilet paper', 'missed period']"
+"['miscarriage', 'pregnancy']"
+['folic acid']
+"['armpit', 'arm', 'lump', 'rash', 'skin']"
+[]
+"['diabetes', 'insulin', 'exercise']"
+['fertility']
+"['herpes', 'cold sore', 'lip', 'oil', 'paranoid behavior']"
+"['stomach', 'diarrhea', 'food']"
+['pain testicles']
+['health insurance']
+"['acne', 'toe']"
+[]
+"['sleep apnea', 'schizophrenia', 'cough', 'smoking', 'sleepiness']"
+"['hepatitis a', 'vaccination', 'food']"
+['attacks with severe headaches and sudden chills']
+['pregnancy']
+"['migraine', 'drug']"
+"['hydrocodone', 'pain', 'antidepressant', 'hernia', 'euphoria']"
+"['virus', 'infection']"
+"['infant', 'nightmare']"
+"['drinking', 'esophagus']"
+"['crying', 'newborn', 'baby', 'drug']"
+[]
+['exercise']
+"['migraine', 'head', 'pain', 'nausea', 'pregnancy test']"
+"['pregnancy', 'stomach', 'period', 'breast', 'cervix']"
+['belviq xr(20mg) and phentermine(15mg) for weight loss']
+"['burn', 'sting', 'vagina', 'ultrasound', 'vision']"
+['breast']
+['smoking']
+[]
+['diarrhea']
+"['walking', 'pulse', 'connective tissue disease', 'arthritis', 'diabetes']"
+"['burn', 'herpes']"
+"['pregnancy', 'injection']"
+"['diabetes', 'yeast', 'height', 'weight', 'metabolism']"
+"['mood swing', 'weight gain', 'feeding', 'pregnancy']"
+[]
+['drinking']
+[]
+"['keloid', 'steroid', 'injection', 'hair']"
+['i have swimmers ear']
+[]
+['herpes']
+['anemia']
+"['virus', 'stomach', 'ulcer']"
+['i had breast reduction']
+"['pregnancy', 'depo-provera']"
+['exercise']
+"['degenerative disc disease', 'osteoporosis', 'fracture', 'shoulder', 'x-ray']"
+"['skin', 'vitamin a', 'wrinkle']"
+"['cancer', 'polyp', 'colonoscopy']"
+['chickenpox']
+['cystocele rectocele entereocele rectal prolapse']
+"['hiv', 'condom', 'sexually transmitted disease']"
+[]
+"['sexually transmitted disease', 'sexual intercourse', 'condom']"
+['pregnancy']
+"['period', 'yeast infection', 'burn', 'vaginal discharge']"
+['wart']
+['they found oral cancer']
+['weight loss']
+['cholecystectomy']
+['bladder']
+['tapering off taper candesartan']
+"['benign prostatic hyperplasia', 'foot']"
+"['period', 'pregnancy', 'sexual intercourse', 'weight gain', 'stomach']"
+['i have episodes od confusion']
+['pain during intercourse']
+"['testosterone', 'injection']"
+"['acne', 'secondary amenorrhea', 'hair', 'weight', 'hormone']"
+[]
+"['surgery', 'testicle', 'undescended testicle', 'scrotum']"
+"['can i do a rhinoplasty', 'i suffer from familial mediterranean fever(fmf)']"
+[]
+['torn ligaments']
+"['ovarian cancer', 'bipolar disorder', 'chemotherapy', 'schizophrenia']"
+['epilepsy']
+[]
+"['anxiety', 'attention deficit hyperactivity disorder', 'dyslexia', 'exercise', 'smoking']"
+[]
+['ears']
+['6 weeks of physical therapy and then got a epidural steroid injection']
+['acetaminophen']
+"['ear and parotid pain', 'jaw']"
+"['pregnancy', 'breastfeed']"
+"['pregnancy', 'baby']"
+"['drinking', 'surgery', 'gastric bypass surgery']"
+['i have been diagnosed with pcos']
+[]
+"['period', 'pregnancy', 'post-menopause']"
+"['medicare', 'shingles']"
+[]
+"['bowel movement', 'stomach', 'diarrhea', 'nausea', 'cramps']"
+"['diet', 'hair', 'almond', 'sunflower', 'salad']"
+['geriatics']
+['depression']
+['i had mild pitting edema']
+['shingles']
+"['obesity', 'weight', 'exercise', 'diet', 'family']"
+['pregnancy']
+[]
+[]
+['dental']
+"['anus', 'hemorrhoid', 'constipation']"
+"['i get granular pieces from my scalp', 'itchy & flaky scalp & these days']"
+"['ears', 'head', 'syrup', 'food', 'antibiotic']"
+"['ears', 'antibiotic']"
+"['toe', 'nail fungus', 'heel']"
+[]
+"['asthma', 'walking', 'corpulence', 'smoking']"
+"['taste', 'food']"
+"['pregnancy', 'paranoid behavior', 'period', 'penis', 'spotting']"
+['cysts on my pelvis and ovary']
+['fibromyalgia']
+['fang marks']
+['fatty liver disease']
+"['burn', 'foot', 'pain', 'worm']"
+['injection']
+"['head', 'exercise']"
+"['fracture', 'sprain', 'ankle', 'x-ray', 'pain']"
+"['red bumps', 'then swelling turned in to blistering']"
+"['anxiety', 'epilepsy']"
+"['abdomen', 'and back', 'red ""bumps"" across my chest', 'shoulders']"
+[]
+['small thrombus in distal right pulmonary artery']
+['atopic dermatitis']
+"['period', 'spotting', 'pregnancy']"
+['i have retro peritoneal fibrosis with an aortic aneurysm']
+['type 1 diabetes']
+['suffering burning muscle pain']
+"['seizure', 'seizure disorder', 'exercise']"
+['drug']
+"['anus', 'vagina', 'birth control', 'pregnancy']"
+['chronic dysentery']
+"['inflammation', 'stomach', 'nausea', 'pain', 'vasculitis']"
+['heart rate still at 120 and i have terrible headache']
+"['penis', 'exercise']"
+"['insulin', 'injection', 'running', 'diabetes']"
+['prolapse uterus']
+"['pain', 'shingles']"
+[]
+"['pregnancy', 'walking', 'vision']"
+"['weight', 'supplement']"
+"['sexual intercourse', 'ejaculation', 'period', 'pregnancy', 'hormone']"
+"['body itching with no rash', 'pain behind my right shoulder blade']"
+[]
+['gallbladder removal fundal plycation mild gastritis']
+"['period', 'miscarriage', 'pregnancy', 'head', 'pain']"
+"['stomach', 'nausea', 'hunger']"
+['lupus']
+['fatigue from medication']
+['pregnancy']
+"['period', 'pregnancy', 'post-menopause']"
+"['pregnancy', 'vagina', 'tightness', 'penis', 'pain']"
+"['aids', 'hiv']"
+[]
+"['ice cream', 'mucus']"
+['vitamin']
+"['lump', 'ears', 'skin', 'head']"
+['anorexia']
+"['ringworm', 'skin']"
+"['ringworm', 'skin']"
+['acne']
+"[""parkinson's disease"", 'drug']"
+[]
+['sjogrens syndrome']
+"['sexual intercourse', 'ejaculation', 'period', 'pregnancy', 'baby']"
+"['sexual intercourse', 'breast', 'birth control', 'nausea', 'irregularity']"
+['my daughter has cutis marmorata']
+"['vertigo', 'dizziness', 'nausea', 'vomit', 'movement']"
+['feels nauseated and dizzy']
+"['ears', 'running', 'blood pressure']"
+[]
+['morphine']
+['toe has been amputated']
+['feeling discomfort in chest']
+"['sexual intercourse', 'aids', 'hiv']"
+"['103 fever', 'cough']"
+[]
+['amoebiasis']
+"['strep throat', 'tonsil', 'newborn', 'virus', 'urinary tract infection']"
+"['stomach', 'nausea', 'running']"
+['copd and a chest infection']
+"['urinalysis', 'marijuana']"
+"['weakness', 'pain', 'exercise', 'vaginal discharge']"
+"['yeast infection', 'thigh', 'over the counter', 'burn', 'vagina']"
+['i caught clostridium difficile colitis (cdiff)']
+"['drug', 'libido', 'epilepsy', 'depression', 'seizure']"
+['i was diagnosed with macular hole in my left eye']
+"['astigmatism', 'eyeball', 'vision', 'swelling', 'insurance']"
+['is skin mole dangerous']
+"[""my toe got blacker and it's swollen""]"
+"['acne', 'stomach', 'swelling', 'pain']"
+"['fever', 'running', 'drug']"
+['bedbug']
+['acne']
+['milk']
+"['penicillin', 'ears']"
+['prostate cancer']
+['skin']
+['red wasp bite']
+"['arthritis', 'fracture', 'surgery']"
+"['orange', 'juice', 'bacterium', 'virus', 'drinking']"
+['ring worms']
+[]
+['upper left arm in pain']
+['pregnancy']
+[]
+['injury']
+['hives']
+"['headache', 'bacterium']"
+['caffeine']
+[]
+"['ibruprohen and anti inflamatories no effect', 'steroid injection and physio']"
+['niacin']
+"['prostatitis', 'long-term effect']"
+[]
+['rash']
+"['mild disc bulge and a degeneration', 'what therapy should i undergo?']"
+[]
+['shingles']
+"['almond', 'milk']"
+"['pregnancy', 'hormone']"
+['tongue']
+"['burn', 'thigh', 'swelling']"
+['tuberculosis']
+['did i have heart attack?']
+['fexofenadine']
+['headache']
+['cystic fibrosis']
+['osteoarthritis']
+"['affordable care act', 'wyoming']"
+"['chronic obstructive pulmonary disease', 'fibromyalgia', 'degenerative disc disease', 'osteoarthritis', 'foot']"
+['diagnosed with mononucleosi']
+[]
+"['human papillomavirus', 'wart', 'cancer', 'pap test']"
+['burn']
+['ankle']
+"['genital herpes', 'confusion', 'shingles']"
+['bedbug']
+"['period', 'pregnancy', 'spotting', 'pregnancy test']"
+['orgasm']
+"['eyes', 'vision', 'pupil']"
+[]
+"['colonoscopy', 'anxiety', 'neuropathy']"
+['anxiety']
+"['herniated disk', 'numbness', 'buttocks', 'pain']"
+"['consumption', 'acne']"
+[]
+"['arm', 'rash', 'plant', 'poison ivy', 'pets']"
+"['stomach', 'iron']"
+['motor nerve conduction study']
+['sleep hygeine']
+"['testicle', 'hernia', 'surgery', 'pain']"
+['drug test']
+['erection']
+['bipolar disorder']
+"['urinary incontinence', 'condom']"
+"['arm', 'healing', 'pain']"
+"['sore throat', 'head', 'neck', 'fever', 'mucus']"
+"[""athlete's foot""]"
+"['rash', 'waist', 'bacterium']"
+['arrhythmia']
+[]
+[]
+[]
+[]
+"['tenderness', 'emergency room']"
+['herpes']
+['genital herpes']
+"['asthma', 'chronic obstructive pulmonary disease']"
+['acne']
+"['depression', 'bipolar disorder', 'manic depressive']"
+['i managed to get epididymitis']
+[]
+['pneumonia']
+['allergic reaction']
+"['blood pressure', 'corpulence', 'weight', 'smoking', 'second-hand smoke']"
+"['yogurt', 'thrush']"
+['pus coming out penis stds']
+"['ibuprofen', 'pain']"
+"['heartburn', 'tomato', 'food', 'prostate cancer']"
+['is it tetanus']
+"['smoking', 'blood pressure']"
+['osteoporosis']
+"['period', 'pregnancy', 'birth control', 'sexual intercourse']"
+['atopic dermatitis']
+[]
+"['h. pylori', 'antibiotic']"
+"['hypoglycemia', 'type 1 diabetes', 'family']"
+[]
+"['sexual intercourse', 'pregnancy']"
+['levocetirizine']
+['vagina']
+"['shingles', 'virus']"
+"['sexual intercourse', 'ejaculation', 'period', 'pregnancy', 'sperm']"
+['period']
+"['swallow', 'tonsil', 'fever', 'penicillin']"
+[]
+"['aspiration', 'dental', 'dementia', 'swallow']"
+"['pregnancy', 'ejaculation']"
+"['borderline personality disorder', 'depression']"
+"['burn', 'heart', 'nose', 'throat', 'aloe']"
+"['baby', 'temperature', 'ear infection']"
+['i have a throat bacterial infection']
+"['pregnancy', 'baby']"
+['heartburn']
+['my daughter has cutis marmorata']
+"['ibuprofen', 'allergic reaction']"
+['pregnancy']
+['drug']
+['wart']
+[]
+"['bloating', 'cramps']"
+"['tongue', 'pain', 'biopsy', 'cancer', 'tobacco']"
+"['eyes', 'skin']"
+['seizure']
+[]
+['antibiotic']
+['cyst on ovary']
+"['penis', 'injection']"
+['condom']
+['insulin']
+"['gastritis', 'weight', 'exercise', 'diet']"
+"['period', 'pregnancy', 'birth control']"
+"['high blood pressure', 'sleep apnea', 'apnea', 'tremor', 'concentration']"
+"['aids', 'hiv']"
+['distended stomach']
+"['cramps', 'burn', 'pain', 'meal', 'period']"
+"['penis', 'pregnancy', 'vagina', 'ejaculation', 'hymen']"
+"['exercise', 'travel']"
+"['varicose vein', 'leg', 'surgery', 'running', 'blood pressure']"
+"['aches', 'and blue veins', 'i am experiencing', 'joint pain', 'swollen feet']"
+"['ejaculation', 'stomach', 'pregnancy', 'masturbation', 'sperm']"
+[]
+"['long-term effect', 'anemia']"
+['protein']
+"['paranoid behavior', 'anxiety', 'sadness', 'crying', 'suicide']"
+"['nausea', 'pregnancy', 'sexual intercourse', 'stomach']"
+[]
+['stroke on right side of brain']
+['urine has no color']
+[]
+"['diet', 'seizure disorder']"
+['rosacea']
+"['period', 'pregnancy', 'condom']"
+['pain during intercourse']
+['omega fatty acids']
+['menopause imbalance']
+[]
+[]
+"['acne', 'baby']"
+"['scabies', 'rash', 'welt']"
+"['depression', 'pregnancy']"
+"['migraine', 'headache']"
+"['tooth', 'cough', 'blood pressure', 'pulse', 'dental']"
+"['penis', 'prostatitis']"
+"['acne', 'pregnancy']"
+"['tongue', 'tenderness', 'vision']"
+"['boil', 'injection', 'antibiotic', 'shaving']"
+['cataract']
+"['sexual intercourse', 'sexually transmitted disease']"
+['pregnancy']
+['postpartum depression']
+"['surgery', 'hernia', 'laparoscopic surgery']"
+[]
+"['pregnancy', 'period']"
+[]
+['supplement']
+"['mouth', 'throat', 'tongue', 'vision', 'taste']"
+['ultrasound']
+"['amoxicillin', 'pink eye', 'eyes', 'ear infection']"
+['diet']
+['should a cortisone injection be done without ultra sound guidance']
+"['diabetes', 'foot', 'nail', 'injection', 'pain']"
+[]
+"['gastroenteritis', 'stomach', 'nausea', 'vomit']"
+"['mammogram', 'hormonal therapy', 'screening']"
+['mri']
+"['lice', 'stress']"
+['mononucleosis']
+"['egg whites', 'flu']"
+"['nicotine', 'throat', 'cancer']"
+['i caught clostridium difficile colitis (cdiff)']
+"['fear', 'vision', 'stress', 'anxiety']"
+"['migraine', 'neck']"
+"[""athlete's foot""]"
+"['metabolism', 'weight', 'food', 'confusion', 'hunger']"
+"['drinking', 'exercise']"
+"['i have pain in my back and chest', 'the pain is unbearable']"
+"['swallow', 'sore throat', 'nose', 'fever', 'mucus']"
+['baby constipation']
+['dna test']
+"['period', 'pregnancy', 'pregnancy test']"
+['i suffer from neck pain due to bad posture']
+['pimples all over my face']
+['lupus']
+['bacterial vaginosis']
+['skin']
+['salt']
+[]
+"['perforated eardrum', 'ears']"
+"['tonsil', 'strep throat', 'bacterium', 'virus']"
+"['ears', 'injection', 'ear infection']"
+"['drinking', 'pregnancy', 'caffeine', 'sushi']"
+"['nutrition', 'kidney disease', 'kidney', 'food']"
+[]
+"['allergic reaction', 'food']"
+[]
+"['colitis', 'ulcer', 'pain']"
+[]
+['abdominal pain and the blood test results for my liver']
+['hepatitis c']
+['birth control']
+"['multivitamin', 'vitamin']"
+['drinking']
+"['drug', 'antibiotic']"
+"['allergy', 'nose', 'drainage', 'bacterium', 'virus']"
+"['aspirin', 'gastroenteritis']"
+['pregnancy']
+"['drinking', 'genital herpes']"
+['shingles']
+"['migraine', 'eyes', 'vision', 'pain', 'family']"
+['i have edema']
+['i have been severely depressed and anhedonic']
+"['pain', 'leg']"
+"['ejaculation', 'herpes', 'aids', 'hiv', 'penis']"
+[]
+"['uterus', 'vagina']"
+[]
+"['surgery', 'radical prostatectomy']"
+"['pregnancy', 'irregularity', 'period', 'breast', 'tenderness']"
+"['condom', 'ejaculation', 'period']"
+"['pregnancy', 'electroconvulsive therapy']"
+[]
+"['pregnancy', 'condom', 'penis', 'hand']"
+"['osteoarthritis', 'hand', 'thumb', 'physical therapy', 'exercise']"
+['diarrhea']
+"['medicaid', 'insurance']"
+"['bad circumcision', 'circumcision error']"
+"['pregnancy', 'marijuana', 'nausea', 'chronic pain']"
+['cephalexin']
+"['sexual intercourse', 'heart']"
+"['stress', 'pregnancy', 'pregnancy test', 'vision']"
+"['smell', 'sweating', 'itch', 'dry skin']"
+['ectopic pregnancy']
+"['period', 'pregnancy', 'hormone', 'hypothyroidism']"
+"['period', 'pregnancy', 'pregnancy test']"
+['hematoma after mini face-lift']
+"['colostomy', 'colon']"
+"['pregnancy', 'ejaculation', 'cervix']"
+"['hunger', 'exercise', 'walking']"
+"['arthritis', 'foot', 'weight']"
+[]
+['schizophrenia']
+"['drug', 'confusion', 'fear']"
+['left chest pain']
+"['epilepsy', 'seizure']"
+['getting stomach pain']
+"['headache', 'diarrhea', 'over the counter', 'drug']"
+"['depression', 'birth control', 'injection']"
+"['cavity', 'coldness']"
+['celiac disease']
+"['ringworm', 'scalp']"
+"[""parkinson's disease""]"
+"['keratosis pilaris', 'tattoo', 'skin']"
+"['period', 'miscarriage', 'pregnancy', 'stomach', 'cramps']"
+"['pneumonia', 'antibiotic', 'family']"
+['amoxicillin']
+"['spine', 'magnetic resonance imaging']"
+"['food', 'bacterium', 'antibiotic', 'strep throat']"
+['cramping and diarrhea']
+['pain stops']
+"['migraine', 'birth control', 'hydrocodone']"
+['ejaculation']
+['hormone replacement therapy']
+"['dry', 'itchy patches on my face']"
+['food allergy']
+"['hip pain', 'shingles']"
+['bipolar disorder']
+[]
+['chances for (ivf) in vitro fertilization']
+"['pregnancy', 'sexual intercourse']"
+"[""parkinson's disease""]"
+"['smoking', 'tobacco', 'drinking', 'restlessness']"
+['blood donation']
+[]
+['for over a year my urine has smelled of sulphur']
+['diagnosed with digital papillary carcinoma']
+['bowel movement']
+['blood pressure monitor']
+['heavy bleeding']
+"['scoliosis', 'immune system', 'spina bifida', 'occulta', 'birth']"
+['anxiety']
+"['back bone pain', 'gum bleeding', 'red marks in her body and weakness?', 'sweating']"
+['burn']
+['aspirin']
+"['sexual intercourse', 'hand']"
+"['rash', 'healing']"
+[]
+"['breast', 'nipple']"
+['penis']
+['really painful pelvic pain']
+"['accident right hip', 'lot of pain in my hip buttocks back and leg.']"
+['lupus']
+['dental']
+['postpartum depression']
+"[""parkinson's disease"", 'dizziness']"
+[]
+"['diabetes', 'pregnancy', 'diet']"
+"['hiv', 'ejaculation', 'mouth', 'fever', 'sweating']"
+['attention deficit hyperactivity disorder']
+"['osteoporosis', 'drug']"
+['hyperventilation']
+"['burn', 'stress', 'nausea', 'sweating', 'coldness']"
+['pregnancy']
+[]
+['food']
+['menstrual cycle causes cramping breast soreness']
+"['forearm', 'skin']"
+['abnormal blood test results']
+[]
+"['yeast infection', 'pain', 'sexually transmitted disease', 'vagina', 'burn']"
+"['strep throat', 'injection', 'swelling', 'pain', 'antibiotic']"
+"['pregnancy', 'weight gain', 'breast', 'tenderness', 'headache']"
+"['anxiety', 'panic attack', 'fear']"
+"['cancer', 'chemotherapy', 'colon cancer']"
+"['sexual intercourse', 'vagina']"
+"['human papillomavirus', 'wart']"
+['pregnancy']
+['fever']
+[]
+"['arm', 'neck', 'skin', 'rash', 'temperature']"
+['vasectomy']
+"['intestine', 'mouth', 'nausea', 'weight', 'spit']"
+"['affordable care act', 'family']"
+"['weight', 'exercise']"
+"['pregnancy', 'paranoid behavior', 'birth control', 'period', 'cramps']"
+['aspirin']
+"['breast', 'nipple', 'skin', 'rash', 'tenderness']"
+['chlamydia']
+"['foot', 'knee', 'leg', 'skin']"
+"['hives', 'fever', 'vision', 'swelling', 'orange']"
+"['exercise', 'diet']"
+['terrible stomach pain']
+['ibuprofen']
+"['pain', 'period', 'abdominal pain', 'vaginal discharge', 'burn']"
+"['period', 'hair']"
+"['ulcer', 'stomach']"
+[]
+[]
+"['penis', 'testicle']"
+['period']
+['bacterial vaginosis']
+"['tooth', 'hand', 'cat scan', 'inflammation', 'colitis']"
+['drug']
+['varicocele microsurgery']
+"['mold', 'food']"
+"['miscarriage', 'pregnancy', 'pregnancy test']"
+['loss of appetite']
+"['bipolar disorder', 'tooth decay', 'drug']"
+['insurance']
+['temporomandibular joint disorders']
+"['bloating', 'uterus', 'walking', 'period', 'pregnancy']"
+"['stent', 'period', 'pregnancy']"
+"['period', 'pregnancy', 'paranoid behavior']"
+['baby']
+"[""doctors can't pinpoint problem"", 'legs feel heavy and have disequilibrium']"
+"['nose', 'vision', 'coffee', 'wheat', 'drug']"
+"['vision', 'ear infection']"
+"['allergy', 'shellfish']"
+['exercises']
+['infertility']
+['self-attacking thoughts and feelings']
+[]
+"['stroke', 'subdural hematoma']"
+['wart']
+['over the counter']
+"['drowning', 'lung', 'mucus']"
+"['been having difficulty in breathing for 10 weeks and a constant cough for 6 months with clear phlemg', 'i have asthma and i take ventolin inhaler and seretide inhaler']"
+[]
+"['stomach', 'diarrhea', 'pain', 'weakness']"
+['virus']
+['i had mild pitting edema']
+"['poisoning', 'knee', 'allergy']"
+"['surgery', 'insurance', 'medicare']"
+"['cancer', 'brain', 'breast cancer']"
+"['staph infection', 'vein', 'injection', 'sclerotherapy']"
+"['pregnancy', 'acetaminophen', 'pain']"
+['chickenpox']
+"['inhaler', 'exercise']"
+"['weight', 'loss', 'diet', 'ibs', 'diet pills']"
+['vision']
+['anti-coagulants and the elderly']
+[]
+['exercise']
+['toxic shock syndrome']
+['effects of morning after pill']
+"['cyst', 'bruise', 'breast', 'skin', 'lump']"
+['migraine']
+"['dehydration', 'depression', 'anxiety', 'drinking']"
+"['erectile dysfunction', 'injection']"
+[]
+"['symptoms', 'autism', 'autism symptoms of', 'pediatrician', 'autistic children symptoms', 'autism symptoms children', 'autism and language', 'autism communication', 'behaviour children', 'behaviour problems', 'autism']"
+['pregnancy']
+['atherosclerosis']
+[]
+['epilepsy']
+"['lupus', 'sepsis', 'insurance', 'blood pressure', 'ana test']"
+"['heart disease', 'tooth']"
+"['hepatitis b', 'virus']"
+"['pregnancy', 'period', 'tampon', 'spotting', 'cramps']"
+['adderall is causing some problems']
+"['anxiety', 'schizophrenia']"
+"['period', 'pregnancy']"
+"['thigh', 'leg', 'pain', 'back pain', 'burn']"
+"['flu', 'coldness']"
+['hyperparathyroidism']
+"['food', 'vomit', 'diarrhea', 'heart', 'low blood pressure']"
+"['drinking', 'liver', 'protein']"
+['diarrhea']
+"['pregnancy', 'baby', 'hand foot and mouth disease']"
+"['sexual intercourse', 'drinking']"
+['pregnancy']
+"['thyroid', 'potassium', 'insulin', 'exercise', 'walking']"
+"['cooking', 'iron']"
+"['pregnancy', 'vagina', 'confusion', 'sperm']"
+['osteoarthritis']
+['i found a large lump']
+"['lip', 'birth control pill']"
+[]
+['anxiety']
+"['intestine', ""crohn's disease""]"
+"['sexual intercourse', 'pregnancy']"
+"['pregnancy', 'cosmetic surgery']"
+['emphysema']
+['brain aneurysm']
+[]
+['atopic dermatitis']
+"['miscarriage', 'pregnancy', 'ultrasound']"
+"['rash', 'penis', 'itch', 'burn', 'masturbation']"
+"['pregnancy', 'caffeine']"
+['bladder feels full urethra itches']
+"['pregnancy', 'baby']"
+['ain in chest with palpable lump']
+"['baby', 'teething']"
+"['irregularity', 'breast', 'pregnancy', 'insurance', 'nausea']"
+"['lithium', 'sexual intercourse', 'borderline personality disorder', 'bipolar disorder']"
+['benzoyl peroxide']
+[]
+"['weight loss', 'healing', 'pain']"
+['discharge from my eyes spreading']
+"['cervix', 'uterus', 'vagina', 'ultrasound', 'hysterectomy']"
+['bipolar disorder']
+"['anxiety', 'depression']"
+"['vagina', 'condom', 'yeast']"
+['i suffer from olfactory hallucination (phantosmia)']
+['tingling sensation']
+['i have episodes of vertigo and buzz in head']
+"['vision', 'diet', 'exercise']"
+"['naproxen', 'narcotic']"
+['victim of a medical mistake']
+[]
+['doctors have tried everything']
+"['inflammation', 'sting', 'foot', 'knee', 'lump']"
+"['sinus', 'headache', 'ibuprofen', 'steroid', 'pain']"
+[]
+['swine flu']
+"['muscle', 'vagina', 'exercise']"
+[]
+['heart murmur']
+"[""i've been using ssri (selective serotonin reuptake inhibitors)throughout my life""]"
+['dental']
+[]
+['bipolar disorder']
+[]
+"['steroid', 'weight']"
+"['diabetes', 'tattoo']"
+['infected finger becoming numb']
+['limited movement along right body side']
+"['period', 'pregnancy', 'birth control']"
+"['weakness', 'pain', 'exercise', 'vaginal discharge']"
+"['cholesterol', 'high blood pressure']"
+['neck']
+['condom']
+['dementia']
+[]
+"['bladder', 'pain']"
+"['migraine', 'menstrual']"
+"['eyes', 'fever']"
+[]
+['child loses conscious and sansation']
+"['amoxicillin', 'wisdom tooth', 'strep throat', 'antibiotic']"
+"['testicle', 'bruise', 'walking', 'pain', 'exercise']"
+"['tooth', 'drug']"
+"['sexual intercourse', 'ejaculation', 'period', 'pregnancy', 'ovulation']"
+['small lump in the back of my neck']
+"['anus', 'scrotum', 'skin', 'fever']"
+"['surgery', 'virus']"
+"['infertility', 'ejaculation']"
+['corpulence']
+"['hepatitis', 'virus']"
+"['hair loss', 'nail']"
+"['breast', 'foot', 'rash', 'smell']"
+[]
+"['vitamin', 'diet']"
+"['blood thinner', 'eyes']"
+['vomit']
+"['period', 'pregnancy', 'birth control', 'spotting']"
+"['multivitamin', 'family']"
+['child loses conscious and sansation']
+['hormone']
+['flu']
+"['anxiety', 'fear', 'vomit', 'nausea', 'seizure']"
+"['cervix', 'hysterectomy', 'pain']"
+['bone in her arm and hip dislocate']
+"['hair', 'skin', 'thigh', 'vagina', 'lump']"
+"['cold sore', 'genital herpes', 'lip', 'healing', 'penis']"
+[]
+['hair loss']
+"['spotting', 'period', 'burn']"
+"['burn', 'inflammation', 'urination', 'antibiotic', 'urethra']"
+['severe lower back pain']
+['heart disease']
+"['chickenpox', 'shingles']"
+"['arthritis', 'leg', 'spine', 'magnetic resonance imaging', 'back pain']"
+['severe headaches and migraines']
+"['vertigo', 'movement']"
+"['bunion', 'hemoglobin', 'surgery']"
+['deviated septum']
+"['period', 'condom']"
+['problems with tooth']
+['health insurance']
+"['pregnancy', 'diet']"
+"['newborn', 'cats', 'baby']"
+"['fever', 'flu', 'surgery', 'headache']"
+"['foreskin', 'skin', 'coldness', 'penis']"
+['tuberculosis']
+['fibula seems displaced']
+['large hard lump']
+['i donated plasma']
+[]
+"['genital herpes', 'insurance', 'over the counter']"
+['genetic disorders']
+['pain relief while pregnnt']
+[]
+"['period', 'pregnancy', 'irregularity', 'insurance', 'spotting']"
+"['tightness', 'numbness', 'thigh']"
+[]
+"['ultrasound', 'vision', 'uterus', 'pregnancy']"
+"['baby', 'hair']"
+"['anxiety', 'lightheadedness']"
+"['fever', 'lower left quadrant pain']"
+"['hormone', 'hysterectomy', 'sweating', 'insomnia', 'nausea']"
+['lower abdomen']
+[]
+['bipolar disorder']
+"['ejaculation', 'masturbation']"
+"['nausea', 'prenatal vitamin']"
+"['pregnancy', 'fatigue']"
+['baby coughs all the time and has a hard tummy']
+"['bronchitis', 'acute bronchitis', 'immunization', 'vaccination', 'antibiotic']"
+[]
+"['fish', 'cooking']"
+['celiac disease']
+[]
+['drug overdose']
+['birth control']
+['newborn']
+['instead of stool there was a lot of blood']
+"['sexual intercourse', 'infection']"
+"['surgery', 'ibuprofen', 'garlic', 'shoulder']"
+['sinus infection']
+[]
+[]
+['chronic anxiety and transient anxiety attacks']
+"['pregnancy', 'period', 'birth control', 'ovulation']"
+['experiencing fatigue heart flutters weight loss']
+"['yeast infection', 'baby']"
+['diarrhea']
+['my hair has been thinning over the past few years']
+['suspicious densities in upper right lobe']
+"['dependancy', 'migraines']"
+"['ulcer', 'stress']"
+"['pregnancy', 'healthy eating', 'exercise', 'drinking']"
+['diagnosed with chondromalacia patella']
+[]
+"['pregnancy', 'penis']"
+[]
+['exercise']
+"['rectum', 'foot', 'leg', 'hysterectomy', 'injection']"
+['wrinkle']
+['best times to become pregnant']
+[]
+"['burn', 'rash', 'hemorrhoid', 'skin', 'blister']"
+"['hand', 'foot', 'stroke', 'leg']"
+['sciatica pain']
+[]
+"[""stomach that doesn't digest and swollen eyes""]"
+['bipolar disorder']
+"['acne', 'ringworm', 'blister', 'worm', 'itch']"
+"['penis', 'testosterone', 'injection', 'nodule']"
+"['sore throat', 'salt']"
+"['sexual intercourse', 'period', 'pregnancy', 'paranoid behavior', 'condom']"
+['surgeon left a broken anchor in me']
+"['ibuprofen', 'drug']"
+['i have problem breathing']
+"['sexual intercourse', 'pregnancy', 'drowsiness']"
+['colon cancer']
+[]
+"['hives', 'arm', 'chest']"
+"['period', 'pregnancy', 'ovulation']"
+"['mouth', 'throat', 'pain', 'reaction']"
+['over the counter']
+"['acne', 'adult acne', 'skin', 'over the counter']"
+"['pregnancy', 'hysterectomy']"
+['drug overdose']
+['heartburn']
+"['fatigue', 'colon cancer']"
+['baby']
+"['boil', 'surgery']"
+"['allergy', 'coldness', 'sinus', 'zinc', 'vitamin d']"
+"['hand', 'foot', 'coldness']"
+['20 months old boy does not communicate']
+['temporomandibular joint disorders']
+['sperm']
+['flu']
+[]
+['marijuana']
+"['soda', 'diet', 'weight', 'vision']"
+['admitted to hospital with recurring stomach pains']
+['severe chronic active epstein-barr virus infection']
+['knee treatment options']
+['stage 4 sarcomatoid carcinoma']
+"['drinking', 'weight gain']"
+['hepatitis']
+"['period', 'birth control pill']"
+"['sexual intercourse', 'urination', 'pregnancy']"
+"['epilepsy', 'genetic testing']"
+['abdominal pain']
+[]
+"['antibiotic', 'pneumonia', 'blood test', 'bipolar disorder']"
+"['genital herpes', 'infection']"
+"['mammogram', 'breast']"
+"['drinking', 'arm', 'platelet', 'nausea', 'dizziness']"
+[]
+"['cold sore', 'tetanus', 'injection']"
+"['strep throat', 'tonsil']"
+"['chemotherapy', 'nausea']"
+"['baby', 'bacterium']"
+['pregnancy']
+[]
+"['recovery', 'healthcare it', 'diagnostic techniques, treatments']"
+['spots on both legs']
+"['inflammatory bowel disease', 'colon cancer']"
+[]
+['chlamydia']
+['brain tumor']
+['enema']
+['skin']
+['it was not a normal birth']
+['joint pains after the pregnancy']
+['i am suffered from rehumatic heart valve problem']
+"['flu', 'family', 'nausea', 'fever', 'headache']"
+['heartburn']
+['shingles']
+"['pregnancy', 'stomach', 'tightness', 'pain']"
+['was having a bad bout of ocd (obsessive compulsive disorder)']
+"['sexual intercourse', 'baby', 'ovulation', 'fertility']"
+"['scoliosis', 'spine', 'magnetic resonance imaging', 'milk', 'vitamin']"
+"['period', 'pregnancy', 'birth control']"
+"['ejaculation', 'period', 'pregnancy']"
+['injection']
+"['drinking', 'smoking']"
+['drug']
+['hepatitis b']
+"['penis', 'skin', 'rash', 'hydrocortisone']"
+['medicaid']
+"['shoulder', 'ibuprofen', 'pain']"
+['drinking']
+"['breast', 'pregnancy', 'milk']"
+"['smoking', 'marijuana']"
+"['diarrhea', 'fever', 'bowel movement', 'bloating']"
+['food allergy']
+['drug']
+['smell']
+['bipolar disorder']
+"['anxiety', 'heartburn', 'heart', 'stomach', 'nausea']"
+"['hives', 'eyes', 'throat', 'epinephrine', 'dizziness']"
+['pregnancy']
+[]
+[]
+[]
+"['pregnancy', 'tubal ligation', 'drowsiness', 'baby']"
+"['hepatitis c', 'infection']"
+['insurance']
+"['heart attack', 'anxiety', 'pain', 'jaw', 'foot']"
+"['i have rare sarcoid disease', 'probable lupus']"
+"['testicle', 'masturbation', 'lump']"
+"['sexual intercourse', 'pregnancy', 'baby']"
+"['asthma', 'medicare']"
+['condom']
+"['arm', 'exercise']"
+"['drinking', 'baby', 'milk']"
+"['swallow', 'ibuprofen', 'fever', 'running']"
+['chlamydia']
+['mild leukopenia. relative lymphocytosis with few reactive lymphocytes']
+"['pain', 'nervousness']"
+"['abortion', 'miscarriage', 'pregnancy', 'fear', 'birth']"
+"['diet', 'meal']"
+[]
+"['injury', 'diabetes', 'big toe', 'tenderness', 'walking']"
+[]
+['drug']
+[]
+"['constipation', 'stomach', 'fever', 'nausea', 'emergency room']"
+"['period', 'pregnancy']"
+[]
+['is it a esophageal disorder']
+['osteoarthritis']
+"['finger', 'fingernail', 'nail']"
+"['hernia', 'surgery', 'pain', 'massage', 'anesthesia']"
+"['drinking', 'fever', 'running', 'sleepiness']"
+[]
+"['period', 'cramps', 'acne']"
+"['fever', 'guillain barre syndrome']"
+"['skin', 'vagina', 'bacterium', 'antibiotic']"
+[]
+"['surgery', 'hormone replacement therapy', 'hysterectomy', 'mood swing', 'sweating']"
+"['autism signs', 'autism', 'behavioral disorder', 'early intervention', 'pediatrician', 'alternating', 'aggressive', 'behaviors', 'diagnosis', 'childhood', 'autism']"
+"['masturbation', 'sexual intercourse', 'ejaculation']"
+[]
+"['coldness', 'cold', 'pregnancy', 'prenatal vitamin']"
+"['osteoporosis', 'scoliosis']"
+['anxiety problems']
+['gallstone']
+['shingles']
+"['i have short urinary tract (yuretra)', 'what medicine is good?']"
+"['skin', 'nicotine']"
+"['heart disease', 'gender']"
+"['arthritis', 'knee', 'infection']"
+"['throat', 'tongue', 'tonsil', 'coldness', 'rice']"
+"['heart disease', 'stress']"
+"['type 2 diabetes', 'weight', 'exercise']"
+['chronic obstructive pulmonary disease']
+"['diarrhea', 'constipation']"
+[]
+"['virus', 'infection']"
+[]
+"['tick', 'ears', 'fever', 'swelling', 'pain']"
+"['finger', 'toe', 'lip', 'coldness']"
+[]
+"['heart disease', 'diabetes']"
+"['cough', 'coldness']"
+"['ulcerative colitis', 'food']"
+"['hernia', 'surgery']"
+"['baby', 'cereal', 'rice', 'feeding']"
+"['cereal', 'snack', 'soda', 'diet', 'craving']"
+"['skin', 'itch', 'quit smoking']"
+"['atopic dermatitis', 'itch']"
+[]
+"['always tired', 'eczema aggravated']"
+"['hand', 'pain']"
+"['drowsiness', 'vitamin']"
+"['weight', 'food', 'exercise']"
+[]
+"['flu', 'antibiotic']"
+"['doctor and i disagree', 'knee pain']"
+['herniated disk surgery or physiotherapy']
+['exercise']
+['i have a very swollen and painful finger.']
+"['jet lag', 'headache']"
+[]
+[]
+['type 2 diabetes']
+[]
+"['chest', 'stomach', 'lightheadedness', 'nausea', 'dizziness']"
+[]
+"['stomach', 'virus', 'diarrhea', 'weakness']"
+"['beta blocker', 'positron emission tomography scan']"
+['benign prostatic hyperplasia']
+['hernia']
+['heart disease']
+['yeast infection']
+['on 60 mcg of synthroid currently should i be taking more']
+"['thyroid', 'smoking', 'chronic obstructive pulmonary disease']"
+['hiv transmission']
+"['enema', 'kidney stone']"
+"['stomach', 'blood test', 'lightheadedness', 'nausea', 'abdominal pain']"
+"['gonorrhea', 'bacterium']"
+"['burn', 'forearm', 'shoulder', 'iron', 'blister']"
+['hyperthyroidism']
+"['mouth', 'ulcer', 'lip', 'running', 'fever']"
+"['arm', 'rash', 'plant', 'poison ivy', 'pets']"
+[]
+"['mouth', 'tooth', 'pain']"
+"['medicaid', 'florida']"
+['pregnancy']
+['chlamydia']
+"['exercise', 'pain', 'spine', 'spinal stenosis', 'weakness']"
+['drug overdose']
+"['walking', 'exercise', 'heart', 'leg', 'tightness']"
+"['panic attack', 'belch', 'high blood pressure', 'heart']"
+['flu']
+"['colon cancer', 'cancer', 'bone cancer', 'pain', 'kidney']"
+['heartburn']
+"['foot', 'hand', 'numbness', 'coldness']"
+"['pregnancy', 'period', 'blood test', 'breast', 'tenderness']"
+"['ibuprofen', ""crohn's disease""]"
+['drinking']
+"['diet', 'diet pills']"
+['how do i gain weight and what kind of doctor do i need to see']
+"['hepatitis b', 'vaccines']"
+"['endocrine disorders', 'anxiety', 'liver health', 'disorders and conditions', 'chronic fatigue syndrome']"
+"['pregnancy', 'spotting', 'drinking', 'period', 'breast']"
+['amoxicillin']
+[]
+['premature ejaculation']
+['coldness']
+['colon cancer']
+"['artery', 'fear', 'electrocardiogram', 'anxiety', 'chest']"
+"['migraine', 'stress']"
+"['hand', 'thigh', 'wrist', 'rash', 'reaction']"
+"['sexual intercourse', 'pregnancy', 'pain', 'fertility']"
+['pregnancy']
+"['chest', 'stent']"
+"['surgery', 'prostate cancer']"
+['hbsag positive']
+['skin condition after medication for diabetics and cardio vascular']
+"['swelling', 'anus', 'scrotum', 'skin', 'fever']"
+['withdrawl symtoms']
+"['drug', 'pecan']"
+"['high blood pressure', 'diet']"
+"['ovary', 'nausea', 'bloating', 'drowsiness', 'meal']"
+"['bowel movement', 'colon cancer']"
+['mammogram']
+['my ankles and feet are swollen']
+"['epilepsy', 'consciousness']"
+"['hiv negative', 'hiv positive', 'uti']"
+['sinus infection']
+"['weight', 'feeding']"
+['lyme disease']
+['tachycardia']
+['i have fibromyalgia and osteoarthritis']
+"['stress', 'hiv', 'blood test', 'anxiety']"
+['mental health']
+['arthritis']
+[]
+"['injection', 'fear']"
+"['grief', 'intestine', 'small intestine', 'stomach', 'surgery']"
+"['pregnancy', 'period']"
+"['arm', 'breast', 'chest', 'drowsiness', 'running']"
+"['period', 'migraine', 'staph infection', 'pregnancy', 'irregularity']"
+['gallstone']
+['back pain']
+"['migraine', 'period', 'irregularity']"
+"['polyp', 'nose', 'sinus', 'tooth']"
+['hernia']
+"['melatonin', 'hypothyroidism']"
+['family']
+[]
+['painful nodule on bottom of foot']
+"['bowel movement', 'movement', 'stomach', 'pain', 'burn']"
+['food']
+"['allergy', 'injection']"
+"['i am a 21 year old female', 'previously diagnosed with bipolar disorder']"
+['my girlfriend is allergic to me']
+[]
+"[""don't know if its too early to take a pregnancy test""]"
+['travel']
+['b-blocker for palpitations']
+"['period', 'vision', 'pregnancy']"
+['buttocks']
+['chlamydia']
+['diagnosed with mononucleosi']
+['ulcers on leg']
+['injection']
+"['breast', 'yeast']"
+"['pregnancy', 'trichomoniasis']"
+"['fibromyalgia', 'injection', 'pain', 'steroid']"
+"['finger', 'condom', 'scrotum']"
+['i had heart issue - paroxysmal atrial tachycardia']
+"['surgery', 'coffee']"
+['exercise']
+"['pregnancy', 'penis', 'mouth', 'masturbation', 'urination']"
+['fertility pills']
+"['headache', 'jaw', 'pain', 'tooth']"
+"['arthritis', 'fybromyalgia', 'high blood pressure', 'high cholesterol', 'type 2 diabetes']"
+['negative pregnancy tests']
+"['head', 'trauma', 'seizure', 'head injury', 'headache']"
+['hypothyroidism']
+"['period', 'anxiety', 'nausea', 'cramps', 'birth control']"
+['guillain barre syndrome']
+"['swallow', 'multivitamin', 'antibiotic', 'dog']"
+[]
+"['liver', 'ibuprofen', 'oxycodone', 'acetaminophen', 'over the counter']"
+"['high cholesterol', 'heart disease']"
+"['vitamin', 'b12']"
+"['cephalexin', 'throat']"
+"['acne', 'cystic acne', 'cyst', 'forehead', 'whitehead']"
+['endometriosis']
