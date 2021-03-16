@@ -5309,7 +5309,6 @@
 ['ejaculation disorders in men']
 ['ejaculation disorders in men']
 ['ejaculation disorders in men']
-['ejaculation disorders in men']
 ['bad menstrual pain']
 ['bad menstrual pain']
 ['bad menstrual pain']
@@ -6747,11 +6746,9 @@
 "['over the counter', 'tattoo']"
 "['skin', 'cosmetic procedures']"
 ['wart']
-['hair']
 "['eyes', 'foot', 'wrinkle']"
 "['armpit', 'hair', 'lip']"
 ['hair']
-['skin']
 "['hair', 'jaw', 'shaving', 'family']"
 "['skin', 'lemon']"
 "['psoriasis', 'neck', 'scalp', 'plaque']"
@@ -6770,13 +6767,11 @@
 "['exposure', 'hand', 'skin', 'hormone']"
 ['eyes']
 []
-['pore']
 "['hair', 'lip', 'surgery']"
 ['skin']
 ['skin']
 ['movement']
 ['over the counter']
-['hand']
 "['acne', 'scar']"
 ['skin']
 "['scar', 'lip', 'infection', 'cats']"
@@ -6784,12 +6779,10 @@
 "['armpit', 'skin']"
 "['leg', 'skin', 'hydrocortisone']"
 "['eyes', 'skin']"
-['skin']
 ['seborrheic dermatitis']
 []
 "['boil', 'scar']"
 "['adult acne', 'nose', 'skin']"
-"['elbow', 'itch']"
 []
 "['calf', 'heel', 'blister', 'pain', 'walking']"
 ['mole']
@@ -6821,21 +6814,14 @@
 []
 []
 ['eyes']
-"['foot', 'knee', 'leg', 'skin']"
 "['neck', 'insurance']"
 "['skin', 'smell', 'meat']"
-['skin']
-"['skin', 'oatmeal', 'food']"
-['skin']
-"['grief', 'skin']"
 ['skin']
 "['eyes', 'foot', 'sunscreen']"
 []
 "['skin', 'vision', 'anti-aging']"
 ['skin']
-['sunscreen']
 ['eyebrow']
-"['eyelid', 'mouth', 'skin']"
 ['hair']
 "['eyes', 'puffiness', 'insurance']"
 "['aggression', 'rosacea', 'antibiotic']"
@@ -6846,7 +6832,6 @@
 "['skin', 'blister']"
 "['sexually transmitted disease', 'urethra', 'itch']"
 "['adult acne', 'chest', 'over the counter']"
-['blister']
 ['makeup']
 []
 ['hair']
@@ -7958,7 +7943,6 @@
 []
 []
 []
-['food']
 ['tooth']
 ['bad breath']
 ['mouth']
@@ -7997,7 +7981,6 @@
 "['hiv', 'periodontitis']"
 "['tooth', 'drug']"
 ['tooth']
-"['tooth', 'drug']"
 []
 "['tooth', 'family']"
 []
@@ -8080,7 +8063,6 @@
 "['fracture', 'tooth']"
 "['mouth', 'tooth', 'pain']"
 ['tooth']
-['tooth']
 ['mouth']
 ['drug']
 "['vision', 'drug']"
@@ -8146,10 +8128,6 @@
 ['over the counter']
 ['makeup']
 ['coffee']
-['caffeine']
-[]
-[]
-[]
 []
 ['food']
 []
@@ -8158,10 +8136,6 @@
 "['masturbation', 'orgasm']"
 ['hair']
 ['thumb']
-['muscle']
-"['hair', 'short stature']"
-[]
-"['concentration', 'cuts', 'calorie']"
 []
 ['blood pressure']
 ['workout']
@@ -8178,28 +8152,15 @@
 "['antibiotic', 'cough']"
 ['birth control']
 ['supplement']
-['pennsylvania']
-"['skin', 'egg whites']"
-['makeup']
-[]
-[]
 ['movement']
-[]
-"['skin', 'anti-aging']"
 ['cough']
 []
 ['staph infection']
 ['dog']
 []
-"['plant', 'pore', 'skin']"
-"['skin', 'brain']"
-[]
-"['skin', 'honey', 'orange', 'juice', 'yogurt']"
 ['drinking']
 "['ear drum', 'healing']"
 ['mouth']
-[]
-[]
 "['pink eye', 'antibiotic']"
 "['hiv test', 'drug test']"
 ['weight gain']
@@ -8216,7 +8177,6 @@
 "['brain', 'thirst', 'craving', 'drinking']"
 []
 ['supplement']
-"['aging', 'brain']"
 ['ketchup']
 []
 []
@@ -8226,12 +8186,8 @@
 ['food']
 ['anus']
 []
-"['exercise', 'protein', 'muscle']"
-[]
 []
 "['sexually transmitted disease', 'stool culture']"
-['nsaid']
-[]
 "['cervix', 'hand', 'foot']"
 "['sprain', 'ankle']"
 "['pain', 'injury']"
@@ -8242,8 +8198,6 @@
 "['itch', 'stomach', 'leg', 'thigh', 'anus']"
 ['penis']
 "['tear duct', 'nose', 'eyes']"
-[]
-[]
 "['cephalexin', 'blood pressure']"
 ['supplement']
 []
@@ -8342,7 +8296,6 @@
 ['typhoid']
 "['ears', 'tinnitus', 'ear canal']"
 []
-[]
 "['lump', 'arm', 'mole', 'neck', 'skin']"
 "['lemon', 'mint']"
 ['urinalysis']
@@ -8385,7 +8338,6 @@
 "['breast', 'period']"
 []
 "['eyes', 'lens', 'vision']"
-[]
 []
 []
 []
@@ -8582,7 +8534,6 @@
 "['vein', 'testicle', 'pain', 'puberty']"
 []
 ['antibiotic']
-[]
 ['appendix']
 "['nipple', 'foot', 'sexually transmitted disease']"
 "['wrist', 'swelling', 'pain', 'arm', 'fracture']"
@@ -9079,7 +9030,6 @@
 ['drinking']
 "['drinking', 'mouth', 'throat', 'swelling', 'steroid']"
 "['injury', 'black eye', 'concussion', 'head', 'skin']"
-['colonoscopy']
 "['penis', 'masturbation', 'vision', 'pea', 'sexually transmitted disease']"
 ['watery eyes']
 "['masturbation', 'clitoris', 'vagina']"
@@ -9133,7 +9083,6 @@
 ['condom']
 "['sore throat', 'ears', 'swallow']"
 []
-"['cooking', 'iron']"
 "['testicle', 'lump']"
 ['drinking']
 ['appendicitis']
@@ -9235,7 +9184,6 @@
 "['penis', 'swelling', 'foreskin', 'head']"
 "['hand', 'foot', 'stroke', 'leg']"
 []
-"['drug', 'family']"
 ['ears']
 "['pregnancy', 'birth control pill']"
 "['appendix', 'pancreatitis']"
@@ -9303,7 +9251,6 @@
 "['almond', 'milk']"
 "['insomnia', 'vision']"
 []
-['fiber']
 "['penis', 'foreskin', 'head', 'tightness']"
 "['vision', 'dizziness', 'family']"
 "['tooth', 'cellulitis', 'swelling', 'swallow']"
@@ -9402,14 +9349,12 @@
 ['blood pressure']
 []
 "['shingles', 'short stature']"
-"['melatonin', 'drug test']"
 "['ears', 'piercing', 'surgery']"
 ['cranberry']
 ['mononucleosis']
 "['toenail', 'toenail fungus', 'fatigue', 'dizziness', 'thyroid']"
 "['amoxicillin', 'antibiotic', 'eyes']"
 "['eardrum', 'drainage']"
-"['fetus', 'uterus']"
 "['vision', 'confusion']"
 ['vagina']
 "['pain', 'herpes']"
@@ -9467,7 +9412,6 @@
 "['chest', 'palpation', 'pain']"
 "['cyst', 'ovary', 'estrogen', 'vision', 'hormone']"
 ['drinking']
-['stress']
 "['antibiotic', 'period']"
 "['erection', 'penis']"
 ['vagina']
@@ -9509,7 +9453,6 @@
 []
 "['elbow', 'bruise', 'tenderness', 'pain', 'arm']"
 ['stomach']
-['drug test']
 []
 ['bad breath']
 ['hay fever']
@@ -9523,7 +9466,6 @@
 "['lip', 'dizziness']"
 "['human papillomavirus', 'sexual intercourse']"
 ['blood pressure']
-"['hand', 'mouth', 'sore', 'tongue']"
 "['testicle', 'movement']"
 "['penis', 'erection']"
 "['amoxicillin', 'pink eye', 'eyes', 'ear infection']"
@@ -9563,14 +9505,12 @@
 ['labor']
 []
 "['breastfeed', 'sting', 'neck']"
-"['dog', 'bloating', 'spasm']"
 ['poison ivy']
 ['poison ivy']
 ['ears']
 "['ears', 'car sickness']"
 "['over the counter', 'bunion']"
 ['thyroid']
-[]
 ['asthma']
 ['drug']
 "['prostate', 'biopsy']"
@@ -9728,7 +9668,6 @@
 "['worm', 'eyeball', 'makeup', 'vision', 'iris']"
 ['blood test']
 "['impetigo', 'swelling', 'forehead', 'hand']"
-[]
 "['diet', 'drinking', 'penis', 'skin']"
 "['lump', 'throat', 'mucus']"
 []
@@ -9991,7 +9930,6 @@
 []
 "['emergency room', 'meat', 'toe', 'swelling', 'skin']"
 "['calamine', 'lotion', 'contact dermatitis']"
-['cholesterol']
 []
 "['laboratory test', 'urinary tract infection', 'amoxicillin']"
 "['penis', 'yeast infection']"
@@ -10110,7 +10048,6 @@
 "['abscess', 'tooth', 'insurance', 'antibiotic']"
 []
 []
-"['scoliosis', 'baby']"
 ['urinary tract infection']
 "['infant', 'feeding', 'birth', 'cough']"
 []
@@ -10137,7 +10074,6 @@
 ['masturbation']
 "['bowel movement', 'diet']"
 "['urination', 'thirst', 'diabetes']"
-"['acetaminophen', 'rectum']"
 "['baby', 'cocaine', 'pregnancy']"
 []
 ['type 2 diabetes']
@@ -10254,7 +10190,6 @@
 "['cold sore', 'runny nose']"
 ['cesarean section']
 ['staph infection']
-"['melatonin', 'weight gain']"
 "['sore throat', 'antibiotic', 'strep throat']"
 "['tightness', 'numbness', 'thigh']"
 "['tongue', 'skin']"
@@ -10264,10 +10199,8 @@
 ['rotator cuff injury']
 "['over the counter', 'cough']"
 "['infant', 'breast', 'milk']"
-[]
 "['hysterectomy', 'ovary', 'cyst']"
 "['polyp', 'bowel movement', 'pain']"
-[]
 "['fudge', 'mold']"
 ['drug']
 "['urethra', 'arm', 'throat', 'blood test']"
@@ -10621,7 +10554,6 @@
 ['bronchiolitis']
 "['shoulder', 'pain', 'movement', 'arm', 'rotator cuff']"
 "['drinking', 'dehydration', 'cough']"
-"['skin', 'cancer']"
 "['inflammation', 'tonsil', 'muscle', 'throat', 'swallow']"
 ['hair']
 []
@@ -10725,8 +10657,6 @@
 ['obesity']
 ['period']
 "['little finger', 'baby']"
-"['anal fissure', 'sigmoidoscopy']"
-"['vision', 'skin']"
 "['surgery', 'kidney cancer', 'cancer']"
 "['thumb', 'nerve', 'emergency room', 'numbness']"
 ['dourine']
@@ -10774,7 +10704,6 @@
 ['drinking']
 "['catheter', 'pain']"
 ['birth control']
-"['rheumatic fever', 'strep throat']"
 "['lump', 'armpit', 'skin']"
 "['finger', 'chest', 'consciousness', 'coldness']"
 "['drinking', 'urination']"
@@ -10793,13 +10722,11 @@
 []
 "['soda', 'dehydration']"
 ['drug']
-['eyes']
 "['bladder', 'insurance']"
 ['family']
 []
 "['vitamin c', 'infant formula']"
 "['mold', 'food']"
-[]
 "['tenderness', 'urination', 'antibiotic']"
 ['calcium channel blocker']
 "['antibiotic', 'eyes']"
@@ -10854,7 +10781,6 @@
 "['diabetes', 'tattoo']"
 ['psoriasis']
 ['eyes']
-"['sexually transmitted disease', 'penis', 'vagina']"
 ['bronchitis']
 []
 "['workout', 'supplement']"
@@ -11231,7 +11157,6 @@
 "['nose', 'smell']"
 ['ear canal']
 ['vitamin']
-['cirrhosis']
 "['weight', 'feeding']"
 ['scrotum']
 []
@@ -11308,7 +11233,6 @@
 "['coconut oil', 'jock itch']"
 []
 ['foreskin']
-['multivitamins']
 "['baby', 'period']"
 "['movement', 'stomach']"
 ['foot']
@@ -11320,7 +11244,6 @@
 []
 "['vagina', 'abdominal pain']"
 ['gender']
-['staph infection']
 ['vision']
 "['cancer', 'methadone', 'lung cancer', 'pain', 'drug']"
 "['coconut oil', 'sunscreen']"
@@ -11525,7 +11448,6 @@
 "['movement', 'baby']"
 "['sexual intercourse', 'organ', 'penis', 'vision']"
 []
-['pregnancy test']
 "['penis', 'circumcision', 'erection', 'masturbation']"
 []
 "['pink eye', 'mouth']"
@@ -11641,7 +11563,6 @@
 []
 ['antibiotic']
 "['hysterectomy', 'over the counter']"
-"['drinking', 'multivitamin', 'vitamin']"
 []
 ['scoliosis']
 "['ankle', 'foot']"
@@ -11680,7 +11601,6 @@
 "['biofeedback', 'birth control', 'lightheadedness', 'birth control pill', 'family']"
 "[""swimmer's ear""]"
 "['allergy', 'whooping cough', 'tetanus', 'electrogastrogram', 'vaccination']"
-['oxycodone']
 "['clitoris', 'hair', 'pap test', 'pressure', 'smell']"
 "['ears', 'tinnitus']"
 ['hemorrhoid']
@@ -11914,12 +11834,10 @@
 "['pregnancy', 'injection']"
 ['erection']
 "['head', 'aspirin', 'over the counter', 'stitches', 'emergency room']"
-['drug test']
 "['ulcer', 'stomach', 'vomit']"
 "['sexual intercourse', 'pregnancy', 'birth control', 'sperm', 'ovulation']"
 ['swallow']
 "['throat', 'pain', 'penicillin']"
-"['ejaculation', 'vagina', 'masturbation']"
 "['sodium', 'turkey', 'calorie']"
 []
 "['urinalysis', 'smoking']"
@@ -11999,7 +11917,6 @@
 []
 "['cough', 'over the counter']"
 "['foot', 'walking', 'lump']"
-['seizure']
 ['sexual intercourse']
 ['movement']
 "['arm', 'breast', 'lump']"
@@ -12092,7 +12009,6 @@
 "['foot', 'vision']"
 "['leg', 'herb', 'restless leg syndrome', 'vitamin']"
 ['crying']
-"['migraine', 'hair']"
 "['chickenpox', 'shingles', 'nervousness', 'running']"
 ['anxiety']
 ['herpes']
@@ -12124,7 +12040,6 @@
 "['short stature', 'orgasm']"
 "['foot', 'vision']"
 "['grief', 'cancer', 'biopsy', 'chemotherapy', 'skin cancer']"
-"['amoxicillin', 'antibiotic']"
 "['baby', 'dog']"
 ['penis']
 "['muscle', 'protein', 'weight', 'food', 'diet']"
@@ -12325,7 +12240,6 @@
 []
 []
 []
-['drug']
 ['drinking']
 []
 ['herpes']
@@ -12379,7 +12293,6 @@
 "['sexual intercourse', 'vagina']"
 "['yeast infection', 'swelling']"
 ['penis']
-['sexual intercourse']
 []
 "['urination', 'anus', 'hair', 'vagina', 'healing']"
 ['head']
@@ -13991,7 +13904,6 @@
 "['acetaminophen', 'infant', 'baby']"
 "['wound', 'foot', 'cuts']"
 "['hand', 'baby', 'drug', 'first aid']"
-"['aspirin', 'acetaminophen']"
 "['over the counter', 'ear infection', 'drug']"
 "['belch', 'baby', 'over the counter', 'drug']"
 "['foot', 'amoxicillin', 'itch']"
@@ -14089,7 +14001,6 @@
 []
 "['skin', 'nicotine']"
 "['insurance', 'over the counter']"
-['cuts']
 ['drug']
 ['aspirin']
 ['allergy']
@@ -14122,7 +14033,6 @@
 "['vitamin', 'drug']"
 ['vitamin']
 "['sleepwalking', 'hallucination']"
-[]
 []
 []
 ['knee']
@@ -15403,7 +15313,6 @@
 "['skin', 'itch']"
 "['foot', 'wrinkle']"
 "['hair', 'skin']"
-"['injury', 'neck']"
 "['buttocks', 'thigh', 'benzoyl peroxide', 'cortisone']"
 ['sunscreen']
 ['pain']
@@ -15413,7 +15322,6 @@
 "['eyes', 'skin', 'surgery']"
 "['hand', 'wrinkle']"
 []
-"['skin', 'itch']"
 ['skin']
 ['nose']
 []
@@ -15433,29 +15341,17 @@
 "['eyes', 'skin']"
 []
 "['skin', 'vitamin a', 'wrinkle']"
-['freckle']
 "['skin', 'collagen', 'anti-aging']"
 "['eyes', 'dry skin']"
-"['eyes', 'skin']"
-['skin']
 "['fracture', 'sunscreen', 'wrinkle']"
-"['eyes', 'skin', 'surgery', 'puffiness']"
-"['skin', 'collagen', 'anti-aging']"
-[]
-[]
 "['skin', 'wrinkle']"
 "['lotion', 'wrinkle']"
-"['skin', 'lotion']"
 ['melanoma']
 "['buttocks', 'thigh', 'benzoyl peroxide', 'cortisone']"
 "['skin', 'food', 'diet']"
 ['scar']
 "['eyes', 'wrinkle']"
-['skin']
 ['anti-aging']
-['skin']
-"['eyes', 'wrinkle']"
-['retina']
 ['skin']
 ['vision']
 ['skin']
@@ -15464,21 +15360,12 @@
 []
 ['skin']
 ['skin']
-['dry skin']
 ['birthmark']
 ['vision']
 []
 ['skin']
 ['skin']
-['melanoma']
-"['skin', 'food', 'diet']"
 []
-['skin']
-[]
-['skin']
-['vision']
-['skin']
-['skin']
 []
 ['heel']
 "['itch', 'dry skin']"
@@ -15579,8 +15466,6 @@
 ['over the counter']
 "['sunscreen', 'sweating']"
 ['alopecia']
-['hypothermia']
-['skin']
 []
 "['pain', 'foot', 'tendonitis', 'vein', 'ankle']"
 []
@@ -15599,18 +15484,10 @@
 ['nose']
 "['acne', 'polycystic ovarian syndrome', 'pregnancy', 'birth control']"
 ['lip']
-['over the counter']
 ['pressure']
 "['foot', 'grief', 'oxygen', 'pulse']"
-"['alopecia', 'hair']"
-['carbon dioxide']
 "['toe', 'itch', 'big toe', 'electromyography', 'neuropathy']"
 "['irregularity', 'heart']"
-"['eyelid', 'skin']"
-"['hair', 'lip']"
-[]
-"['eyes', 'puffiness']"
-[]
 []
 "['nightmare', 'melatonin', 'seizure']"
 ['drug']
@@ -15735,7 +15612,6 @@
 ['insurance']
 "['medicaid', 'alabama']"
 ['medicare']
-['medicaid']
 "['insurance', 'nightmare']"
 "['medicare', 'aging']"
 []
@@ -15809,7 +15685,6 @@
 []
 "['trigeminal neuralgia', 'insurance', 'dental', 'pain', 'surgery']"
 ['medicare']
-[]
 []
 []
 []
@@ -16075,7 +15950,6 @@
 []
 []
 []
-[]
 ['insurance']
 []
 []
@@ -16088,7 +15962,6 @@
 []
 []
 ['insurance']
-[]
 []
 []
 []
@@ -16114,7 +15987,6 @@
 []
 []
 ['medicaid']
-[]
 []
 "['cancer', 'medicare']"
 "['health insurance', 'medicare']"
@@ -16172,7 +16044,6 @@
 ['health insurance marketplace']
 []
 ['medicaid']
-[]
 []
 []
 []
@@ -16270,7 +16141,6 @@
 []
 []
 []
-[]
 ['medicare']
 ['insurance']
 ['insurance']
@@ -16291,7 +16161,6 @@
 []
 []
 []
-['insurance']
 []
 ['medicaid']
 "['finger', 'injury', 'thumb', 'insurance']"
@@ -16517,13 +16386,10 @@
 "['drinking', 'chemotherapy']"
 "['head', 'penis']"
 "['stress', 'ears']"
-['wrinkle']
-"['jaw', 'skin']"
 ['urinary tract infection']
 []
 ['pregnancy']
 []
-"['neck', 'turkey']"
 "['calf', 'legg-calve-perthes disease']"
 []
 "['boil', 'baby']"
@@ -16608,11 +16474,7 @@
 ['diabetes']
 ['diabetes']
 "['diabetes', 'vision', 'drug']"
-['wrinkle']
 "['sexual intercourse', 'diabetes']"
-[]
-[]
-[]
 []
 []
 ['vaccination']
@@ -17001,7 +16863,6 @@
 "['bipolar disorder', 'mood swing', 'coldness', 'turkey', 'insurance']"
 "['attention deficit hyperactivity disorder', 'post-traumatic stress disorder', 'bipolar disorder', 'family']"
 "['attention deficit hyperactivity disorder', 'post-traumatic stress disorder', 'bipolar disorder', 'family']"
-"['bipolar disorder', 'schizophrenia']"
 "['post-traumatic stress disorder', 'bipolar disorder', 'psychosis', 'schizophrenia', 'drowsiness']"
 "['stress', 'bipolar disorder', 'head', 'nose', 'mood swing']"
 "['drinking', 'bipolar disorder', 'vision']"
@@ -17151,7 +17012,6 @@
 "['eyes', 'pain', 'coldness', 'cold', 'head']"
 "['cold', 'headache', 'aspirin', 'over the counter', 'mucus']"
 "['cold', 'headache', 'aspirin', 'over the counter', 'mucus']"
-"['coldness', 'cold', 'pregnancy', 'prenatal vitamin']"
 "['infant', 'baby', 'coldness', 'cold', 'cough']"
 "['cold', 'chest', 'coldness', 'exercise']"
 "['cold', 'chest', 'coldness', 'exercise']"
@@ -17365,7 +17225,6 @@
 "['type 1 diabetes', 'diabetes', 'insulin', 'coldness', 'running']"
 "['type 1 diabetes', 'diabetes']"
 "['type 1 diabetes', 'diabetes']"
-"['type 1 diabetes', 'diabetes']"
 "['type 1 diabetes', 'diabetes', 'insulin', 'coldness', 'running']"
 "['hypoglycemia', 'type 1 diabetes', 'family']"
 "['type 1 diabetes', 'type 2 diabetes']"
@@ -17533,7 +17392,6 @@
 "['acne', 'skin', 'lotion', 'rash', 'makeup']"
 "['acne', 'herpes', 'lip', 'vagina', 'tenderness']"
 "['acne', 'herpes', 'lip', 'vagina', 'tenderness']"
-"['acne', 'herpes', 'lip', 'vagina', 'tenderness']"
 "['acne', 'burn', 'vagina', 'swelling']"
 "['acne', 'ears', 'lymph node', 'neck', 'swelling']"
 "['acne', 'ears', 'lymph node', 'neck', 'swelling']"
@@ -17661,7 +17519,6 @@
 "['acne', 'scar']"
 "['acne', 'head', 'baby']"
 ['acne']
-"['acne', 'birth control', 'hyperpigmentation']"
 "['acne', 'healing']"
 "['acne', 'skin']"
 ['acne']
@@ -17690,7 +17547,6 @@
 ['type 1 diabetes']
 "['acne', 'drug']"
 "['acne', 'skin']"
-['acne']
 "['acne', 'ibuprofen']"
 "['acne', 'adult acne', 'over the counter']"
 ['acne']
@@ -17710,7 +17566,6 @@
 ['acne']
 ['acne']
 "['acne', 'skin', 'sunscreen', 'makeup']"
-"['acne', 'fracture', 'skin', 'sunscreen']"
 "['acne', 'leg', 'sweating']"
 "['acne', 'skin']"
 "['acne', 'thigh']"
@@ -17726,7 +17581,6 @@
 "['flu', 'vaccines']"
 ['vaccines']
 "['tetanus', 'rabies', 'cats', 'vaccines', 'drinking']"
-"['rabies', 'cats', 'tetanus', 'vaccines', 'drinking']"
 "['rabies', 'cats', 'tetanus', 'vaccines', 'drinking']"
 ['vaccines']
 "['rabies', 'food', 'cats', 'virus']"
@@ -17822,7 +17676,6 @@
 "['sexual intercourse', 'human papillomavirus', 'dysplasia', 'wart', 'cancer']"
 "['wart', 'pregnancy', 'rectum', 'birth']"
 ['wart']
-['wart']
 "['decompression sickness', 'wart', 'ring finger', 'blister']"
 "['human papillomavirus', 'wart', 'anus', 'surgery']"
 "['virus', 'flu', 'fatigue', 'head', 'temperature']"
@@ -17909,7 +17762,6 @@
 "['virus', 'fever', 'confusion', 'flu']"
 "['virus', 'pharyngitis']"
 "['baby', 'virus']"
-"['shingles', 'virus']"
 "['nose', 'mucus', 'eyes', 'hand', 'virus']"
 "['herpes', 'virus']"
 "['virus', 'fever', 'cough']"
@@ -17934,7 +17786,6 @@
 "['bronchitis', 'virus', 'vision']"
 "['coldness', 'cold sore', 'mouth', 'food', 'virus']"
 "['shingles', 'virus']"
-['virus']
 "['depression', 'headache', 'bipolar disorder']"
 "['marijuana', 'bipolar disorder']"
 ['brain tumor']
@@ -18304,11 +18155,9 @@
 "['skin', 'sexual intercourse', 'pain', 'penis', 'burn']"
 "['burn', 'eyes']"
 "['cats', 'smell', 'poison ivy', 'burn', 'reaction']"
-"['abdominal pain', 'pain', 'diarrhea', 'nerve', 'burn']"
 ['burn']
 ['burn']
 ['burn']
-"['back pain', 'shoulder blade', 'neck', 'burn', 'pressure']"
 "['burn', 'rash', 'hemorrhoid', 'skin', 'blister']"
 "['burn', 'rash', 'hemorrhoid', 'skin', 'blister']"
 "['burn', 'rash', 'hemorrhoid', 'skin', 'blister']"
@@ -18429,7 +18278,6 @@
 ['chlamydia']
 "['chlamydia', 'vomit']"
 ['chlamydia']
-"['chlamydia', 'ejaculation', 'genitalia', 'vagina']"
 ['chickenpox']
 "['chickenpox', 'shingles', 'vaccination']"
 ['chickenpox']
@@ -18504,7 +18352,6 @@
 "['urethra', 'lump', 'skin', 'gonorrhea', 'chlamydia']"
 "['gonorrhea', 'chlamydia']"
 "['chlamydia', 'sexual intercourse']"
-['chlamydia']
 "['burn', 'breast', 'ovulation', 'pregnancy']"
 "['vagina', 'itch', 'pregnancy', 'burn']"
 "['burn', 'inflammation', 'urination', 'antibiotic', 'urethra']"
@@ -18518,7 +18365,6 @@
 ['chlamydia']
 "['sexual intercourse', 'urination', 'pain', 'chlamydia', 'antibiotic']"
 ['chlamydia']
-"['period', 'short stature', 'chlamydia', 'bacterium']"
 "['sexual intercourse', 'inflammation', 'bladder', 'uterus', 'chlamydia']"
 "['sexually transmitted disease', 'chlamydia']"
 "['sexual intercourse', 'chlamydia']"
@@ -18641,7 +18487,6 @@
 "['breast', 'coldness']"
 "['leg', 'burn']"
 "['breast', 'swelling', 'tenderness', 'lump', 'burn']"
-"['antibiotic', 'allergy', 'steroid', 'burn', 'pain']"
 "['antibiotic', 'allergy', 'steroid', 'burn', 'pain']"
 "['antibiotic', 'allergy', 'steroid', 'burn', 'pain']"
 "['ginger', 'tea', 'burn', 'throat']"
@@ -18836,7 +18681,6 @@
 "['heart attack', 'stroke', 'corpulence', 'weight', 'vision']"
 "['heart attack', 'stroke', 'corpulence', 'weight', 'vision']"
 "['blood pressure', 'corpulence']"
-"['back pain', 'pain', 'corpulence']"
 "['back pain', 'pain', 'corpulence']"
 "['corpulence', 'diet pills']"
 "['corpulence', 'diet pills']"
@@ -19128,7 +18972,6 @@
 "['burn', 'varicose vein', 'leg']"
 "['vagina', 'swelling', 'lip', 'pain', 'coldness']"
 "['sweating', 'coldness']"
-"['heart', 'hand', 'coldness']"
 "['headache', 'fever', 'coldness']"
 "['drinking', 'coldness', 'stomach']"
 "['coldness', 'cold sore', 'genital herpes', 'vision', 'lip']"
@@ -19222,7 +19065,6 @@
 "['congestive heart failure', 'pacemaker', 'stroke']"
 ['congestive heart failure']
 "['foot', 'congestive heart failure', 'oxygen', 'diet', 'stress']"
-"['congestive heart failure', 'pulmonary hypertension']"
 "['coldness', 'stuffy nose', 'cough', 'ears']"
 "['mononucleosis', 'headache', 'runny nose', 'coldness', 'throat']"
 "['coldness', 'cough']"
@@ -19282,7 +19124,6 @@
 "['congestive heart failure', 'chronic obstructive pulmonary disease']"
 "['congestive heart failure', 'heart', 'neck', 'exercise', 'walking']"
 ['congestive heart failure']
-"['congestive heart failure', 'edema', 'flu', 'cough', 'pain']"
 "['congestive heart failure', 'blood sugar', 'sleepiness']"
 "['congestive heart failure', 'blood sugar', 'sleepiness']"
 "['congestive heart failure', 'blood sugar', 'sleepiness']"
@@ -19513,7 +19354,6 @@
 "['erectile dysfunction', 'smoking', 'alcohol abuse', 'vasectomy', 'erection']"
 "['exposure', 'smoking']"
 ['smoking']
-"['smoking', 'marijuana']"
 "['toxoplasmosis', 'cats']"
 ['toxoplasmosis']
 ['toxoplasmosis']
@@ -19640,7 +19480,6 @@
 ['smoking']
 "['tonsil', 'smoking', 'throat', 'pain', 'swelling']"
 ['smoking']
-"['smoking', 'marijuana', 'stomach']"
 "['smoking', 'marijuana', 'stomach']"
 "['marijuana', 'panic attack', 'smoking', 'chest']"
 "['marijuana', 'panic attack', 'smoking', 'chest']"
@@ -19807,7 +19646,6 @@
 "['sting', 'hand', 'pain', 'swelling', 'reaction']"
 "['skin', 'allergy', 'reaction', 'asthma']"
 "['penis', 'rash', 'skin', 'vision', 'lump']"
-['rash']
 "['steroid', 'rash']"
 "['period', 'rash', 'vagina', 'hand', 'pregnancy']"
 "['infant', 'fever', 'rash']"
@@ -20132,7 +19970,6 @@
 ['shingles']
 "['herpes', 'shingles', 'family']"
 ['shingles']
-['shingles']
 "['ears', 'cough', 'runny nose', 'rash']"
 "['lump', 'blister', 'rash']"
 "['lip', 'skin', 'rash', 'leg', 'nose']"
@@ -20147,10 +19984,8 @@
 ['shingles']
 ['shingles']
 ['shingles']
-['shingles']
 "['shingles', 'essential tremor', 'neuralgia', 'arm', 'hand']"
 "['shingles', 'seeds', 'blister']"
-"['shingles', 'smell']"
 "['shingles', 'immune system']"
 "['rash', 'sore', 'armpit', 'thigh', 'penis']"
 "['rash', 'thigh', 'testicle', 'pressure', 'heat rash']"
@@ -20188,12 +20023,9 @@
 ['shingles']
 "['shingles', 'pregnancy', 'baby']"
 "['vaccination', 'shingles']"
-"['vaccination', 'shingles']"
-"['vaccination', 'shingles']"
 ['shingles']
 "['shingles', 'short stature']"
 "['shingles', 'short stature']"
-['shingles']
 ['shingles']
 ['shingles']
 ['shingles']
@@ -20202,7 +20034,6 @@
 "['eyes', 'thyroid', 'rash']"
 "['rash', 'steroid', 'healing']"
 "['rash', 'shingles']"
-"['pain management', 'back pain', 'sinus infection', 'epidural']"
 "['kidney infection', 'fever', 'antibiotic', 'skin', 'rash']"
 ['sinus infection']
 "['sinus', 'sinus infection', 'nose', 'bad breath', 'mucus']"
@@ -20246,7 +20077,6 @@
 "['coldness', 'nebulization', 'travel', 'colorado', 'north carolina']"
 "['ears', 'tooth', 'coldness', 'walking', 'antibiotic']"
 "['testicle', 'coldness']"
-"['hand', 'coldness']"
 ['coldness']
 "['breast', 'nipple', 'skin', 'rash', 'tenderness']"
 "['breast', 'nipple', 'skin', 'rash', 'tenderness']"
@@ -20276,7 +20106,6 @@
 "['drinking', 'coldness', 'soda', 'tea', 'weight loss']"
 "['drinking', 'coldness', 'soda', 'tea', 'weight loss']"
 "['drinking', 'coldness', 'soda', 'tea', 'weight loss']"
-"['leg', 'fever', 'sweating', 'coldness']"
 ['shingles']
 "['lung', 'drowsiness', 'cough', 'coldness', 'exercise']"
 "['foot', 'hand', 'numbness', 'coldness']"
@@ -20390,7 +20219,6 @@
 ['shingles']
 "['poison ivy', 'shingles']"
 "['vision', 'coldness', 'dog', 'cats']"
-"['medicare', 'shingles']"
 "['foot', 'hand', 'movement', 'coldness']"
 "['foot', 'hand', 'movement', 'coldness']"
 "['shingles', 'infant']"
@@ -20489,7 +20317,6 @@
 ['shingles']
 "['shingles', 'ribcage', 'drainage', 'pain']"
 ['shingles']
-['shingles']
 "['yeast infection', 'vision', 'coldness']"
 "['yeast infection', 'vision', 'coldness']"
 "['shingles', 'pain']"
@@ -20571,8 +20398,6 @@
 ['shingles']
 ['shingles']
 "['shingles', 'ears', 'eyes', 'pain']"
-"['herpes', 'shingles', 'blister']"
-['shingles']
 ['shingles']
 ['shingles']
 ['shingles']
@@ -20715,8 +20540,6 @@
 "['smoking', 'marijuana']"
 "['smoking', 'pregnancy', 'nicotine']"
 "['marijuana', 'surgery', 'smoking', 'spine']"
-"['marijuana', 'surgery', 'smoking', 'spine']"
-"['nicotine', 'hallucination', 'smoking']"
 "['high blood pressure', 'cholesterol', 'coldness', 'over the counter', 'drug']"
 "['coldness', 'over the counter', 'drug']"
 "['flaxseed', 'coldness', 'flax', 'birth control pill']"
@@ -20767,11 +20590,9 @@
 "['urinalysis', 'smoking']"
 "['drinking', 'fever', 'smoking']"
 "['nicotine', 'smoking']"
-"['injection', 'food', 'smoking', 'antibiotic', 'drug']"
 "['pregnancy', 'coldness']"
 "['pregnancy', 'coldness', 'drug']"
 "['pregnancy', 'menstrual', 'pregnancy test', 'smoking', 'spotting']"
-"['marijuana', 'smoking']"
 "['flu', 'cough', 'coldness', 'drug']"
 "['allergy', 'coldness', 'drug']"
 "['asthma', 'smoking', 'inhaler']"
@@ -20783,7 +20604,6 @@
 "['breast', 'ribcage', 'cough', 'smoking', 'workout']"
 "['lung', 'smoking', 'healing']"
 ['coldness']
-"['allergy', 'coldness']"
 "['allergy', 'coldness']"
 "['herb', 'smoking']"
 "['herb', 'smoking']"
@@ -20809,7 +20629,6 @@
 "['pregnancy', 'smoking', 'quit smoking']"
 "['pregnancy', 'smoking', 'quit smoking']"
 "['penis', 'erection', 'smoking']"
-"['pregnancy', 'smoking', 'second-hand smoke']"
 "['drinking', 'vision', 'wine', 'smoking', 'blood pressure']"
 "['yeast infection', 'vagina', 'antibiotic', 'sinus infection']"
 "['swallow', 'pressure', 'ears', 'sinus infection']"
@@ -20888,7 +20707,6 @@
 "['exercise', 'smoking']"
 "['exercise', 'smoking']"
 "['exercise', 'smoking']"
-"['exercise', 'smoking']"
 ['sinus infection']
 ['sinus infection']
 ['sinus infection']
@@ -20950,7 +20768,6 @@
 "['diabetes', 'cough', 'coldness', 'drug']"
 "['heart disease', 'smoking']"
 ['smoking']
-['smoking']
 "['osteoporosis', 'calcium', 'exercise', 'smoking', 'diet']"
 "['headache', 'ears', 'pressure', 'dizziness', 'sinus infection']"
 "['period', 'sexual intercourse', 'penis', 'condom', 'pregnancy']"
@@ -20981,7 +20798,6 @@
 "['period', 'pregnancy', 'condom']"
 "['pregnancy', 'sexual intercourse', 'condom', 'ejaculation', 'vagina']"
 "['condom', 'period', 'pregnancy', 'birth control', 'pregnancy test']"
-"['condom', 'yeast infection']"
 "['condom', 'yeast infection']"
 ['sinus infection']
 ['sinus infection']
@@ -21113,7 +20929,6 @@
 "['period', 'pregnancy']"
 "['prostate cancer', 'cancer', 'testicle']"
 "['masturbation', 'prostate cancer', 'typhoid', 'testicle', 'pain']"
-"['masturbation', 'prostate cancer', 'typhoid', 'testicle', 'pain']"
 "['erection', 'prostate cancer']"
 "['immunotherapy', 'prostate cancer', 'insurance']"
 ['prostate cancer']
@@ -21182,7 +20997,6 @@
 ['prostate cancer']
 ['prostate cancer']
 "['prostate cancer', 'prostate-specific antigen test']"
-['prostate cancer']
 ['prostate cancer']
 ['prostate cancer']
 ['prostate cancer']
@@ -21272,7 +21086,6 @@
 "['pregnancy', 'sexual intercourse', 'period']"
 ['pregnancy']
 ['pregnancy']
-"['sperm', 'pregnancy']"
 ['psoriatic arthritis']
 ['psoriatic arthritis']
 "['inflammation', 'trigger finger', 'lupus', 'psoriatic arthritis']"
@@ -21320,7 +21133,6 @@
 "['pregnancy', 'vagina', 'anus']"
 "['pregnancy', 'anus', 'ejaculation', 'period', 'stress']"
 "['pregnancy', 'anus', 'ejaculation', 'period', 'stress']"
-"['anus', 'pregnancy', 'period', 'nervousness', 'irregularity']"
 "['screening', 'pregnancy', 'fetus', 'baby']"
 "['pregnancy', 'baby', 'grapefruit', 'spotting', 'first trimester']"
 "['period', 'pregnancy']"
@@ -21514,13 +21326,11 @@
 ['pneumonia']
 "['potassium', 'blood test', 'muscle', 'cramps', 'pneumonia']"
 ['pneumonia']
-"['therapeutic', 'oil', 'pneumonia']"
 "['pneumonia', 'amyotrophic lateral sclerosis']"
 "['hysterectomy', 'pneumonia']"
 "['brain', 'pneumonia']"
 ['penicillin']
 "['wrist', 'hydrogen peroxide', 'vision', 'over the counter', 'penicillin']"
-['penicillin']
 ['penicillin']
 "['mold', 'cough', 'runny nose', 'penicillin']"
 "['cyst', 'throat', 'diarrhea', 'antibiotic', 'penicillin']"
@@ -21625,9 +21435,7 @@
 "['sexual intercourse', 'ejaculation', 'pregnancy', 'erection', 'condom']"
 "['sexual intercourse', 'ejaculation', 'pregnancy', 'erection', 'condom']"
 "['period', 'abortion', 'condom']"
-['penicillin']
 "['pneumonia', 'sweating', 'chronic obstructive pulmonary disease']"
-"['pneumonia', 'swine flu', 'arm', 'heart', 'vein']"
 ['pneumonia']
 "['pneumonia', 'cough', 'running', 'antibiotic', 'ear infection']"
 "['pneumonia', 'antibiotic', 'family']"
@@ -21664,7 +21472,6 @@
 "['pregnancy', 'birth control', 'condom']"
 "['human papillomavirus', 'condom']"
 "['sexual intercourse', 'period', 'fear', 'cough', 'condom']"
-"['sexual intercourse', 'period', 'pregnancy', 'condom']"
 "['period', 'pregnancy test', 'injection', 'condom']"
 "['period', 'pregnancy test', 'injection', 'condom']"
 "['pneumonia', 'walking']"
@@ -21683,7 +21490,6 @@
 "['period', 'birth control', 'condom']"
 "['period', 'pregnancy', 'drowsiness', 'condom']"
 "['sexual intercourse', 'pregnancy', 'breast', 'pain', 'condom']"
-"['sexual intercourse', 'ejaculation', 'penis', 'vagina', 'condom']"
 "['sexual intercourse', 'ejaculation', 'penis', 'vagina', 'condom']"
 "['bladder', 'condom']"
 "['hiv', 'exposure', 'western blot test', 'fear', 'condom']"
@@ -22308,7 +22114,6 @@
 "['belly button', 'stomach', 'nausea', 'bloating', 'weight gain']"
 "['gastroenteritis', 'stomach', 'nausea', 'vomit']"
 "['gastroenteritis', 'stomach', 'nausea', 'vomit']"
-"['gastroenteritis', 'stomach', 'nausea', 'vomit']"
 "['heart', 'vertigo', 'nausea', 'fatigue', 'dizziness']"
 "['period', 'painful ovulation', 'breast', 'nausea', 'ovulation']"
 "['sperm', 'penis', 'masturbation', 'pregnancy']"
@@ -22341,7 +22146,6 @@
 "['lupus', 'skin lesion', 'allergy', 'arthritis', 'vasculitis']"
 ['lupus']
 ['malaria']
-"['lupus', 'sexually transmitted disease']"
 "['protein', 'running', 'blood test', 'lupus']"
 "['mammogram', 'breast biopsy', 'benign']"
 "['breast', 'hysterectomy', 'mammogram']"
@@ -22360,7 +22164,6 @@
 "['lupus', 'inflammation', 'food']"
 "['lupus', 'sepsis', 'insurance', 'blood pressure', 'ana test']"
 ['lupus']
-"['lupus', 'diabetes', 'autoimmune disorder', 'family']"
 "['lupus', 'stem cell']"
 "['seizure', 'lupus', 'swelling', 'walking']"
 "['seizure', 'lupus', 'swelling', 'walking']"
@@ -22404,7 +22207,6 @@
 "['mammogram', 'screening']"
 "['mammogram', 'pap test', 'insurance', 'screening']"
 "['mammogram', 'screening']"
-"['lactate', 'mammogram', 'surgery', 'thyroidectomy', 'milk']"
 "['breast', 'mammogram']"
 ['lupus']
 ['lupus']
@@ -22532,7 +22334,6 @@
 "['nausea', 'vomit']"
 "['vitamin', 'migraine']"
 "['vitamin', 'migraine']"
-"['stomach', 'fever', 'nausea', 'movement', 'pain']"
 "['period', 'stomach', 'blood test', 'nausea']"
 "['sexual intercourse', 'pregnancy', 'breast', 'nausea', 'ovulation']"
 "['breast', 'nipple', 'period', 'pregnancy']"
@@ -22694,7 +22495,6 @@
 ['migraine']
 "['migraine', 'heart', 'blood test', 'dizziness', 'confusion']"
 "['sexual intercourse', 'migraine', 'exercise', 'orgasm', 'diet']"
-"['sexual intercourse', 'migraine', 'exercise', 'orgasm', 'diet']"
 "['migraine', 'photosensitivity', 'pain']"
 "['migraine', 'photosensitivity', 'pain']"
 "['migraine', 'photosensitivity', 'pain']"
@@ -22734,7 +22534,6 @@
 ['low blood pressure']
 ['low blood pressure']
 ['low blood pressure']
-"['migraine', 'photosensitivity', 'pain']"
 ['nausea']
 "['nausea', 'prenatal vitamin']"
 "['morning sickness', 'pregnancy', 'nausea']"
@@ -22750,7 +22549,6 @@
 "['migraine', 'sinus']"
 "['migraine', 'stroke', 'arm', 'lightheadedness']"
 "['migraine', 'stroke', 'arm', 'lightheadedness']"
-"['anxiety', 'migraine', 'headache', 'marijuana', 'seizure']"
 "['anxiety', 'migraine', 'headache', 'marijuana', 'seizure']"
 "['anxiety', 'migraine', 'headache', 'marijuana', 'seizure']"
 "['anxiety', 'migraine', 'headache', 'marijuana', 'seizure']"
@@ -22904,7 +22702,6 @@
 "['injection', 'spine']"
 ['injection']
 ['injection']
-['injection']
 "['diabetes', 'erectile dysfunction', 'injection', 'penis', 'blood pressure']"
 ['lactose intolerance']
 ['lactose intolerance']
@@ -22982,7 +22779,6 @@
 ['lactose intolerance']
 ['lactose intolerance']
 "['injection', 'period', 'spotting']"
-"['nerve block', 'injection']"
 ['lactose intolerance']
 "['injection', 'antibiotic']"
 "['period', 'menopause', 'injection']"
@@ -22994,14 +22790,12 @@
 "['injection', 'b12']"
 "['epidural', 'back pain', 'injection', 'shoulder']"
 "['epidural', 'back pain', 'injection', 'shoulder']"
-"['epidural', 'back pain', 'injection', 'shoulder']"
 ['injection']
 "['pregnancy', 'injection']"
 "['injection', 'depo-provera']"
 ['injection']
 "['testosterone', 'human growth hormone', 'injection']"
 ['injection']
-"['injection', 'tetanus']"
 "['steroid', 'injection']"
 ['injection']
 ['migraine']
@@ -23059,7 +22853,6 @@
 ['injection']
 "['steroid', 'injection', 'pain']"
 "['injection', 'finger', 'wound', 'running', 'pressure']"
-"['injection', 'erectile dysfunction', 'clitoris']"
 "['bursitis', 'cortisone', 'injection', 'spinal fusion', 'surgery']"
 ['lice']
 ['lice']
@@ -23068,9 +22861,7 @@
 "['prostatectomy', 'impotence', 'birth control', 'pregnancy']"
 "['breast', 'nipple', 'pregnancy']"
 "['dermatitis', 'thrush', 'hand', 'tongue', 'injection']"
-"['injection', 'milk']"
 ['injection']
-"['cancer', 'liver', 'testosterone', 'injection']"
 "['ovary', 'uterus', 'menstrual', 'surgery', 'injection']"
 "['period', 'pregnancy', 'injection', 'spotting', 'depo-provera']"
 "['period', 'injection', 'confusion', 'depo-provera']"
@@ -23088,7 +22879,6 @@
 "['lice', 'vision']"
 "['lice', 'head lice', 'lice infestation']"
 "['lice', 'head lice', 'lice infestation']"
-"['lice', 'hair', 'head']"
 "['plaque', 'erectile dysfunction', 'erection', 'injection']"
 "['lice', 'head lice', 'bruise', 'head', 'feeding']"
 "['lice', 'head lice', 'bruise', 'head', 'feeding']"
@@ -23320,8 +23110,6 @@
 "['vein', 'testicle', 'infertility']"
 "['vein', 'testicle', 'infertility']"
 "['vein', 'testicle', 'infertility']"
-"['vein', 'testicle', 'infertility']"
-['infertility']
 "['anus', 'cavity', 'sperm', 'infertility', 'bacterium']"
 "['cats', 'infertility', 'pets']"
 ['hypothyroidism']
@@ -23415,7 +23203,6 @@
 "['asthma', 'inhaler', 'thrush', 'mouth']"
 "['swallow', 'ibuprofen', 'fever', 'running']"
 "['drug', 'drug test', 'inhaler']"
-['inhaler']
 ['inhaler']
 ['inhaler']
 ['inhaler']
@@ -23535,7 +23322,6 @@
 ['inhaler']
 "['asthma', 'inhaler']"
 "['mouth', 'taste', 'inhaler']"
-['inhaler']
 "['ibuprofen', 'acetaminophen', 'fever']"
 "['ibuprofen', 'allergic reaction']"
 ['ibuprofen']
@@ -23623,7 +23409,6 @@
 ['hyperthyroidism']
 ['hyperthyroidism']
 "['hyperthyroidism', 'surgery']"
-['hyperthyroidism']
 "['cats', 'diabetes', 'hyperthyroidism', 'depression']"
 "['food', 'hyperthyroidism']"
 "['hyperthyroidism', 'restlessness', 'leg', 'depression']"
@@ -23702,7 +23487,6 @@
 "['flu', 'injection', 'fever', 'vomit']"
 "['sexual intercourse', 'pregnancy', 'injection']"
 "['sexual intercourse', 'pregnancy', 'injection']"
-"['flu', 'injection']"
 "['rectum', 'foot', 'leg', 'hysterectomy', 'injection']"
 "['breast', 'head', 'injection', 'drowsiness', 'tenderness']"
 "['magnetic resonance imaging', 'x-ray', 'injection', 'pain']"
@@ -23739,8 +23523,6 @@
 "['flu', 'injection']"
 "['flu', 'injection', 'fever', 'drowsiness']"
 "['foot', 'hand', 'lip', 'injection', 'emergency room']"
-"['arm', 'elbow', 'finger', 'hand', 'injection']"
-"['diabetes', 'foot', 'nail', 'injection', 'pain']"
 "['gallbladder', 'injection', 'cranberry', 'juice', 'olive']"
 "['pregnancy test', 'pregnancy']"
 "['sexual intercourse', 'period', 'pregnancy', 'stress']"
@@ -23763,7 +23545,6 @@
 "['penis', 'testosterone', 'injection', 'nodule']"
 "['cyst', 'knee', 'injection', 'drainage', 'steroid']"
 "['injection', 'fear']"
-"['flu', 'injection', 'antibiotic']"
 "['injection', 'swelling']"
 "['diabetes', 'insulin', 'injection']"
 "['diabetes', 'insulin', 'injection']"
@@ -23827,12 +23608,10 @@
 "['cortisone', 'injection', 'pain']"
 "['anus', 'hernia']"
 "['hysterectomy', 'hernia', 'surgery', 'cyst', 'spine']"
-"['hepatitis c', 'sperm']"
 "['hepatitis a', 'hepatitis c']"
 "['neck', 'hernia']"
 "['heart', 'nerve', 'neck', 'knee', 'hernia']"
 "['hepatitis c', 'hiv']"
-['ibuprofen']
 "['panic attack', 'belch', 'high blood pressure', 'heart']"
 "['anxiety', 'high blood pressure']"
 "['anxiety', 'blood pressure', 'swelling', 'pain', 'high blood pressure']"
@@ -23890,7 +23669,6 @@
 "['hernia', 'nerve', 'artery', 'surgery', 'erection']"
 "['abdominal pain', 'hernia']"
 "['pain', 'hernia', 'vision']"
-"['vision', 'hernia']"
 "['surgery', 'hernia', 'pain']"
 "['hives', 'stomach', 'chest', 'neck', 'cortisone']"
 "['blood sugar', 'hives', 'jaw']"
@@ -23917,7 +23695,6 @@
 ['hernia']
 "['hives', 'skin', 'vitamin d deficiency', 'itch', 'muscle']"
 "['over the counter', 'hives']"
-"['stress', 'hives']"
 "['hives', 'skin']"
 "['abdominal pain', 'vomit', 'hives']"
 "['hives', 'allergy', 'swelling', 'hand', 'foot']"
@@ -24076,7 +23853,6 @@
 "['heart', 'high blood pressure']"
 "['high blood pressure', 'blood pressure', 'dizziness', 'fatigue', 'headache']"
 "['high blood pressure', 'heart', 'palpitation', 'dizziness']"
-"['nose', 'high blood pressure', 'blood pressure', 'abdominal pain', 'pain']"
 "['tricyclic antidepressant', 'antidepressant', 'high blood pressure', 'blood pressure', 'glomerulonephritis']"
 "['hepatitis c', 'liver']"
 "['hepatitis c', 'infection']"
@@ -24095,13 +23871,11 @@
 ['high blood pressure']
 "['high blood pressure', 'weight']"
 "['hepatitis c', 'injury', 'liver', 'infection']"
-"['hepatitis c', 'injury', 'liver', 'infection']"
 "['hepatitis c', 'liver']"
 ['high blood pressure']
 ['high blood pressure']
 ['hepatitis c']
 "['calorie', 'diet', 'high blood pressure', 'weight']"
-"['hepatitis c', 'infection']"
 "['high blood pressure', 'blood pressure', 'head', 'headache']"
 "['heart', 'hand', 'high blood pressure', 'fear', 'heart attack']"
 "['high blood pressure', 'thyroid']"
@@ -24178,7 +23952,6 @@
 "['high blood pressure', 'nsaid', 'chronic pain', 'family']"
 "['constipation', 'high blood pressure']"
 ['high blood pressure']
-['high blood pressure']
 "['gestational diabetes', 'high blood pressure', 'drowsiness']"
 "['gestational diabetes', 'high blood pressure', 'drowsiness']"
 ['high blood pressure']
@@ -24193,8 +23966,6 @@
 ['high blood pressure']
 "['high blood pressure', 'heart', 'blood pressure']"
 "['high blood pressure', 'heart', 'blood pressure']"
-"['high blood pressure', 'wine']"
-"['high blood pressure', 'wine']"
 "['high blood pressure', 'wine']"
 "['high blood pressure', 'headache', 'vision']"
 "['high blood pressure', 'diabetes', 'diet', 'kidney disease']"
@@ -24220,7 +23991,6 @@
 "['high blood pressure', 'chest', 'nose', 'epistaxis', 'fatigue']"
 "['high blood pressure', 'chest', 'nose', 'epistaxis', 'fatigue']"
 "['heart disease', 'high blood pressure']"
-['ibuprofen']
 "['grief', 'high blood pressure']"
 "['high blood pressure', 'heart', 'drug']"
 "['high blood pressure', 'pain', 'over the counter', 'drug']"
@@ -24366,7 +24136,6 @@
 "['high blood pressure', 'preeclampsia', 'pregnancy']"
 ['high blood pressure']
 "['asthma', 'high blood pressure', 'insurance', 'medicare']"
-['ibuprofen']
 "['tetanus', 'immunization', 'injection']"
 "['period', 'pregnancy', 'spotting', 'pregnancy test']"
 ['high blood pressure']
@@ -24409,7 +24178,6 @@
 "['sexual intercourse', 'hepatitis']"
 ['hepatitis']
 ['hepatitis']
-['hepatitis']
 "['sexual intercourse', 'hepatitis']"
 "['sexual intercourse', 'hepatitis']"
 ['hepatitis']
@@ -24438,7 +24206,6 @@
 ['hepatitis']
 "['ejaculation', 'pregnancy', 'family']"
 "['heartburn', 'knee', 'stomach', 'flatulence', 'pain']"
-"['heartburn', 'throat', 'mucus']"
 "['heartburn', 'flatulence']"
 "['heartburn', 'flatulence']"
 "['heartburn', 'stomach', 'walking', 'diet', 'over the counter']"
@@ -24616,7 +24383,6 @@
 "['vitamin d', 'hair loss']"
 "['vitamin d', 'hair loss']"
 "['vitamin d', 'hair loss']"
-['ibuprofen']
 "['hair loss', 'drug']"
 "['hair loss', 'drug']"
 ['hair loss']
@@ -24685,19 +24451,13 @@
 "['stretch mark', 'weight', 'depression', 'pregnancy']"
 "['period', 'ovulation', 'pregnancy']"
 "['period', 'ovulation', 'pregnancy']"
-"['ibuprofen', 'drug']"
-"['ibuprofen', 'drug']"
 ['ibuprofen']
-"['ibuprofen', 'drug']"
 "['pregnancy', 'crying', 'hormone']"
 "['irregularity', 'period', 'pregnancy', 'spotting']"
 "['period', 'anxiety', 'pregnancy', 'birth control']"
 "['ovulation', 'temperature', 'pregnancy', 'period']"
 "['pregnancy', 'morning sickness', 'period', 'menopause', 'yeast infection']"
 "['pregnancy', 'period', 'sexual intercourse']"
-['ibuprofen']
-['ibuprofen']
-"['ibuprofen', 'drug']"
 "['period', 'pregnancy test', 'pregnancy', 'paranoid behavior', 'fear']"
 "['period', 'pregnancy test', 'pregnancy', 'paranoid behavior', 'fear']"
 "['period', 'pregnancy test', 'pregnancy', 'paranoid behavior', 'fear']"
@@ -24730,7 +24490,6 @@
 "['period', 'pregnancy']"
 "['drug overdose', 'ibuprofen']"
 ['ibuprofen']
-['ibuprofen']
 ['pregnancy']
 "['miscarriage', 'fetus', 'pregnancy', 'heart', 'cervix']"
 "['period', 'pregnancy']"
@@ -24751,8 +24510,6 @@
 ['pregnancy']
 "['sexual intercourse', 'pregnancy', 'period']"
 "['period', 'fertility', 'pregnancy']"
-['ibuprofen']
-"['ibuprofen', 'drug']"
 "['transvaginal ultrasound', 'pregnancy']"
 "['pregnancy test', 'pregnancy', 'sexual intercourse', 'period']"
 "['breast', 'cramps', 'period', 'pregnancy', 'sexual intercourse']"
@@ -24814,7 +24571,6 @@
 "['pregnancy', 'pregnancy test']"
 "['pregnancy', 'birth control pill']"
 "['tampon', 'vagina', 'period', 'pregnancy']"
-"['tampon', 'vagina', 'period', 'pregnancy']"
 "['pregnancy', 'period']"
 "['period', 'pregnancy']"
 "['baby', 'pregnancy']"
@@ -24837,19 +24593,16 @@
 "['pregnancy', 'sexual intercourse', 'masturbation', 'chest', 'walking']"
 "['pregnancy', 'masturbation', 'ejaculation', 'chest', 'vagina']"
 "['pregnancy test', 'pregnancy', 'vision']"
-['ibuprofen']
 "['birth control', 'period', 'cerebral palsy', 'seizure', 'pregnancy']"
 "['birth control', 'period', 'pregnancy']"
 "['pregnancy', 'fertility', 'period', 'sexual intercourse']"
 ['pregnancy']
 "['pregnancy', 'cocaine']"
 "['pregnancy', 'cocaine']"
-"['pregnancy', 'cocaine']"
 ['pregnancy']
 "['pregnancy', 'prolapsed uterus', 'period']"
 "['sperm', 'sexual intercourse', 'pregnancy', 'fallopian tube', 'leg']"
 "['pregnancy', 'period', 'vomit', 'breast']"
-"['period', 'orange', 'blood test', 'pregnancy', 'breast']"
 "['period', 'orange', 'blood test', 'pregnancy', 'breast']"
 "['period', 'orange', 'blood test', 'pregnancy', 'breast']"
 "['pregnancy', 'hand', 'period', 'breast', 'tenderness']"
@@ -24888,10 +24641,8 @@
 ['heartburn']
 "['heartburn', 'drug']"
 ['heartburn']
-['ibuprofen']
 "['period', 'spotting', 'pregnancy', 'pressure', 'craving']"
 "['period', 'short stature', 'pregnancy']"
-"['pregnancy', 'sperm', 'vagina']"
 "['pregnancy', 'sperm', 'vagina']"
 "['pregnancy', 'morning after pill', 'period']"
 "['pregnancy', 'period']"
@@ -24912,7 +24663,6 @@
 ['heart disease']
 "['anger', 'heart disease']"
 "['heart disease', 'heart', 'artery', 'stem cell', 'grief']"
-"['vasectomy', 'heart disease']"
 "['vasectomy', 'heart disease']"
 "['heart', 'diet', 'grief', 'heart disease', 'vision']"
 "['heart', 'diet', 'grief', 'heart disease', 'vision']"
@@ -24976,9 +24726,7 @@
 "['high cholesterol', 'heart disease']"
 ['heart disease']
 ['heart disease']
-['heart disease']
 "['heart disease', 'gum disease']"
-"['ibuprofen', 'drug']"
 "['aortic aneurysm', 'heart disease']"
 ['heart disease']
 ['heart disease']
@@ -24986,7 +24734,6 @@
 "['atherosclerosis', 'heart disease']"
 ['heart disease']
 "['pregnancy', 'hand', 'period', 'ovulation']"
-"['sexual intercourse', 'pregnancy', 'spotting']"
 "['sexual intercourse', 'pregnancy', 'spotting']"
 "['sexual intercourse', 'pregnancy', 'spotting']"
 "['sexual intercourse', 'pregnancy', 'spotting']"
@@ -25009,7 +24756,6 @@
 "['heart disease', 'plaque']"
 ['heart disease']
 "['pregnancy', 'sexual intercourse']"
-['ibuprofen']
 "['pregnancy', 'ovulation', 'ejaculation', 'stomach']"
 "['pregnancy', 'sexual intercourse', 'sperm']"
 "['pregnancy', 'ovulation']"
@@ -25100,7 +24846,6 @@
 ['flu']
 "['dog', 'flu', 'surgery']"
 "['flu', 'arm', 'fuzziness', 'shoulder', 'lump']"
-['flu']
 "['pain', 'foot', 'flu', 'cough', 'california']"
 "['fever', 'confusion', 'stomach', 'eyes', 'allergy']"
 "['tonsillectomy', 'drinking', 'throat', 'fever', 'flu']"
@@ -25136,7 +24881,6 @@
 "['throat', 'swelling', 'swallow', 'fever', 'fatigue']"
 ['flu']
 "['fever', 'flu', 'diarrhea', 'running']"
-"['flu', 'antibiotic']"
 "['flu', 'blister', 'sore', 'vagina']"
 "['flu', 'fever', 'cough', 'antibiotic']"
 "['family', 'flu']"
@@ -25151,7 +24895,6 @@
 "['food allergy', 'immune system', 'throat', 'blister', 'antibiotic']"
 "['gallstone', 'pain', 'oxycodone']"
 "['gallstone', 'pain', 'kidney']"
-"['gallstone', 'vomit', 'food']"
 "['ears', 'pain', 'fever', 'swelling', 'vision']"
 "['swelling', 'bruise', 'fever']"
 "['fatigue', 'brain', 'fever', 'pulse', 'depression']"
@@ -25193,7 +24936,6 @@
 "['flu', 'fever']"
 ['flu']
 "['flu', 'blood sugar', 'diabetes', 'insulin']"
-['flu']
 "['flu', 'blood test']"
 "['fracture', 'flu', 'fibromyalgia', 'ankle', 'immune system']"
 "['flu', 'heart', 'pulse']"
@@ -25205,7 +24947,6 @@
 ['food allergy']
 "['food allergy', 'drug']"
 ['food allergy']
-"['fever', 'oil', 'massage', 'short stature']"
 "['wrist', 'sting', 'fever', 'pain']"
 "['fever', 'immunization']"
 "['pain', 'antibiotic', 'vomit', 'fever', 'vision']"
@@ -25302,7 +25043,6 @@
 "['fever', ""swimmer's ear""]"
 "['flu', 'heart attack', 'stroke', 'cardiovascular sys.', 'vision']"
 "['headache', 'fever', 'cough', 'eyes']"
-"['pain', 'walking', 'fever']"
 "['pain', 'walking', 'vomit', 'fever']"
 "['lymph node', 'swelling', 'lump', 'head', 'fever']"
 "['spotting', 'abdominal pain', 'fever', 'hot flash', 'sweating']"
@@ -25452,7 +25192,6 @@
 ['flu']
 ['flu']
 ['flu']
-"['fever', 'infant', 'sperm']"
 ['flu']
 ['flu']
 ['flu']
@@ -25582,7 +25321,6 @@
 "['skin', 'urethra', 'fever', 'juice']"
 "['skin', 'urethra', 'fever', 'juice']"
 "['menopause', 'fever', 'hot flash']"
-"['mold', 'fever', 'cough']"
 "['headache', 'eyes', 'lip', 'fever', 'swelling']"
 "['nose', 'nostril', 'fever', 'swelling', 'pain']"
 "['fever', 'sweating', 'running']"
@@ -25624,7 +25362,6 @@
 "['cold sore', 'drug', 'genital herpes']"
 "['drinking', 'headache', 'fever', 'movement']"
 "['fever', 'sweating', 'cough', 'runny nose', 'nasal spray']"
-"['headache', 'fever', 'blood pressure']"
 "['headache', 'fever', 'blood pressure']"
 "['headache', 'fever', 'blood pressure']"
 "['headache', 'fever', 'blood pressure']"
@@ -25768,7 +25505,6 @@
 ['genital herpes']
 ['genital herpes']
 ['genital herpes']
-['genital herpes']
 "['sexual intercourse', 'genital herpes']"
 "['sexual intercourse', 'genital herpes', 'herpes', 'vagina', 'confusion']"
 "['sexual intercourse', 'genital herpes', 'herpes', 'vagina', 'confusion']"
@@ -25797,7 +25533,6 @@
 "['fracture', 'fever', 'toddler']"
 "['eyes', 'fever', 'swelling']"
 "['chest', 'heart', 'fever', 'lightheadedness', 'dizziness']"
-"['genital herpes', 'genitalia', 'hair', 'penis']"
 "['genital herpes', 'family']"
 "['cold sore', 'genital herpes', 'lip', 'healing', 'penis']"
 "['cold sore', 'genital herpes', 'lip', 'healing', 'penis']"
@@ -25915,11 +25650,8 @@
 ['pregnancy']
 "['sexual intercourse', 'period', 'fertility', 'pregnancy']"
 "['period', 'pregnancy']"
-"['period', 'pregnancy']"
 "['sexual intercourse', 'birth control pill', 'pregnancy']"
 "['sexual intercourse', 'birth control', 'birth control pill', 'pregnancy']"
-['ibuprofen']
-['ibuprofen']
 "['birth control', 'period', 'pregnancy', 'baby']"
 "['fertility', 'sexual intercourse', 'vision', 'ovulation', 'pregnancy']"
 "['fertility', 'irregularity', 'menstrual']"
@@ -25931,7 +25663,6 @@
 "['menopause', 'pregnancy']"
 "['stress', 'pregnancy', 'period', 'pain']"
 ['pregnancy']
-"['pregnancy', 'penis', 'ejaculation', 'ovulation', 'period']"
 "['pregnancy', 'penis', 'ejaculation', 'ovulation', 'period']"
 "['pregnancy', 'vasectomy']"
 "['pregnancy', 'sexual intercourse', 'fertility', 'ovulation']"
@@ -25951,7 +25682,6 @@
 "['pregnancy', 'sexual intercourse', 'fertility', 'ovulation']"
 "['pregnancy', 'penis', 'ejaculation', 'ovulation']"
 "['period', 'pregnancy']"
-"['baby', 'pregnancy']"
 "['baby', 'pregnancy']"
 "['ovulation calculator', 'ovulation', 'fertility']"
 ['fertility']
@@ -26096,7 +25826,6 @@
 "['kidney failure', 'drug', 'dementia']"
 "['dementia', 'memory loss', 'magnetic resonance imaging', 'vision']"
 "['hallucination', 'dementia', 'drug']"
-['dementia']
 "['birth control', 'pregnancy']"
 "['pregnancy', 'strep throat', 'baby', 'movement']"
 "['pregnancy', 'fear']"
@@ -26212,7 +25941,6 @@
 "['stress', 'weight', 'penis', 'mouth', 'diarrhea']"
 "['diarrhea', 'irritable bowel syndrome', 'fear', 'bloating', 'flatulence']"
 "['diarrhea', 'irritable bowel syndrome', 'fear', 'bloating', 'flatulence']"
-"['diarrhea', 'pain', 'stool culture', 'parasite']"
 ['pregnancy']
 ['pregnancy']
 "['sexual intercourse', 'ovulation', 'pregnancy', 'pain', 'back pain']"
@@ -26434,7 +26162,6 @@
 "['period', 'pregnancy', 'sexual intercourse', 'ejaculation']"
 "['pregnancy', 'folic acid', 'prenatal vitamin']"
 "['pregnancy', 'swallow', 'anus']"
-"['pregnancy', 'swallow', 'anus']"
 "['stomach', 'diarrhea', 'vomit', 'pain', 'temperature']"
 "['diarrhea', 'yogurt']"
 "['stomach', 'diarrhea', 'cramps']"
@@ -26534,7 +26261,6 @@
 "['pregnancy', 'stomach', 'period', 'pregnancy test', 'baby']"
 "['pregnancy', 'ovulation']"
 ['pregnancy']
-"['birth control', 'pregnancy', 'birth control pill', 'period']"
 "['iron', 'blood test', 'drowsiness', 'vision']"
 "['headache', 'drowsiness']"
 "['drowsiness', 'depo-provera']"
@@ -26646,7 +26372,6 @@
 ['diarrhea']
 "['dehydration', 'diarrhea']"
 "['drug overdose', 'drinking', 'drug', 'sleepiness']"
-"['drug overdose', 'asthma', 'asthma attack', 'emergency room']"
 "['drug overdose', 'blood pressure']"
 "['long-term effect', 'estrogen', 'drug overdose', 'dog', 'over the counter']"
 "['supplement', 'drug overdose']"
@@ -26679,7 +26404,6 @@
 "['drug overdose', 'typhoid vaccine']"
 "['pregnancy', 'vagina', 'masturbation', 'hand', 'period']"
 ['pregnancy']
-"['baby', 'birth', 'birth control pill', 'period', 'pregnancy']"
 "['period', 'pregnancy']"
 ['pregnancy']
 ['pregnancy']
@@ -26771,10 +26495,8 @@
 "['emphysema', 'taste', 'cough', 'vision']"
 "['pregnancy', 'stomach', 'sleepiness', 'sexual intercourse']"
 ['pregnancy']
-"['epilepsy', 'fibromyalgia']"
 ['emphysema']
 "['pregnancy', 'family', 'period']"
-"['pregnancy', 'food', 'irritable bowel syndrome', 'birth control']"
 "['birth control', 'period', 'pregnancy test', 'pregnancy', 'fatigue']"
 "['pregnancy', 'baby', 'ovulation']"
 ['pregnancy']
@@ -26793,7 +26515,6 @@
 "['pregnancy', 'conception']"
 "['period', 'pregnancy']"
 "['pregnancy', 'breast']"
-"['drug overdose', 'typhoid vaccine']"
 "['pregnancy', 'ovulation', 'spotting']"
 "['pregnancy', 'back pain', 'baby', 'tightness', 'leg']"
 "['nipple', 'pregnancy', 'breast', 'breastfeed', 'birth control']"
@@ -26816,7 +26537,6 @@
 "['erectile dysfunction', 'pregnancy']"
 "['pregnancy', 'penis', 'vagina']"
 "['pregnancy', 'sexually transmitted disease']"
-"['epilepsy', 'generalized epilepsy', 'seizure', 'short stature', 'memory loss']"
 "['epilepsy', 'generalized epilepsy', 'seizure', 'short stature', 'memory loss']"
 "['epilepsy', 'generalized epilepsy', 'seizure', 'short stature', 'memory loss']"
 "['epilepsy', 'generalized epilepsy', 'seizure', 'short stature', 'memory loss']"
@@ -26850,7 +26570,6 @@
 "['tightness', 'uterus', 'vaginal discharge', 'pregnancy', 'sexual intercourse']"
 "['stomach', 'stretch mark', 'pregnancy', 'weight']"
 ['pregnancy']
-"['uterus', 'endometrium', 'cyst', 'pregnancy', 'cancer']"
 ['pregnancy']
 "['period', 'birth control', 'pregnancy', 'headache', 'health insurance']"
 "['period', 'pain', 'pressure', 'uterus', 'pregnancy']"
@@ -27053,7 +26772,6 @@
 "['exercise', 'surgery']"
 "['weight', 'exercise', 'feeding', 'pasta', 'diet']"
 "['weight', 'exercise', 'feeding', 'pasta', 'diet']"
-"['period', 'pregnancy']"
 "['panic attack', 'pregnancy']"
 "['pacemaker', 'blood pressure', 'exercise']"
 "['exercise', 'scalp', 'itch', 'neck', 'head']"
@@ -27132,7 +26850,6 @@
 "['period', 'pregnancy', 'cervix', 'finger']"
 "['pregnancy', 'penis', 'vagina']"
 "['pregnancy', 'nipple']"
-['drug overdose']
 "['exercise', 'pressure', 'tooth', 'grip', 'shoulder']"
 "['pain', 'foot', 'calf', 'exercise', 'muscle']"
 "['cholesterol', 'triglyceride', 'exercise', 'depression', 'anxiety']"
@@ -27152,7 +26869,6 @@
 ['pregnancy']
 "['heart', 'heart rhythm disorder', 'urination', 'movement', 'exercise']"
 "['heart', 'heart rhythm disorder', 'urination', 'movement', 'exercise']"
-"['pain relief', 'pain', 'knee', 'walking', 'exercise']"
 "['weight gain', 'exercise']"
 "['heart', 'exercise', 'fear']"
 ['exercise']
@@ -27191,7 +26907,6 @@
 "['open heart surgery', 'exercise']"
 "['artery', 'aneurysm', 'confusion', 'exercise', 'yoga']"
 "['eyes', 'vision', 'retina', 'exercise', 'period']"
-"['drug overdose', 'thyroid']"
 "['cholesterol', 'healthy eating', 'exercise', 'meat', 'shrimp']"
 "['stem cell', 'bone marrow', 'diet', 'exercise']"
 "['weight', 'exercise', 'chest']"
@@ -27261,8 +26976,6 @@
 "['ejaculation', 'masturbation', 'exercise', 'diet']"
 "['ejaculation', 'masturbation', 'exercise', 'diet']"
 "['ejaculation', 'masturbation', 'exercise', 'diet']"
-"['sexual intercourse', 'period', 'pregnancy', 'cramps', 'back pain']"
-['pregnancy']
 ['pregnancy']
 "['sexual intercourse', 'pregnancy', 'ovulation']"
 "['sexual intercourse', 'pregnancy', 'ovulation']"
@@ -27458,9 +27171,7 @@
 "['pregnancy', 'exercise', 'prenatal vitamin', 'yoga', 'vitamin']"
 "['pregnancy', 'exercise', 'prenatal vitamin', 'yoga', 'vitamin']"
 "['period', 'menopause', 'pregnancy', 'nipple']"
-"['pregnancy', 'cervix']"
 "['period', 'pregnancy', 'pregnancy test', 'birth control pill']"
-"['pregnancy', 'cervix']"
 "['sexual intercourse', 'pregnancy', 'confusion']"
 "['sexual intercourse', 'pregnancy', 'confusion']"
 "['period', 'pregnancy', 'pregnancy test', 'birth control', 'irregularity']"
@@ -27476,7 +27187,6 @@
 "['sexual intercourse', 'period', 'pregnancy']"
 "['pregnancy', 'insurance']"
 "['period', 'pregnancy', 'hand']"
-"['diabetes', 'pregnancy', 'weight', 'baby', 'birth']"
 ['pregnancy']
 "['pregnancy', 'tubal ligation']"
 "['pregnancy', 'tubal ligation']"
@@ -27509,7 +27219,6 @@
 "['arm', 'exercise']"
 "['period', 'pregnancy', 'pregnancy test', 'irregularity', 'spotting']"
 "['pregnancy', 'mouth', 'baby']"
-"['pregnancy', 'mouth', 'baby']"
 "['pregnancy', 'breast', 'pain']"
 "['period', 'pregnancy', 'pain', 'back pain']"
 "['period', 'pregnancy', 'pain', 'back pain']"
@@ -27531,7 +27240,6 @@
 "['period', 'pregnancy']"
 "['stomach', 'exercise']"
 "['ankle', 'leg', 'skin', 'exercise', 'walking']"
-['drug overdose']
 "['cholesterol', 'food', 'exercise']"
 "['exercise', 'masturbation']"
 "['gastritis', 'weight', 'exercise', 'diet']"
@@ -27855,7 +27563,6 @@
 ['exercise']
 ['exercise']
 ['exercise']
-['exercise']
 "['drinking', 'weight', 'exercise']"
 "['stress', 'pregnancy', 'pregnancy test', 'birth control', 'exercise']"
 "['period', 'pregnancy', 'breast', 'tenderness', 'baby']"
@@ -28022,7 +27729,6 @@
 "['urinalysis', 'bacterium']"
 ['bacterium']
 ['bacterium']
-['bacterium']
 "['appendix', 'bacterium', 'plant', 'diet']"
 "['penis', 'smell', 'vagina', 'bacterium']"
 ['cystic fibrosis']
@@ -28112,7 +27818,6 @@
 "[""crohn's disease""]"
 "[""crohn's disease""]"
 "[""crohn's disease""]"
-['ibuprofen']
 "['kidney infection', 'bacterium', 'antibiotic']"
 ['bacterium']
 "['pink eye', 'eyes', 'bacterium']"
@@ -28158,9 +27863,7 @@
 "['bacterium', 'trichomoniasis']"
 "['nervousness', 'vision', 'pork', 'parasite', 'bacterium']"
 "['pregnancy', 'hysterectomy']"
-"['ibuprofen', 'drug']"
 "['hand', 'turkey', 'food', 'bacterium']"
-"['hysterectomy', 'pain', 'bacterium']"
 "['grief', 'brain', 'nose', 'skin', 'bacterium']"
 "['period', 'pregnancy']"
 "['period', 'miscarriage', 'pregnancy', 'spotting']"
@@ -28169,7 +27872,6 @@
 "['throat', 'bacterium', 'infection']"
 "['tongue', 'bacterium']"
 "['headache', 'bacterium']"
-"['ibuprofen', 'drug']"
 ['bacterium']
 "['tooth', 'bacterium', 'systemic']"
 "['bacterium', 'antibiotic', 'infection']"
@@ -28183,9 +27885,6 @@
 "['salad', 'bacterium']"
 "['salad', 'bacterium']"
 ['bacterium']
-"['ibuprofen', 'drug']"
-"['ibuprofen', 'drug']"
-['ibuprofen']
 "['cyst', 'pregnancy', 'surgery', 'drainage']"
 "['sexual intercourse', 'period', 'pregnancy', 'irregularity', 'ovulation']"
 "['period', 'pregnancy']"
@@ -28195,7 +27894,6 @@
 ['pregnancy']
 "['period', 'miscarriage', 'pregnancy']"
 "['pregnancy', 'pregnancy test']"
-['ibuprofen']
 "['urination', 'ejaculation', 'pregnancy', 'genitalia', 'pregnancy test']"
 "['pregnancy', 'marijuana']"
 "['pregnancy', 'taste', 'baby', 'craving']"
@@ -28393,9 +28091,7 @@
 "['weight', 'exercise']"
 ['exercise']
 ['exercise']
-['exercise']
 "['weight', 'exercise']"
-['exercise']
 ['exercise']
 ['exercise']
 ['exercise']
@@ -28619,7 +28315,6 @@
 ['exercise']
 ['exercise']
 ['exercise']
-['drug overdose']
 "['pregnancy', 'melatonin']"
 "['herpes', 'pregnancy']"
 "['period', 'pregnancy', 'pregnancy test']"
@@ -28657,7 +28352,6 @@
 "['pregnancy', 'pressure']"
 ['pregnancy']
 "['urination', 'bowel movement', 'cyst', 'pregnancy', 'pelvic pain']"
-"['pain', 'depression', 'anxiety']"
 "['anxiety', 'shock', 'limb', 'spine']"
 ['anxiety']
 "['urination', 'heart', 'asthma', 'anxiety']"
@@ -28694,7 +28388,6 @@
 "['headache', 'pregnancy']"
 "['pregnancy', 'breast', 'milk', 'breastfeed']"
 ['pregnancy']
-"['period', 'pregnancy', 'ovulation']"
 "['period', 'pregnancy', 'ovulation']"
 ['pregnancy']
 "['depression', 'pregnancy']"
@@ -28796,7 +28489,6 @@
 ['anemia']
 ['anemia']
 "['anemia', 'cancer']"
-"['anemia', 'cancer']"
 "['aids', 'pregnancy']"
 ['anemia']
 "['aids', 'hiv']"
@@ -28832,7 +28524,6 @@
 "['aids', 'hiv']"
 "['aids', 'hiv']"
 "['aids', 'hiv']"
-['aids']
 "['aids', 'tryptophan']"
 "['anemia', 'blood loss']"
 "['aids', 'hiv']"
@@ -28873,7 +28564,6 @@
 "['blood test', 'anxiety']"
 "['heart attack', 'anxiety', 'pain', 'jaw', 'foot']"
 "['pregnancy', 'ovulation']"
-['pregnancy']
 ['pregnancy']
 ['pregnancy']
 ['pregnancy']
@@ -29105,7 +28795,6 @@
 "['testosterone', 'anxiety', 'anger', 'masturbation']"
 "['heart', 'palpitation', 'anxiety', 'fatigue', 'paralysis']"
 "['marijuana', 'anxiety']"
-"['marijuana', 'anxiety']"
 "['lump', 'throat', 'drinking', 'anxiety', 'nervousness']"
 ['anxiety']
 ['anxiety']
@@ -29288,7 +28977,6 @@
 "['anxiety', 'panic attack']"
 "['anxiety', 'panic attack']"
 "['anxiety', 'attention deficit hyperactivity disorder', 'depression']"
-"['anxiety', 'attention deficit hyperactivity disorder', 'depression', 'meal', 'drug']"
 "['anxiety', 'depression', 'drug']"
 "['anxiety', 'depression', 'insurance']"
 "['anxiety', 'depression', 'insurance']"
@@ -29430,7 +29118,6 @@
 ['arthritis']
 ['arthritis']
 ['arthritis']
-['arthritis']
 "['diet', 'soda', 'arthritis']"
 "['diet', 'soda', 'arthritis']"
 "['wrist', 'pain', 'swelling', 'pressure', 'arthritis']"
@@ -29474,7 +29161,6 @@
 "['pregnancy', 'food']"
 "['marijuana', 'pain', 'spinal stenosis', 'arthritis', 'long-term effect']"
 "['marijuana', 'pain', 'spinal stenosis', 'arthritis', 'long-term effect']"
-"['marijuana', 'pain', 'spinal stenosis', 'arthritis', 'long-term effect']"
 ['pregnancy']
 "['pregnancy', 'weight']"
 "['pregnancy', 'lotion']"
@@ -29509,7 +29195,6 @@
 "['swine flu', 'pregnancy', 'baby']"
 ['pregnancy']
 "['swine flu', 'pregnancy']"
-"['pregnancy', 'skin', 'stomach']"
 "['pregnancy', 'breastfeed']"
 ['pregnancy']
 "['pregnancy', 'third trimester']"
@@ -29597,7 +29282,6 @@
 "['pregnancy', 'drug']"
 "['pregnancy', 'peanut', 'shellfish', 'food']"
 "['drinking', 'pregnancy']"
-"['drinking', 'pregnancy']"
 "['depression', 'pregnancy']"
 "['depression', 'pregnancy']"
 ['arthritis']
@@ -29631,10 +29315,6 @@
 "['pregnancy', 'pregnancy test']"
 "['pregnancy', 'h. pylori', 'urea breath test']"
 ['drug overdose']
-"['drug overdose', 'acetaminophen']"
-['drug overdose']
-"['drug overdose', 'acetaminophen']"
-['drug overdose']
 ['drug overdose']
 ['drug overdose']
 "['drug overdose', 'vitamin d']"
@@ -29645,13 +29325,10 @@
 ['drug overdose']
 ['drug overdose']
 "['drug overdose', 'vitamin d']"
-['drug overdose']
-['drug overdose']
 ['drug overdose']
 ['drug overdose']
 ['drug overdose']
 "['drug overdose', 'melatonin']"
-['drug overdose']
 ['drug overdose']
 ['drug overdose']
 ['drug overdose']
@@ -29692,23 +29369,7 @@
 ['drug overdose']
 ['drug overdose']
 ['drug overdose']
-['drug overdose']
-['drug overdose']
-['drug overdose']
-['drug overdose']
-['drug overdose']
-['drug overdose']
-['drug overdose']
-['drug overdose']
 "['drug overdose', 'vitamin a']"
-['drug overdose']
-['drug overdose']
-['drug overdose']
-['drug overdose']
-"['drug overdose', 'hydrocortisone']"
-"['drug overdose', 'hydrocortisone']"
-"['drug overdose', 'passion flower']"
-['drug overdose']
 ['drug overdose']
 ['drug overdose']
 ['drug overdose']
@@ -29721,32 +29382,2221 @@
 ['drug overdose']
 ['drug overdose']
 ['drug overdose']
-"['drug overdose', 'nasal spray']"
 ['drug overdose']
 ['drug overdose']
-"['drug overdose', 'multivitamins']"
-['drug overdose']
-['drug overdose']
-['drug overdose']
-['drug overdose']
-"['drug overdose', 'vitamin k']"
 ['drug overdose']
 "['drug overdose', 'chronic obstructive pulmonary disease']"
-"['drug overdose', 'glucosamine']"
-"['drug overdose', 'lactase']"
 ['drug overdose']
 ['drug overdose']
 "['drug overdose', 'magnesium']"
-"['drug overdose', ""st. john's wort""]"
-['drug overdose']
-['drug overdose']
-"['drug overdose', 'magnesium']"
-"['drug overdose', 'magnesium']"
-['drug overdose']
 ['drug overdose']
 ['drug overdose']
 "['drug overdose', 'acetaminophen']"
-['drug overdose']
 ['drug overdose']
 "['drug overdose', 'acetaminophen']"
 "['drug overdose', 'injury', 'liver', 'acetaminophen']"
+"throat a bit sore and want to get a good imune booster, especially in light of the virus. please advise. have not been in contact with nyone with the virus."
+"hey there i have had cold ""symptoms"" for over a week and had a low grade fever last week. for the past two days i have been feeling dizzy. should i contact my dr? should i see a dr"
+"i have a tight and painful chest with a dry cough, no fever and no headaches. could it possibly be coronavirus?"
+what will happen after the incubation period for covid 19?
+suggest treatment for pneumonia
+"can you contact coronavirus or any virus from the air? also, from talking to someone from a distance of beyond 6 feet. any info on airborne facts?"
+"i'm told that dirrhea is a symptom of covid 19. i have had it for 36 hours, no appetite. do i need to be tested and where? i'm in alberton."
+do i need to take my 10 month old son for his measles vaccinations now that it is due or can it wait until the coronavirus pandemic has calmed down as i dont want to expose him unnecessarily in clinics or hospitals.
+"my wife is a nurse in a gp practice, and although she has a mask and gloves etc, is that enough to protect her, if an infected patient with the virus was to come in to her?"
+suggest treatment for low grade fever despite taking medication for pneumonia
+"wanted to find out whether i should get tested for covid 19. had a slight fever last week wednesday, slight dry cough and extra phlegmy. symptoms are inconsistent though. i use the gautrain to get to work, was concerned that i could've been exposed."
+"ek het loop neus met slym hoes. moontlik allergie, hulle besig met verbouings by werk. ek het ook hoofpyn. so bang vir die virus?"
+"i have a sore throat, slight cough, tiredness. should i get tested fro covid 19?"
+my 18 month old woke up from her nap this afternoon sounding hoarse. is this reason for alarm given the current corona situation?
+i am a little concerned that i may be showing some symptoms for coronavirus. i have had a bit of a dry cough about 2 weeks ago for 3 days. a week later i had a headache and got nauseaus. i never get headaches. my chest has felt unusual for 5 days.
+what causes odour while coughing after treatment with antibiotics for pneumonia?
+"to help the community, should anyone returning from any country with cases of ncov self-quarantine before returning to work?"
+"possible covid-19 - mild symptoms - next steps? symptoms: - initially: tight chest, stuffy nose - 10% difficulty breathing - mildly feverish (hot and dry mouth, bit weak) for a few hours yesterday - mostly fine this morning (5% breathing difficulty)"
+what causes cough when diagnosed with pneumonia?
+i was severely sick with a cough back in mid february before i knew about the current virus. not sure if i had a fever or not. i'd cough so hard and vomit. i smoke. could i still have coronavirus antibodies?
+my wife just found out that she sat next to someone on tuesday who is being tested for the coronavirus. person is being tested as his wife was tested positive. please advise next steps.
+"if my wife (she is a nurse in a surgery) comes into contact with a patient with the virus, is she likely to then get it herself, if she is wearing gloves and mask etc?"
+"my son is not feeling well. he has a very snotty nose, sore throat, occasional flemmy cough, uneasy stomach. he had a headache last night. no fever. is it a common cold or must he be checked for covid 19. not travelled or been in contact with anyone?"
+"i had severe fever on saturday evening, with chills, muscle aches (no sore throat or breathing difficulty). woke up in deep sweat feeling better. had very mild fever on sunday evening, also waking up in cold sweat. i am feeling fine today. covid 19???"
+scratching sore thoat and slight chest irritation. with body aches and tired with slight fever?
+my daughter and i travelled from cape town to pretoria last week wednesday. my daughter before she came to pretoria had a ear infection. she was given amoxillin napamol and rhineton for the ear infection. she now has dry coughing and?
+can pneumonia cause blood in urine?
+will i be covered if i get corona 19 with my medival aid?
+"will getting either of the pneumonia vaccines, prevnar and pneumovax, prevent you from developing pneumonia if you catch the flu or covid?"
+is the coronavirus 229e the same as covid-19?
+i also have a dry throat sometimes its feels like there is something stuck or putting pressure on my throat?
+i travelled to mauritius and do not have symptoms. should i get tested for covid19?
+my 60 year old mother developed cough and sneezing .which medicine to be given?
+i know hospitals filter air with hepa filters. will the filters in my car or office building work just as well to prevent corona?
+"just wanted to check i had a meeting with someone who had recently been back from australia, is australia a high risk country?"
+how can pneumonia and pleurisy be treated?
+how can minimal ptb with pneumonia be treated?
+nervous about coronavirus. i am 26 years old and have high blood pressure. i am curious chances of me dieing if i contract the virus.
+"how can pneumonia, coughing with low body temperature be treated?"
+where can i test on for free on a essential smart plan for covid-19?
+i have a dry cough and sore throat. should i be scared of contacting of covid 19?
+what are low and high temperatures at which covid 19 virus cannot survive?
+"good day my 2 year old toddler has been coughing and now she started to vomit when coughing, is it something i should be consent about or it's just flue?"
+should icu care be given for aspirational pneumonia?
+"if you've been infected by sars-cov-2, develop covid-19 symptoms and recover, can you: 1) develop immunity to covid-19 2) infect others after 14 days post-symptom onset & recovery 3) get re-infected later by sars-cov-2 despite developing immunity?"
+what causes pneumonia with spiking temperatures?
+"i have had a runny nose and have been coughing and have had on and off headaches. i went to the doctor the first time, he gave me an antibiotic and i got worse then i went back a and he gave me a different one but it seems i still have these symptoms?"
+"intermittent headache for the last week, comes and goes. also, scratchy throat for about 3 weeks on and off?"
+"i have a dry burning sensation in my throat and no fever (temp is 35.6), i’m 24 weeks pregnant and worried that it may be covid19, do i need to have a fever with covid19? will my baby be okay?"
+what care should be taken for pneumonia in a child?
+suggest treatment for pneumonia despite taking budecort and bactoclav
+"is mild intermittent asthma an elevated risk group for covid 19 complications? if so, should i continue to use my inhalers when it's occasionally necessary or will the steroids in them put me at more risk? thank you."
+what causes pneumonia despite taking a pneumonia shot?
+"suggest treatment for sinus infection, bronchitis and pneumonia"
+can imodium be taken while on doxycycline for pneumonia?
+"if you are tested positive for covid-19, and your fever keeps going up daily (100 to 101 to 102 to 103), what should you do if all other symptoms remain the same?"
+suggest treatment for lung pain when suffering from bilateral pneumonia
+why does hiv rna appear in blood earlier than its antigens and not together?
+"if i have fever and coughing (even blood) and i havent been outside of the country, do i have corona virus?"
+"last weekend (13-15 march) i was at a festival. and today the festival organizers confirmed that someone arrived on the 15th who was tested positive for covid-19. i was in the same area and for a few hours where this person was, should i get tested?"
+my hba1c is not as good as it should be. am i more likely to die of the virus? i’m so scared. i have type 1 diabetes. please help.
+"i have a snotty nose and a bit of a cough, nothing bad, no temperature and do not feel sick in anyway. i am at home can i just continue to use antihistamine until it passes. i have not been in contact with anyone with corona and have not traveled.?"
+is constant chest infection and coughing sign of pneumonia?
+where can i get tested for covid19? and will discovery pay for the test?
+what does left basal pneumonia mean?
+hi where in cape town can you get tested for covid19?
+"what causes pneumonia, sore eyes and ears with coughing and wheezing?"
+what reduces the suffocation feeling during the healing process of pneumonia?
+should i be tested for covid 19 have been in contact with family member who arrived from france on 13 march.not showing any symptoms to date been 7days since visit ?
+can i get a covid 19 test?
+"i’m absolutely worried sick about getting coronavirus and what it would mean for me if i got it, because of my diabetes. is there anything you can say that can help me in any way? my anxiety is so high. thank you."
+can pneumonia reoccur in a patient due to exposure to pneumonia again?
+what causes persistent pneumonia?
+what are the symptoms and treatment for pneumonia?
+are viruses and bacterias live creatures?
+"i have a dry cough, sore throat and headaches, can you please assist with giving me possible explanations for this, i am scared as well due to the corona virus?"
+can a cool mist vaporizer help with the corona virus since it doesn’t like humidity?
+"could the fever,wheezing and lung ache be pneumonia relapse?"
+"i got my tdap shot? shots? when i was little, now that i am 18, should i get them again this year or when should i? (after this epidemic of course) thank you and stay safe."
+i have had contact with a co-worker who has now been confirmed as having the corona virus. i don't have any symptoms but my landlords would like me to be tested. is this possible & how do i do this?
+"i have a 2 years old with cough n fever sweating which is worse at night, can she b tested for covid19?"
+"blocked nose,coughing,aore throat,sometimes fever.sometimes body aches."
+what is the treatment for pneumonia?
+is the cough of a patient with covid-19 any different sounding than a cough of a patient with a cold?
+coronavirus how do we test?
+what causes pneumonia in lungs with no other symptoms?
+suggest treatment for persistent pneumonia
+what causes persistent pneumonia?
+how soon after being infected can someone transmit covid-19?
+suggest treatment for pneumonia
+"is it true that if there was a lack of beds due to the virus, doctors would be less likely to save someone with diabetes, because they would be more likely to die??"
+i suspect i may have contracted covid 19. i have a sharp pain in my chest as well.
+suggest the best treatment for pneumonia in lungs
+is it safe to eat food prepared by someone with coronavirus? even if they wear a mask and gloves?
+are there additional risks associated with using too much ethyl 70% alcohol to sanitize hands other than dry skin? now a days i use it a lot due to corona virus concerns.
+i have been feeling very hot and having headaches everyday and always tired?
+what care can be taken for pneumonia in a child?
+suggest prognosis for health conditions with pneumonia and congestive heart failure
+"i’m showing signs of flu and shortness of breath over the last week. i just found out this morning that i was exposed to someone who tested positive. i need advise on how to get tested and treated (if required), beyond just self quarantining."
+i was on a plane on march 8th have been home ever since self quarantine myself i have had headaches and runny throat i have 2 days left of my self quarantine should i be having worse symptoms by now ?
+my 68 yr old mom is waiting for corona virus results. she’s been having fever 101-102 for a week. was admitted to hospital and has pneumonia. how is it treated and should she stay at the hospital until her symptoms get better? she has htn. help!
+how do i book a virtual consultation with my doctor for covid-19?
+i'm quite sure that i have covid-19. my mother is a health worker that has been exposed. among my symptoms is trouble breathing and pain in the chest. can i sleep and see how i feel tomorrow or is there a risk that i'll stop breathing in the night?
+"is there a chance i would just get mild symptoms of the virus? or because i am diabetic, that is unlikely?"
+"hi dr. if all i have is a dry cough, should i get tested for covid 19? no recent travel or contact with high risk individuals. i have been given permission to visit a relative in icu during the lockdown, but don't want to make him sick."
+suggest therapy for pneumonia
+what is the treatment for covid-19?
+is covering mouth and nose by mask sufficient to avoid corona exposure? can it not be transmitted through eyes and ears?
+what causes severe hair loss while recovering from pneumonia?
+"i have thing in my eyes and are painful, and sometimes giving me headaches?"
+hi i had a runny nose took some immune booster and med lemon and now it is a cough with sporadic phlegm. should get test for this covid 19? i don’t have a fever. i also have a bit of short breath.
+"what causes severe cough, shoulder blade pain and heart palpitations while treating pneumonia?"
+suggest treatment for pneumonia
+"i have travelled in the last 14 days was in cairo, sharm el sheik and dubai arrived back in sa 9 days ago and have been self-isolated. i have started with mild symptoms such as sore throat, cough, fatigue but temperature is normal. i need a referral?"
+can pneumococcal vaccine be taken after being diagnosed with pneumonia?
+i have diarrhea and i read that it could be a precursor to having covid-19. i was in china end of september 2020. so more than 6 weeks back. ?
+having slight itching at throat but no cough. is it any thing related to covid?
+"i have a sore throat, a slight cough as well as slightly dry eyes. i may have been in contact with individuals with covid-19 but unknowingly?"
+i have a 3 yr old. started coughing 2 nights ago not constant sounds kinda phlyemy and no other symptoms. very low grade fever at night. contagious?
+i think i have coronavirus. i am having chest pains from yesterday and during the course of today i have been dry coughing. what can i do now?
+what does pain in chest in person with history of right para cardiacpneumonia indicate?
+do i have covid 19?
+how do you get hpv on the cervix? is it from skin to skin contact during intercourse from a partner’s genital touching the cervix? thank you
+"i have had mild chest pain for over a week. it now seems more persistent and pronounced. i don't have shortness of breath or any other covid-19 symptoms, except some fatigue. i have been traveling a lot in high risk areas. should i get tested?"
+"i went to the dr for a cough and fever on march 5. they diagnosed me with bronchitis. i was not doing any better, so i returned to the dr on march 15. they sent me to the er to get tested for covid. at the er they ran a number of tests including a covid t"
+"i have had a sore throat for a few days, tuesday night it felt like tonsils, yesterday it started becoming scratchy and today i have started coughing and spitting mucus. i do not have a fever, but i get light headed here and there, could it be covid-?"
+"can taking extra steps for self-care (like staying hydrated, getting more sleep) every day help prevent you from catching the coronavirus or the flu?"
+is vomiting and diarrhea a symptom of covid-19?
+what can i use against coronavirus if i run out of hand sanitizer?
+"i've been sick for the last two weeks with severe sinus pain, hot flashes and a very tight chest along with coughing up some mucus. i've been treated with antibiotics however it doesn't feel like it has worked. is it possible that this can be covid-1?"
+i think i need to be tested for covid-19?
+"my 22 yo son travelled by plane between baltimore (bwi) & rhode island. realistically, what are the risks of covid 19? he has no symptoms and there have not been any reported cases on his flight. i am quarantining him as best i can at home."
+"symptoms include irritation in the throat, dry cough, trouble breathing properly, headache. however not really a sign of a fever. temperature is about 35 degrees. should i get tested?"
+"i've been in contact with a possible covid-19 case who is waiting on results. my brother seems to be i'll with corona symptoms and i'd like to get advice on how to help him, as his safety will ensure my safety and prevent the spread of the virus."
+i have a sore throat and a bit of a cough. this morning i coughed up mucus with what look like blood. is this a sign of covid 19?
+suggest remedy for raspy chest post a pneumonia incidence
+what is the treatment for covid-19?
+"hi, i'm on plasmaquine and methotrexate 7.5mg x 1 per week for arthritis. i'm concerned that the methotrexate may weaken my immune system and make me more vulnerable to covid-19. would it not be safer to discontinue use untill the threat has passed?"
+can pneumonia cause itching in upper torso?
+our office has been shutdown due one of my colleagues’s close relative being confirmed to have vivid-19. i am currently quarantined at home and would like to know if i can test for corona. ?
+"sick for past week. doctor prescribed meds. not feeling better. symptoms are shortness of breath, difficulty breathing, barking cough, mild headache, body ache. should i consider getting tested for covid 19."
+can i catch coronavirus on public transportation from someone who has it? how long do germs on public transportation last?
+"i have very mild symptoms of covid 19. headache, sore throat, fatigue. what do i do now? is it advised to rather stay home, or go to get tested?"
+can having reoccurring strep throat/tonsillitis problems make you more vulnerable to the coronavirus?
+"hi , can i use oralcon birth control pills even though we have the coronavirus epademic ?"
+suggest treatment for pneumonia
+"can a person with type 1 diabetes ever just get mild symptoms of coronavirus, or will it always be fatal?"
+stayed in hotel fri night. heard of pos covid-19 case later pm. left hotel & self isolated since sat. wasn’t in any contact. isolated as didn’t know if any staff serving me had been infected. as long as no symptoms - how long must i self-isolate for?
+suggest treatment for pneumonia and costochondritis
+will coronavirus make my kids more susceptible to catching the flu? should all kids be vaccinated against the flu in case they catch covid-19?
+as someone that suffered from wolff parkinson white syndrome should i be extra careful with the corona virus affecting my heart? i have had four rf ablations to tread the svts and afib and am currently symptoms free.
+"i have chills, breathing problems and cough with white phlegm. could it be coronavirus infection?"
+"hello, i need to go to my dr. to get my prescription refilled. due to the corona virus i really don't want to get out and sit in a busy office just for a prescription refill. perscription refill?"
+what are the treatment and side effects of pneumonia?
+do i just go to a dr to determine if it's a sinus infection or do i go get tested for covid first? to not risk anyone in practice?
+hi i have hypothyroidism. i’ve been in chronic meds for over 5 years now. am i at risk for coronavirus. also should i boost my immune system? thanks
+i have diarrhea and am concerned about covid 19. i read some cases with higher mortality rate started with diarrhea. what should i do? coronavirus and diarrhea
+criteria for covid test?
+suggest treatment for bronchitis and pneumonia
+i have cough with no travel history. is this a symptom of covid-19?
+"hi, i recently stopped smoking and have inflamed sinuses and since there is a corvid19 pendemic i am worried that these sinuses and runny nose could be linked to coronavirus. the sinuses hurts mainly when i am sleeping."
+"i am an ashmatic and are using my medication, my chest is tight and throught is a little bit sore, i can feel my lungs are also getting sore, when do i need to go to a doctor now with covid 19?"
+"11 year old has a cough, runny nose, headache,earache, no fever. is this covid-19?"
+hi. this covid-19 outbreak is scary. i got screened this week and it was negative. but prior to screening i had a week of continuous dry coughs and also throat was sore. i've put myself in a quarantine. what next? do i still need to screen again?
+suggest treatment for pneumonia
+what causes a decrease in the wbc count while treating flu and pneumonia?
+what risk am i from coronavirus as i have vte?
+"good day, i am 29 weeks pregnant and my profession is teaching, i also have a 2 year old son. my chest and throat is sore, i have a constant headache and feel dizzy at times. is it necessary to get myself tested for the coronavirus?"
+anxiety because of the covid 19 news?
+i'm just a bit concerned as i have a sore throat and coughing a little bit as a result of my sore throat. my upper body is also aching a bit. is this a cause for concern?
+i was previously diagnosed with tb but have since recovered. i do want to know if my previous diagnosis puts me at a higher risk should i contract covid 19.
+i am getting headache at night. been battling with a sore throat and post nasal drip. no fever. cough only slightly at times. i went for laproscope and removal of my fallopian tubes on 2nd march. all this started after that. must i test for covid 1o?
+do i have covid 19?
+ons het teruggekom vanaf oostenryk op 8 maart..reeds 13 dae gelede. het tans seer keel maar ook nasale drip. wat staan my te doen?
+will taking ibuprofen (advil) increase the strength of the covid-19 virus?
+i have been coughing and sneezing for the past 2 weeks. throat really sore past week. always thirsty. diarrhea started on friday night and vomiting since this afternoon. have a constant fever from wednesday. ?
+"hi have been having a mild fever since the 15 of march, with a strange sensation in the throat, fever went away on the 17, but came back yesterday on the 25 march, mild, no short of breath just a slight headache, must i test for covid19?"
+"good day i have unusual sore throat burny sensation in chest area body aches, dry cough, headaches, paranoia,have travelled to dubai end jan ?"
+"suggest treatment for pneumonia, vomiting and dizziness"
+3yrold having rash. specially under armpits and his thighs too. he can’t sleep at night due to that. i’ve tried lotion to hydrate. he had minor eczema when born but not too serious what can i do? don’t want to take him to hospital due to virus!
+does getting covid19 make you immune to a reinfection or just less likely to be reinfected?
+"does hand sanitizer actually work? where do all the germs go after using it, and will it actually protect me against covid-19?"
+"what does recurring chest infection, asthma and pneumonia mean?"
+suggest management of complete lung whiteout with invisible heart outline and pneumonia
+"with a bad immunity deficiency, how can i keep as safe as possible from contracting covid19 in a family household. work is not an issue but shopping and accepting deliveries is. also need to take child outsides as home is small, no garden."
+hi my symptoms are aching and sore joints i feel feverish but i don’t have a cough or runny nose . i do feel a little throat congestion ( phlegm ) but no sore throat. not very sick. i have been taking viral choice and vitamin c for a month . ?
+what are the signs and symptoms of pneumonia or pertussis?
+what are the symptoms of pneumonia?
+i have hashimotos. nodules checked by us yearly. i see a thyroid specialist yearly. i am a preschool teacher assistant. i still work. i am a 47 yr old female. what is my risk level of getting the virus?
+chronic sore throat for 4 months. not strep. no fever. bloody green phlegm for a while. sinus congestion and pressure sometimes. bad breath in back of throat sometimes. maybe post nasal drip. 2 wks. of amoxicillin didn’t help. is this mild covid-19?
+"hi there, i was recently in close contact with someone who travelled overseas. the person has become ill but has not communicated whether or not they’ve been tested. should i go and get tested for covid19?"
+"is my wife is at huge risk of getting the virus, as she is a nurse in a gp surgery? i’m so scared for her. i’m scared she will get it, and we will both end up with it."
+what causes tingling in forearms/legs after having steroid injection for pneumonia?
+what causes swollen legs while on antibiotics for pneumonia?
+what are the risks of smoking while treating pneumonia?
+"good day. i have a body temperature of 38—39 degrees celsius accompanied by headaches and a cough. i've been tested for covid, but it's negative. i have trouble urinating and have a pain in my penis as well as my anus. thank you?"
+"we went to bali via singapore, on my second day in bali (17 march) i started feeling a bit sick?"
+my 10 month old baby boy is scheduled to have his measles vaccination during the lockdown. i want to know if we can wait to do his next vaccination until after this coronavirus has calmed down. i dont want to risk exposing him unnecessarily.
+"hi, i have severe headache, a sore throat (feels like swollen sore, not raw sore but it doesnt hurt if i press my lymp nodes in neck except near my left ear), body hurts, coughing, body temp 32.5, head is hot. light headed. just normal flu?"
+is it safe to take ibuprufen during thisbseasonnof corona outbreak or should we take paracetamol?
+"will i have to be hospitalised if i get the virus, i have type 1 diabetes."
+if you have wolf parkinson white syndrome does this make you more of a risk with covid 19?
+what causes coughing up dark phlegm while treating pneumonia?
+"is it true (or a myth) that coronavirus will not survive hotter climates. as summer approaches, is it expected to reduce in tropical summers at least."
+what are the symptoms of recovery from pneumonia?
+"hi, i have a bad cough, sinus congestion and body aches but no fever. should i consult with a doctor regarding the current covid19 pandemic?"
+can i see a dr online for all my medication refills so i don't have to go into a dr office? i need medicine refills
+"i have had a sore throat (glands enlarged in throat) for over a week and i have constant headache. do i need covid-19 test. if yes, how do a get someone to come to my house to test."
+"for students in dorms living with students from many countries, what extra additional precautions do they need to prevent catching novel coronavirus?"
+"is gargling with listerine effective against corona virus induced sore throat? will it kill the virus? how about with mixture of warm water and salt, will this also kill virus!"
+i got an sms stating the following: taking ibuprofin/ advil? mypaid/ myprodol to control fewer should stop. they also say that ibuprofen is increasing the rate of multiplication of the virus. and that we should not take these meds. how true is this?
+"hello. i’d like some help please, i’ve started getting these symptoms and am wondering if i should see a doctor or stay at home and try to get better. - headache - weird yellowish growth on the side of my throat - tight chest - mild cough ?"
+"preauricular lymph node on left side very tender, scalp on left side of head tender and hurts to touch, superficial parotid lymph node area on left side swollen and tender. pain behind both ears.no injury.came on suddenly, has been 1 day.temp 100.1°"
+i have sle and am currently on 5 day course of dexamethasone 8 mg daily. i still have to work during coronavirus outbreak. how concerned of risk am i? i work in close quarters. desks are a couple of feet apart. i am not able to work from home.
+"true or false? anyone infected with covid-19 start have diarrhea and increases the chances of death compared to person who just start respiratory symptoms, why?"
+"i‘ve had a dry cough for a couple weeks now, post nasal drip, runny nose, sore throat every now and then, i think i’m starting to develop a fever and i’m getting lightheaded/feeling faint when i stand and walk & slight body aches. do i have covid19?"
+"i am concerned that i’m showing symptoms of corona. i have a tight chest, regular headaches, fever, and infrequent coughing and sneezing. my throat is also sore. i’ve also been in the vicinity of someone who has tested positively for the virus. ?"
+i have covid 19 symptoms but i’m not sure if i have it or it’s the flu?
+if i have had a sore throat for 3 days but with no fever should i be tested for covid-19?
+why are so many people with diabetes dying from the coronavirus? it’s really frightening me.
+i have a prolia injection appointment at the beginning of april. will it be safer to postpone the appointment because of the covid-19 situation? prolia appointment
+i just came back from london last week travelling with my family and i have a cough and a sore throat. should i test myself for covid 19? none of my family members have any symptoms as yet? thank you
+how long is a person with pneumonia contagious?
+"i’m a mother, so if one of my kids get coronavirus, i get it too and spread it to my entire family since they depend on me for everything. what can i really do? it’s inevitable."
+"i have travelled to hk in the past week and returned to south africa on tuesday, i have had no symptoms however today this is what i am experiencing. i would like to get tested for covid19?"
+when i get back from grocery store do i need to wash my groceries and grocery sacks with garden hose outside to prevent coronavirus ?
+"what are my chances of only getting mild symptoms if i get the virus, because i have type 1 diabetes?"
+how can i avoid catching covid-19 if i have to travel by plane or public transportation?
+"if i get coronavirus, are there ways to avoid getting other illnesses as well, like pneumonia?"
+i have a soar trought. can i have covid19?
+how to treat pneumonia?
+any best medicine for bacterial pneumonia and copd?
+"hello, i would like assistance with managing a ongoing cough that may or may not be linked to corona virus. a colleague stated their possible exposure to someone who tested positive. the cough started more than a week ago. ?"
+should i stay away from my family if i still have to work during the pandemic? i deliver beer to grocery stores and gas stations.. and i’ve been worried about possibly getting it and then them catching it.. since they said you can be asymptotic..
+how dangerous is coronavirus if someon has heart arrhythmia and is type 2 diabetes?
+what are symptoms of pneumonia?
+what does coughing up of clear phlegm indicate while treating pneumonia?
+i have a sore throat and i’m tired. i haven’t slept well in the last two days. just haven’t been able to rest tossing and turning thinking - stress. should i assume sore throats is associated with the coronavirus . sore throat started today.
+i have a constant cough and my chest has now become tight. i also have a tickle in my throat. i would like to be tested for coronavirus please.
+i have no termometer for fever cheek.does covid 19 cause persistent fever or it comes and goes.i feel my body little hot two times a day a have nasal allergy and parangities for long time.every years it's come for a while?
+"flu symptoms, cough and no fever. should i test for coronavirus? i have asthma"
+my dad last week was vomiting and had diarrhea now this week it has turned into runny nose and a cough...no fever....any chance it’s covid-19?
+"what are my chances of becoming severely unwell with the coronavirus, as i have type 1 diabetes?"
+"i am experiencing cough (worsened by: lying flat, exposure to secondhand smoke, night time) (associated with: phlegm or mucus) (not associated with: barky, hoarse, or hacking sound, whooping sound upon breathing in, chronic), swelling around eyes, fatigue"
+"i’m petrified of dying from coronavirus, because of my diabetes, but don’t know what i can do?"
+"i have a sore throat and mild cough, do i need to be tested for corona?"
+good day. during the lockdown will i be able to travel to my gynae for my check up?
+"to kill virus on hand which soap better? antibacterial or normal handsoap? is antibacterial better since it specialized to get rid germs better? im confused since i read on internet, any kind of soap doesnt matter."
+is ritonavir 100mg and lopinavir400mg are safe drugs in covid-19 and is improvement appear in patient??
+what causes short temperedness and headache while on treatment for pneumonia?
+can nyquil be taken instead of steroid shot for pneumonia?
+where can i be tested for covid 19?
+suggest treatment for pneumonia after going through chemotherapy
+suggest treatment for bilateral pneumonia
+what are the chances of asthma while diagnosed with pneumonia?
+can covid-19 be transmitted sexually? can any coronavirus be transmitted sexually?
+i have not traveled. i’ve had a headache and spite cough for about a week now. my throat is getting sore. my chest feels slightly tight but i have no fever?
+"hi i am a doctor working in a state hospital. i have malaise, headache and a sore throat now for a week. my left eye also had conjunctivitis but the other symptoms do not resolve. there is a covid 19 contact in our estate. should i test for it?"
+"should someone with a compromised immune system due to rheumatoid arthritis get the flu vaccine, especially during the covid-19 crisis? also, does the flu vaccine in south africa use live or dead viruses?"
+"what is my risk of dying from coronavirus, as i have type 1 diabetes?"
+i have been exposed to someone with covid do i qualify for a test at a laboratory?
+is the flu injection available?
+"i am experiencing headache (severity: moderate) (time frame: gradual) (occurred: 1 - 3 hours) (side: front) (worsened by: psychological stress, being tired, menstruation, skipping meals) (unaffected by: bending forward, changes in sleep pattern, sneeze or"
+"can your only symptoms on coronavirus start as tightness of chest and shortness of breath? i’ve had this for a week now. my body aches a bit, hard to tell if this from trying so hard to breath. nose occasionally runs, throat a little sore."
+"hey there i have had cold ""symptoms"" for over a week and had a low grade fever last week. for the past two days i have been feeling dizzy. should i contact my dr? see a dr?"
+i live in france.and now 7days for home quarantine.i have no fever.but i have parangities in my thoart.last few years it's comes and goes.now i am worried because of covid-19. does only parangities is only symptoms of this???
+suggest dosage of levofloxacin for the treatment of pneumonia
+"pain in right arm, from shoulder to fingers. for a month now. np gave chlorzoxazone 500 mg. it was better bt aftr i stopped taking med, started paining again, a little numb too. history of chronic neck and shoulder pain. cant go to doc now. (covid)?"
+how do i know if i have corona virus?
+"do you think this corona virus stuff will ever go away? i'm tired of being a prisoner in my own home cause of everything getting cancelled, im not working and i cant volunteer cause of a bad knee and cant lift heavy stuff. so when will this be over?"
+is it necessary to get tested for the corona virus if you arrive back in south africa after visiting zimbabwe and victoria falls as part of a group?
+"i have sinusitis but only show symptoms when the weather changes or i move to a new environment. lately i have experienced sinus irritation, a slight cough and a dry throat. these come and go. should i be worried and go test for covid 19?"
+"i need a referral for testing for covid19. i have been in very close contact with a positive person. i am a healthcare practitioner, it was one of my patients. i just flew to el from ct. so no gp here. ?"
+"should i consult a doctor for pneumonia, tiredness and weakness?"
+"i have shortness of breath and are worried, i don’t have a cough or sore throat, so they will not test me, should i do a private test?"
+can covid-19 be transmitted sexually? can any coronavirus be transmitted sexually?
+"if i leave covid 19 infected product in fridge, will virus die or survive in the fridge?"
+if someone has carona virus and iam passing by him or talking to him without touching he is just breathing. can this virus effect you by just breathing by the effected or u have to be touched or sneezed upon you to get this virus?
+how can walking pneumonia be prevented?
+"hi,my sinuses usually act up during seasonal change (like now). my worry is my symptoms resemble that of covid-19. throat has been a bit irritated, lately nose has been runny. wanted to know how i could get myself tested as i don’t live alone, thanks?"
+anxiety because of the covid 19 news?
+i have a throat problem and headache. what should i do. i strepsils original.
+"i have had a sore throat for a few days, tuesday night it felt like tonsils, yesterday it started becoming scratchy and today i have started coughing and spitting mucus. i do not have a fever, but i get light headed here and there, could it be covid?"
+"i was in contact with someone that tested positive for covid. my last contact was the 16th the 18th he started to feel bad, informed me and i isolated from the rest of my family today is the 25th and none of us have symptoms. should i stay isolated?"
+"my 8 year old and 6 year old woke up yesterday with a bad cough, i've been giving them cough medication, allergex and they are wearing the face masks in the house. please advise how can i get them tested for covid19?"
+what causes shoulder and chest pain ehen i have pneumonia?
+what is the prognosis for pneumonia?
+"are heaviness in the lungs, tinnitus and breathlessness symptoms of pneumonia?"
+"true or false? anyone infected with covid-19 start have diarrhea and increases the chances of death compared to person who just start respiratory symptoms, why?"
+my daughter is displaying the below symptoms: - low grade fever - sore throat - headache - stomach pain - slight running nose do i need to get her tested for coronavirus? i am not aware of any contact with the virus.
+"i am experiencing nasal congestion, sneezing (unaffected by: recent exposure to allergens, exposure to secondhand smoke), sore throat, itchy eyes, ear pressure, nasal drainage, post nasal drip, eye irritation, runny nose, and watery eyes. i am not experie"
+is it necessary to take steroids for mycoplasmic pneumonia?
+"i have a problem with with my chest. pain and a bit short of breath. i cough every now and then, no fever and no headaches. but i am concerned it might be this new coronavirus. ?"
+i travelled to austria on 25 jan 2020 and returned on 31jan 2020. my trip included a stopover in munich. i currently do not show any symptoms listed for coronavirus. should i get lab tested as a precaution and will this test be covered by the medical?
+"if i inhale enough lysol, will it keep me from getting sick from novel coronavirus?"
+hi. i'm suffering with a tight chest and a slight sore throat from the beginning of the week. my symptoms are getting slightly worse as now i am getting a slight fever and body aches. i also feel nauseous at times. could you please advise?
+"i have been to the emergency room at busamed hospital on thursday and was treated for a tummy bug, since then i have developed a fever and body aches and tiredness, i would like to know where can o go to be tested for covid 19?"
+"i am experiencing neck strain, and i have had a weird/burning sensation in my chest. sometimes it leads muscle tension. been going on since friday last week."
+can the coronavirus leave lung scarring? i thought i heard something about it.
+"are patients with diabetes, less likely to survive this awful virus?"
+displaying mild symptoms: slightly sore chest dry throat intermittent dry cough slight headache that comes and goes quickly out of breath temperature is between 37.1-37.5 at bed time the past couple of days don't feel really sick just slightly off?
+suggest remedy for low blood pressure in pneumonia patients
+hello iam have a very painfull pain in my through since this morning?
+suggest treatment for pneumonia
+suggest treatment for pneumonia
+my directors have asked me to take a covid-19 test. but i am not sure if i just have a common cold or if i really need the test. i am monitoring my temperature which has been stable at around 37.3 or so. i need some advice please?
+suggest the best home remedy for pneumonia
+have recently been diagnosed with fibromyalgia and a mannose-binding lectin deficiency (low range). how likely am i to have a life threatening complications should i contract covid19?
+"can taking extra vitamin c every day help prevent you from catching the coronavirus or the flu? if so, how much vitamin c is recommended?"
+suggest treatment for an intense cough caused due to pneumonia
+can pneumonia affect lung function?
+"my daughter of 10 has a high fever 39-40 degrees., sore throat and body aches. i have elderly parents living with us and i am concerned about covid 19. please advise."
+"what should i do if i feel sick, but am not sure if it's coronavirus?"
+my 68 yrs old mom still waiting for corona virus test results. she’s had 101-102 fever for a week ct showed pneumonia she is at the hospital now . does the fact that her fever is not getting better means that her pneumonia isn’t getting better?
+"low grade fevers 99.8, constant trigger points that are tender to touch in trapezius muscles and muscles feel warm to touch, pointer finger, and middle finger on right hand are very sore, sore to open and close hand in those fingers, whats wrong?"
+"i believe i might have covid 19 symtoms. it's possible to get testing done at home to confirm? currently i have soar throat, started last night around 19:30"
+"are children with a respiratory pathology at greater risk for covid-19 (since there are so little cases of children getting the virus, but still their natural history could be an issue)?"
+hi i have a runny nose difficulty breathing even with an asthma pump my head is pounding body aches and chills ?
+"hi my husband has been puking since this morning, has serious vertigo + is off balance. im suspecting food poisoning but want to be sure. i gave him a pill for nausea, which is working. do i still take him to a doctor to check that its nothing else?"
+what is the treatment for pneumonia and bronchitis?
+"can animal byproducts spread coronavirus? do i have to worry about milk, eggs, or fruits?"
+"my daughter has had a high temperature (around 37 degrees), sore throat and headaches for 2 days. she is responding to medication. should i have her tested for covid19?"
+what else besides a mask can i wear to protect myself from catching corona from others?
+i have tonsillitis long time ago and every year i feel allergic problem in my thort. about 7 days i feel same allergic problem in my thort and tongue i have 1 canker sore. i take just anti histamine. but ago i treat this with prednisone. does it covid 19?
+"sore throat, ear ache, headache and a light cough. do i need to worry?"
+what causes excessive tiredness despite taking antibiotics for pneumonia?
+can covid19 cause shortness of breath without a cough?
+re covid 19 i understand the incubation period of covid 19 is up to 14 days. but how long is the contagious period? i have read one is contagious 2 days before showing symptoms. is that true? are you still contagious until symptom free?
+about the ibuprofen and covid 19 should i quit taking it? it’s got me paranoid. the way the media’s been talking about it. i take it everyday for my neck pain and back pain. i can’t take pain pills because they make me nauseas. any insight please
+"i know hand washing (20+ seconds) is best to kill coronavirus, and that if not available use sanitizer of 60%+ alcohol. i thought my sanitizer was but realized it's only 57.6%. been using lots for weeks. i've stopped using it. should i be worried?"
+some doctors think that the combination of hydroxychloroquine and azithromycin may be effective against covid19. they believe this the only option we have until a vaccine becomes available. at least it is worth trying. do you agree?
+suggest treatment for pneumonia while on levofloxacin
+hi i asked a specific question to a dr 2 days ago and haven’t heard anything back. i basically need a referral letter to get a covid test done. it’s that simple. i travelled to cape town but attended an event with over 400 people from all over?
+"i try to control my blood sugars as best i can, but it’s so difficult at times. i’m so scared that because of this, i will die or be seriously ill if i get the virus. i am simply terrified. please help."
+i have a wet cough. stuffy nose and sometimes get a headache. i took my temperature and it is normal but my cough is starting to get worse. painful. someone sneezed right next to me on 14 march.?
+are cough and sore throat symptoms of pneumonia?
+"hi, i have come into contact with someone that tested positive for the virus, what do i need to do? i have been isolating for a week now and developed a sore throat yesterday"
+does a virus cause lesions dry and oily nose
+"hi i am 39 years old and have flu like symptoms as of yesterday. runny nose, sore throat. no fever yet. i returned from germany 19 days ago. should i get tested for cov19?"
+"state officials put temp ban on all group activities & shut down nonessential businesses to curb covid-19 spread. in light of that, would you say hosting a group yoga class in school parking lot is unwise? neighbor is doing that & i'm concerned."
+how will i know if i need to get tested for covid 19?
+"my hba1c isn’t within target, but i try so hard. does that mean that i am likely to end up in hospital, or die, from coronavirus?"
+"is pneumonia associated with light-headedness, blurred vision and shortness of breath?"
+daughter turned 1 yr on 20 march. fever above 38 deg celsius in the last couple months we alternated between 5ml nurofen and 125mg empaped (paracetamol) suppository every 4 hours till temp broke. is nurofen safe now regarding ibuprofen and covid19?
+"i am experiencing sore throat and lightheaded (unaffected by: prolonged standing, exercise, anxiety, dehydration (fluid loss)). i am not experiencing vomiting, nausea, slow or irregular breathing, abdominal discomfort, rapid heart rate, confusion, convuls"
+what symptoms should i look out for in the novel coronavirus pandemic?
+is corno virus 19 can stay on metal and plastic what about the soles of shoes ? would it be nessasary or good idea to take shoes off at door at home and spray with lysol ?
+"hi, i would like to know is the coronavirus one virus or mixed with other viruses as i been told by someone?"
+does my keycare plan cover a flu vaccine shot? and is it necessary to get a shot to help boost my immune system to fight covid-19?
+hi there. my 3 years old daughter had diarrhea for a couple of days and she has a fever without a cough now. can it be covid-19?
+i have a flu that is getting worse and i have returned from the uk at the end of feb and i have been in direct contact with british and brazilian tourists in sa since then. should i get tested for covid-19 or just remain home with my family?
+what must i do if i have been in contact with a covid19 positive person?
+i'm currently have a semi emerging wisdom tooth that is sharp and growing against my inner cheek causing slight discomfort. what can i do to ease the discomfort at home since i can't have the surgery to remove the tooth now due to covid lockdown?
+"hi my throat is sore, and very scratchy, i have also have a cough to accompany this, well the cough started about a week ago, i have no fever. just want to know if this is anyway related to covid 19 my voice is also very hoarse?"
+"swollen tonsils, cough, and feeling slightly feverish."
+how can pneumonia be managed?
+"i have pain/discomfort in my lungs. i don't experience simultaneous on both lungs and it not always at the hame position. i don't have a head nor do i have high temperature. i sneeze and cough maybe once a day. do i have corona, should i get tested?"
+i am on my last repeat for my chronic meds. do i have to come in for a dr appointment on can this be done remotely given the covid-19 lockdown?
+i have a sour throat. i travelled to joburg on 8 march and sat next to a passenger with a face mask and had a running stomach. i now suspect corona infection?
+i would like to enquire is my symptoms are related to covid 19 before going to a testing centre.?
+suggest treatment for pneumonia
+i have ms should i get tested for coronavirus? i have a soar throat for a week off and on
+i have mild asthma which is well controlled if i were to contract covid 19 would i experience any difficulties as can’t seem to find much information on asthma patients who have had the coronavirus many thanks ?
+i am a pregnant pharmacist working in a government hospital. i am in my third trimester. should i take leave until my maternity leave starts due to the coronavirus pandemic? government has not made any recommendations for pregnant healthcare workers
+hi. my children and husband were at the doctor yesterday and he has now informed us he has tested positive for covid19 . he has come home to my 2 babies and mom. how long before we can go for a test?
+"what are my chances of becoming seriously ill or dying from the virus, as i have diabetes? so scared."
+"what’s worse with the coronavirus, type 1 or type 2 diabetes?"
+good morning i have all the symptoms for the coronavirus except a high fewer. i have been in contact with someone (who now also are displaying these symptoms) who are staying with a person who visited india in the last few weeks. should i be worried?
+"pharmacy times, in an article from 2017, states that singulair could help prevent viral pneumonia with influenza and could prevent the infection of alveolar cells deep in the lrt. would this hold true with coronavirus? thank you and god bless!"
+"hi i am a health worker and a chronic asthmatic, is it easier for me to contract corona? will i survive it with my comorbidity? should i ask for special leave during this time? i already feel my sinus blocked, very minor sore throat, seldom dry cough"
+i have a dry cough and a sore throat. i do not have a fever and a slight headache (could be i need more water) i am 4 months pregnant and not sure if i should be tested for corona?
+can an ingrown toenail make your whole foot numb? and if so what can be done at home to stop this from happening? i know a ingrown toenail isn’t a reason to visit a hospital atm with the coronavirus going around.
+"i’ve entered my symptoms into the system & the return i got was that i have either the flu, covid 19, or a cold. should i seek physical medical advice?"
+i am unaware of being in contact with anyone showing covid-19 symptoms. i've only been to the shops yesterday. i've been stressing about the whole pandemic and will seldom go to sleep after 11 each night. could it be lack of sleep or anxiety at play?
+what causes chest pain and cramps after treating pneumonia?
+"is respiratory rehabilitation advisable for shortness of breath in a pneumonia, bronchitis and flu patient?"
+"if i live in close quarters with people who have recently traveled from europe, should i stay away from them in order to lower the risk of catching coronavirus?"
+"because i have type 1 diabetes, does that mean i can’t get the virus just mildly? am i likely to have severe complications? please help."
+does chronic pneumonia have any cure?
+"i have type 1 diabetes and to put it simply, i am living in an anxious state right now, worrying constantly about the coronavirus. my wife is a practice nurse in a gp surgery, and i worry constantly about the risk for us both. i am so scared."
+when is it justified to isolate (not talking about the lock down) for covid-19? which symptoms justifies it?
+the symptoms of covid sound like my asthma symptoms when it flares up. so how would i know the difference?
+"my son has a fever, i am concerned due to the coronavirus ?"
+"is covid-19 airborne? if someone sick was coughing few hours ago and other person come the same location and inhale, what will happen? . if many people wear masks so for what? . although they aren’t sick who wear masks. also, what about wearing gloves?"
+"this morning i woke up with an extremely dry cough that hurt when i tried to inhale deeply (think yoga breath deep). checked temperature never got over 99. sometimes 98.5, 98.7, or 99.1. as the day progressed muscles begin to ache and headache started. alo"
+where can i get tested for corona if i am in the rondebosch area?
+chest is sore and that theres something that needs to be coughed up but nothing there and no overt cough or temperature. no difficulty breathing no other symptoms. only local travel via air 1 week ago. do i need to be worried about covid-19?
+suggest treatment for pneumonia
+suggest treatment for pneumonia
+i've been having the same symptoms as for corona virus. i've had them coming along slowly for 1 week now. i haven't had direct contact with someone who has travelled overseas but i'm worried i've had indirect contact. should i get tested?
+"i have been sick for over a week. i went to my doc and he prescribed me meds. i have been on antibiotics for 3/5 days and i’m not feeling better. i have shortness of breath, tightness in chest, barking cough, dull headache, body ache. please advise."
+what causes right-sided chest pain while having pneumonia?
+"i'm not sure, my temperature is 36.5, i have some chills but not significant but i yawn a lot and my breath is short, feels like i have to breath more, i'm laying down breathing through the nose is easier."
+which is the best exercise in year following treatment with levofloxacin for pneumonia?
+i have pure pressures head aches and coughing persistent ?
+"having type 1 diabetes, doesn’t mean you have low immunity does it? so what is it about it, that makes us more at risk with the virus?"
+are amoxicillin and azithromycin the right medication for pneumonia?
+is persistent coughing sign of pneumonia?
+"should one also cover eyes in addition to covering mouth and nose with mask to avoid exposure to corona virus? lots of people only use masks but that may not provide full protection, right?"
+"i have heart valve disease (leaky heart due to rheumatic fever as a child). never had any symptoms or complications, however, am i at high risk for death due to coronavirus and what can i take before or during early symptoms of the virus?"
+"i have been in frequent close contact with tourists (including people from the usa and germany), doing gin tastings. i have a cough for the past two weeks, should i get tested for covid19 as a safety precaution?"
+i need to check if i have covid-19?
+i have these symptoms and wondering if i should do a covid test diarrhea nausea weakness /fatigue shortness of breath joint n muscle pains pressure in the chest dizziness sweating / and chills i don't have fever but breathing is concerning me most?
+i have been exposed to someone with corona in the last week and a half on a daily basis. what steps do i need to take going forward? should i get tested immediately?
+"was in cape town 2020/03/12 - 2020/03/15 close proximity to sevral overseas tourists 2020/03/20 throat sore and voice gone back (upper middle area) and shoulders hurt shivering, dry cough, headache and lethargic should i go for covid19 testing?"
+"if allegra use is associated with increased risk of viral infections, isn't it dangerous to take it during the coronavirus pandemic?"
+can i catch corona from food that i eat? should i be making sure to cook all my food thoroughly first?
+i have a sore throat and feel very tired. should i be concerned about covid-19?
+can vaccines for coronavirus in domestic pets be modified for humans as a way to have a vaccine for covid-19?
+what is the treatment for tuberculosis and pneumonia?
+how long does it take for pneumonia to be cured?
+"this may sound silly but i’m wondering, if touch something in store that has coronavirus 19 on it and it gets on clothes should we go home wash them soon as possible then shower and new clothes on so it dont get on our stuff at home ?"
+i have covid 19 symptoms?
+can i get a covid 19 test?
+"hi there, i came into contact with somebody on tuesday last week that was later that week tested positive for covid-19. i found this out on friday and straight away went into self quarantine. i am not showing symptoms as yet.?"
+"i was confirmed to have covid-19, i self-isolated for 14 days. my concern is with my 1 year 6 months son nabi who has been caughing. ?"
+should i shave my beard to reduce my chances of contracting coronavirus / covid-19?
+"i am very fearful of the corona virus, if i have a dry cough and headache should i stay indoors and away from others?"
+i am a 20/f. went to the dentist & had a root canal. i also had a abscess was put on purmycin & adco-metrondaz. they made me nauseous. today was the last day of the medications and i didn't take it as i havea fever of 38.3. is it the medication?
+suggest remedies for severe cough due to pneumonia
+"hi, i recently stopped smoking and have inflamed sinuses and since there is a corvid19 pendemic i am worried that these sinuses and runny nose could be linked to coronavirua?"
+"can paracetamol, frisium and mucolite be taken while having symptoms of pneumonia?"
+i heard ace inhibitors might exacerbate coronavirus. i also heard nsaids might do the same. does this mean any common meds could have an unexpected effect during coronavirus?
+"what symptoms would make you think i do not have covid-19. i have a bad cold, but got diarrhea twice, so does diarrhea mean it is not covid?"
+at what temperature range (external temperature) will the covid-19 virus be destroyed? this in relation to (restaurants) cooking food and safety. what does covid stand for?
+is coughing and chest heaviness related to bronchitis or pneumonia?
+"can coronavirus symptoms be mild for some people versus severe? for example, could it just involve being very fatigued, low grade fever for a few days and not the extreme symptoms? or is it always a full blown cold and struggle to breathe?"
+"body aching all of a sudden, head heavy and paining, sneezing, somewhat fever since yesterday."
+can i go for coronavirus testing if my nose is blocked and i have traveled from a high risk country?
+"i came into close contact with someone who just flown back from australia, i have been in self isolation since he landed, am i'm not showing any symptoms (dry cough, fever, sore throat) what is the next protocol? do i go into work?"
+should i shave my beard to reduce my chances of contracting coronavirus / covid-19?
+"does a person get all the covid 19 symptoms all at once eg temperature, cold , tiredness , or we can get any of them eg cold but no temperature?"
+need medication for stomach pain caused due to pneumonia
+suggest treatment for pneumonia
+how can pneumonia be managed while suffering from copd?
+what causes pneumonia?
+suggest treatment for pneumonia
+what is a right central pneumonia?
+"should myself and my wife be sleeping apart at the moment due to the virus, as she is a nurse in a surgery, and i have type 1 diabetes?"
+should i be tested for covid-19? i have a cough and phlegm on my chest as well as headaches. i always get colds and flu that affect my chest
+"what is the best way to quarantine my 22yr old son who travelled by plane recently, has no current symptoms, when in same household as myself and teenaged son?"
+"i'm finding difficult to maintain precisely 6 ft in grocery stores. today, as i was leaving, someone entering the store that was (possibly) 3 ft away was coughing lightly and i took a shower when i got home. i'm a hypochondriac. possible covid-19?"
+"i’m so scared that i will die if i get the coronavirus, due to type1 diabetes?"
+"hi, i arrived from the netherlands on monday morning. no symptoms but have been around my helper. should we get tested?"
+fake news running around? does advil/ibuprofen kickstart the covid-19 into pneumonia?
+can wheezing and some difficulty breathing be symptoms of corona virus? i don’t feel anything else so far and i’ve only felt it a few hours
+"i have been feeling sick for a couple of days now and tried self medication but does not seem to help. i suffer from polycystic kidney disease, low blood pressure, anemic, endometriosis, chronic sinus."
+"prescribed levaquin, azrithomycin and amox for strep pneumonia but having nausea and headaches"
+hi. what medication can i take for sinus and headaches during this time of the virus? thank you.
+what causes pneumonia while using cpap machine?
+"hi i am 39 years old and returned from germany 19 days ago. yesterday i started getting a sore throat, runny nose. today i have sinus pressure and a headache with a blocked nose, throat seems to be improving. should i get tested. if so how?"
+"i’m so scared of the coronavirus with my diabetes, that i’m wondering if my wife should not work in her gp practice? it’s putting us both at major risk isn’t it?"
+"hi. i am a 25 yr healthy, final year medical student. on fri (20th) i developed symptoms: continuous dry cough, headache, a very very sore throat, sore neck and back muscles, and tired. i am now improving. should i be tested for covid19?"
+"i have been experiencing flue symptoms for about 7days, symptoms include: productive cough and running nose. could that be symptoms of corona? my workplace involves working in hospital with patients (children) with respiratory disease and adults."
+suggest treatment for pneumonia
+"if you feel not quite well 3 or 4 evenings in a row,no fever,minor dry cough,little stuffy,maybe scratchy throat very minor,just crummy feeling in general and evenings only (feel fine during the day) could that be a mild case of coronavirus? thanks."
+what is the treatment for herpes and pneumonia?
+"i have mild irritation in my chest but i am not coughing, i just feel a tingling sensation on my thought. i have no fever, no aches should i be worried about covid 19?"
+i have been running a low grade fever for over two weeks. i have three days left of a cefidner prescription. i am still running a low-grade - ranges from 99 to high of 100.7. i have no other symptoms except usual allergies. will blood work show what is
+am i at risk for covid-19 in the united states?
+i got back from israel last monday i am in quarantine my symptoms are tight chest and shortness of breath do i need to have a test? should i be taking any medication?
+"i'm a healthcare worker, seeing walk-in patients and working in emergency department. i have a severe case of flu-like symptoms but no confirmed contact with known covid patients. do my symptoms warrant testing or should i risk spreading my disease?"
+"vomiting, diarrhea, achey, dizzy and weak fever has kept rising and is now at 103.4 any advice?"
+suggest treatment for pneumonia
+nasal congestion and feeling a bit fluey ?
+i am 63 living in jhb and have had a tight chest and sore throat and wet cough for more than a week ?
+i take irbesartan (angiotensin receptor blocker) for uncomplicated hypertension. it increases cell expression of angiotensin receptors (ar’s). covid enters cells via ar’s. should i change my blood pressure meds? thanks
+on an antibiotic amoxicillin 1000mg morning and night?
+headache fever fatigue been in contact with someone with coronavirus do i need to be concerned ?
+my 5 year old son woke up not feeling well. i measured his temperature and mouth reading is 38.3 and armpit is 38.2. he says he’s head is sore and his neck is sore. am scared it may be covid-19?
+"i have a dry cough and sore throat- it's been a week now and the cough seems to be getting worse- no runny nose or fever, sometimes a headache, no shortness of breath...should i get tested for covid19?"
+"how do i know if i have a normal cold or maybe the corona virus. my sinuses are congested and i have a post nasal drip which causes sporadic episodes of dry cough outbreaks. i don’t have a fever, but my body is stiff since i hiked 100km in 4 days.?"
+what causes recurrent cough despite taking antibiotics for pneumonia?
+what are the symptoms of pneumonia?
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADD-ADHD ]
+[ ADHD in Children Health Center ]
+[ ADHD in Children Health Center ]
+[ ADHD in Children Health Center ]
+[ Acne ]
+[ Acne ]
+[ Acne ]
+[ Acne ]
+[ Acne ]
+[ Acne ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Adult Vaccines ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Allergies ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Alzheimers ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Ankylosing Spondylitis ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Anxiety Panic ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Arthritis ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Asthma ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Atrial Fibrillation ]
+[ Autism ]
+[ Autism ]
+[ Autism ]
+[ Autism ]
+[ Autism ]
+[ Autism ]
+[ Autism ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Baby Center ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Back Pain ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Bipolar Disorder ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Birth Control ]
+[ Brain Cancer ]
+[ Brain Cancer ]
+[ Brain Cancer ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Brain and Nervous System ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ Breast Cancer ]
+[ COPD ]
+[ COPD ]
+[ COPD ]
+[ COPD ]
+[ COPD ]
+[ COPD ]
+[ COPD ]
+[ COPD ]
+[ COPD ]
+[ COPD ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Cancer ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Carpal Tunnel Syndrome ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Cervical Cancer ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Children's Health ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cholesterol Management ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Cold and Flu ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Colorectal Cancer ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ Crohns Disease ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ DVT ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Depression ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diabetes ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Diet & Weight Management ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Digestive Disorders ]
+[ Dogs ]
+[ Dogs ]
+[ Dogs ]
+[ Dogs ]
+[ Dogs ]
+[ Dogs ]
+[ Dogs ]
+[ Dogs ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Ear Infection ]
+[ Eating Disorders ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Eczema ]
+[ Endometriosis ]
+[ Endometriosis ]
+[ Endometriosis ]
+[ Endometriosis ]
+[ Endometriosis ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Epilepsy ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Erectile Dysfunction ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Eye Health ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ Fibromyalgia ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ First Aid ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Fitness & Exercise ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food & Recipes ]
+[ Food Poisoning ]
+[ Food Poisoning ]
+[ Food Poisoning ]
+[ Food Poisoning ]
+[ Food Poisoning ]
+[ Food Poisoning ]
+[ Food Poisoning ]
+[ Food Poisoning ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ Genital Herpes ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HIV AIDS ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ HPV/Genital Warts ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Hair Loss ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Balance ]
+[ Health & Sex ]
+[ Health & Sex ]
+[ Health & Sex ]
+[ Health & Sex ]
+[ Health & Sex ]
+[ Health & Sex ]
+[ Health & Sex ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Health A-Z ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Aging ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Healthy Beauty ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Disease ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Failure ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heart Health ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Heartburn/GERD ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ Hepatitis ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ High Blood Pressure ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Infertility and Reproduction ]
+[ Inflammatory Bowel Disease ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Irritable Bowel Syndrome ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Kidney Stones ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Knee Pain ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Leukemia & Lymphoma ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lung Cancer ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Lupus ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Macular Degeneration ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Melanoma / Skin Cancer ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Men's Health ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Menopause ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Mental Health ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Migraine & Headaches ]
+[ Multiple Sclerosis ]
+[ Multiple Sclerosis ]
+[ Multiple Sclerosis ]
+[ Multiple Sclerosis ]
+[ Multiple Sclerosis ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Oral Health ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoarthritis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Osteoporosis ]
+[ Ovarian Cancer ]
+[ Ovarian Cancer ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Pain Management ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Palliative Care ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Pancreatic Cancer ]
+[ Parenting ]
+[ Parkinson's Disease ]
+[ Parkinson's Disease ]
+[ Parkinson's Disease ]
+[ Parkinson's Disease ]
+[ Parkinson's Disease ]
+[ Parkinson's Disease ]
+[ Parkinson's Disease ]
+[ Parkinson's Disease ]
+[ Parkinson's Disease ]
+[ Pets ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Prostate Cancer ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriasis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Psoriatic Arthritis ]
+[ Restless Legs Syndrome ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Rheumatoid Arthritis ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Schizophrenia ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Sexual Conditions ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Shingles ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Skin Problems and Treatments ]
+[ Sleep Apnea ]
+[ Sleep Apnea ]
+[ Sleep Apnea ]
+[ Sleep Apnea ]
+[ Sleep Apnea ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Sleep Disorders ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Smoking Cessation ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stress Management ]
+[ Stroke ]
+[ Stroke ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Substance Abuse and Addiction ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Boys ]
+[ Teen Girls ]
+[ Teen Girls ]
+[ Teen Health ]
+[ Ulcerative Colitis ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Urinary Incontinence OAB ]
+[ Vitamins and Supplements ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Weight Loss & Obesity ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
+[ Women's Health ]
